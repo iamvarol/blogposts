@@ -1,4 +1,4 @@
-SUBJECT_ID;CHARTDATE;TEXT;Gender;Date_of_Birth
+subject_id;date;text;gender;dateOfBirth
 19823;2167-02-25;"Admission Date:  [**2167-2-16**]       Discharge Date:  [**2167-2-24**]
 
 Date of Birth:   [**2099-5-5**]       Sex:  F
