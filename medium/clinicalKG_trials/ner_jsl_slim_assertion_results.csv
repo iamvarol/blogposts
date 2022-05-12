@@ -1,0 +1,646 @@
+,subject_id,chartdate,sentence_id,chunk,begin,end,ner_label,assertion
+0,56565,2168-05-31,0,Atrial fibrillation,0,18,Disease_Syndrome_Disorder,present
+1,56565,2168-05-31,1,Intraventricular conduction delay,83,115,Symptom,present
+2,56565,2168-05-31,1,right bundle-branch block,120,144,Disease_Syndrome_Disorder,present
+3,56565,2168-05-31,2,Non-specific repolarization abnormalities,152,192,Symptom,present
+4,56565,2168-06-12,0,CABG,108,111,Procedure,present
+5,56565,2168-06-12,0,echo,323,326,Test,present
+6,56565,2168-06-12,0,AS,345,346,Disease_Syndrome_Disorder,present
+7,56565,2168-06-12,0,MR,355,356,Test,present
+8,56565,2168-06-12,0,cardiac surgery,396,410,Procedure,present
+9,56565,2168-06-12,0,"hospital
+   course c/b intertriginous rash",413,454,Symptom,present
+10,56565,2168-06-12,1,AVR,481,483,Procedure,present
+11,56565,2168-06-12,1,MVR,486,488,Procedure,present
+12,56565,2168-06-12,1,CABG,495,498,Procedure,present
+13,56565,2168-06-12,2,1st degree AV block,601,619,Disease_Syndrome_Disorder,present
+14,56565,2168-06-12,3,HTN,658,660,Disease_Syndrome_Disorder,present
+15,56565,2168-06-12,3,hyperlipidemia,663,676,Disease_Syndrome_Disorder,present
+16,56565,2168-06-12,3,CAD,700,702,Disease_Syndrome_Disorder,present
+17,56565,2168-06-12,3,CHF,705,707,Disease_Syndrome_Disorder,present
+18,56565,2168-06-12,3,DM2,710,712,Disease_Syndrome_Disorder,present
+19,56565,2168-06-12,3,pna,715,717,Disease_Syndrome_Disorder,present
+20,56565,2168-06-12,3,OSA,731,733,Disease_Syndrome_Disorder,present
+21,56565,2168-06-12,3,obesity,744,750,Disease_Syndrome_Disorder,present
+22,56565,2168-06-12,3,hernia repair,782,794,Procedure,present
+23,56565,2168-06-12,3,stomach surgery,801,815,Procedure,present
+24,56565,2168-06-12,3,volvulus,821,828,Disease_Syndrome_Disorder,present
+25,56565,2168-06-12,4,CXR,926,928,Test,present
+26,56565,2168-06-12,4,moderate-to-severe cardiomegaly,942,972,Disease_Syndrome_Disorder,present
+27,56565,2168-06-12,5,pleural effusions,998,1014,Disease_Syndrome_Disorder,present
+28,56565,2168-06-12,5,"hazy pulmonary
+   vascularity",1044,1072,Symptom,present
+29,56565,2168-06-12,5,"fluid
+   overload",1122,1138,Symptom,present
+30,56565,2168-06-12,8,diminished at bases,1953,1971,Symptom,present
+31,56565,2168-06-12,8,shallow breathing,1974,1990,Symptom,present
+32,56565,2168-06-12,9,"Weak
+   congested cough",1994,2016,Symptom,present
+33,56565,2168-06-12,9,"parasthesias
+   Pain",2240,2259,Symptom,absent
+34,56565,2168-06-12,9,incisional discomfort,2303,2323,Symptom,present
+35,56565,2168-06-12,10,shoulders,2351,2359,Body_Part,present
+36,56565,2168-06-12,10,obese,2362,2366,Disease_Syndrome_Disorder,present
+37,56565,2168-06-12,14,gross LOB with mobility,3141,3163,Symptom,absent
+38,56565,2168-06-12,19,Impaired functional mobility,3443,3470,Symptom,present
+39,56565,2168-06-12,20,Impaired endurance,3481,3498,Symptom,present
+40,56565,2168-06-12,21,Impaired balance,3509,3524,Symptom,present
+41,56565,2168-06-12,25,LOB with mobility,3714,3730,Symptom,absent
+42,56565,2168-06-10,0,AVR,49,51,Procedure,present
+43,56565,2168-06-10,0,pericardial,57,67,Body_Part,present
+44,56565,2168-06-10,0,MV repair,71,79,Procedure,present
+45,56565,2168-06-10,0,ring,87,90,Body_Part,present
+46,56565,2168-06-10,0,CABGx3,94,99,Body_Part,present
+47,56565,2168-06-10,0,LIMA,102,105,Body_Part,present
+48,56565,2168-06-10,0,LAD,110,112,Body_Part,present
+49,56565,2168-06-10,0,SVG,118,120,Body_Part,present
+50,56565,2168-06-10,0,Diag,125,128,Body_Part,present
+51,56565,2168-06-10,0,SVG,131,133,Body_Part,present
+52,56565,2168-06-10,0,PDA,138,140,Body_Part,present
+53,56565,2168-06-10,0,EF,187,188,Test,present
+54,56565,2168-06-10,0,HTN,204,206,Disease_Syndrome_Disorder,present
+55,56565,2168-06-10,0,CAD,236,238,Disease_Syndrome_Disorder,present
+56,56565,2168-06-10,0,CHF,241,243,Disease_Syndrome_Disorder,present
+57,56565,2168-06-10,0,DM Type II,246,255,Disease_Syndrome_Disorder,present
+58,56565,2168-06-10,0,PNA,258,260,Disease_Syndrome_Disorder,present
+59,56565,2168-06-10,0,OSA,277,279,Disease_Syndrome_Disorder,present
+60,56565,2168-06-10,0,Obesity,290,296,Disease_Syndrome_Disorder,present
+61,56565,2168-06-10,0,appendectomy,303,314,Procedure,present
+62,56565,2168-06-10,0,cholecystectomy,321,335,Procedure,present
+63,56565,2168-06-10,0,"hernia
+   repair",342,357,Procedure,present
+64,56565,2168-06-10,0,stomach surgery,364,378,Procedure,present
+65,56565,2168-06-10,21,"Inch
+   CVP",1929,1939,Test,absent
+66,56565,2168-06-10,21,PAP,1963,1965,Test,absent
+67,56565,2168-06-10,21,SvO2,2082,2085,Test,absent
+68,56565,2168-06-10,21,Mixed Venous O2% sat,2095,2114,Test,absent
+69,56565,2168-06-10,21,ABG,3534,3536,Test,present
+70,56565,2168-06-10,21,acute distress,3600,3613,Symptom,absent
+71,56565,2168-06-10,21,CTA,3741,3743,Test,present
+72,56565,2168-06-10,21,"Non-tender
+   Left Extremities",3817,3846,Symptom,present
+73,56565,2168-06-10,21,Edema,3850,3854,Symptom,present
+74,56565,2168-06-10,21,"Pulse - Dorsalis
+   pedis",3884,3908,Test,present
+75,56565,2168-06-10,21,Edema,3943,3947,Symptom,present
+76,56565,2168-06-10,21,"Pulse - Dorsalis
+   pedis",3977,4001,Test,present
+77,56565,2168-06-10,21,EVH ACE wrap,4060,4071,Disease_Syndrome_Disorder,present
+78,56565,2168-06-10,21,groin,4087,4091,Body_Part,present
+79,56565,2168-06-10,21,rash,4098,4101,Symptom,present
+80,56565,2168-06-10,21,breast,4113,4118,Body_Part,present
+81,56565,2168-06-10,21,[image002.jpg],4395,4408,Test,hypothetical
+82,56565,2168-06-10,21,WBC,4954,4956,Test,hypothetical
+83,56565,2168-06-10,21,Hct,4985,4987,Test,present
+84,56565,2168-06-10,21,Plt,5032,5034,Test,present
+85,56565,2168-06-10,21,Creatinine,5057,5066,Test,hypothetical
+86,56565,2168-06-10,21,TCO2,5092,5095,Test,hypothetical
+87,56565,2168-06-10,21,Glucose,5130,5136,Test,hypothetical
+88,56565,2168-06-10,21,PT,5187,5188,Test,hypothetical
+89,56565,2168-06-10,21,PTT,5192,5194,Test,present
+90,56565,2168-06-10,21,INR:14.3/31.1/1.2,5198,5214,Test,hypothetical
+91,56565,2168-06-10,21,Fibrinogen:182,5217,5230,Test,hypothetical
+92,56565,2168-06-10,21,Lactic,5239,5244,Test,hypothetical
+93,56565,2168-06-10,21,CORONARY ARTERY BYPASS GRAFT,5305,5332,Disease_Syndrome_Disorder,present
+94,56565,2168-06-10,21,CABG,5335,5338,Procedure,hypothetical
+95,56565,2168-06-10,21,Pain,5380,5383,Symptom,hypothetical
+96,56565,2168-06-10,23,PT,5601,5602,Test,absent
+97,56565,2168-06-10,25,Mild anemia,5769,5779,Disease_Syndrome_Disorder,present
+98,56565,2168-06-10,26,Chest tube,5910,5919,Body_Part,present
+99,56565,2168-06-10,26,pleural,5923,5929,Body_Part,present
+100,56565,2168-06-10,26,Chest tube,5933,5942,Body_Part,present
+101,56565,2168-06-10,26,mediastinal,5949,5959,Body_Part,present
+102,56565,2168-06-10,26,CXR,6012,6014,Test,present
+103,56565,2168-06-10,26,CT surgery,6050,6059,Procedure,present
+104,56565,2168-06-10,26,Insufficiency / Post-op,6106,6128,Symptom,present
+105,56565,2168-06-10,26,DVT,6427,6429,Disease_Syndrome_Disorder,present
+106,56565,2168-06-10,26,critically ill,6675,6688,Symptom,present
+107,56565,2168-06-12,0,AVR,59,61,Procedure,present
+108,56565,2168-06-12,0,pericardial,67,77,Body_Part,present
+109,56565,2168-06-12,0,MV repair,81,89,Procedure,present
+110,56565,2168-06-12,0,ring,97,100,Body_Part,present
+111,56565,2168-06-12,0,CABGx3,104,109,Procedure,present
+112,56565,2168-06-12,0,LIMA,112,115,Body_Part,present
+113,56565,2168-06-12,0,LAD,120,122,Body_Part,present
+114,56565,2168-06-12,0,SVG,128,130,Body_Part,present
+115,56565,2168-06-12,0,Diag,135,138,Body_Part,present
+116,56565,2168-06-12,0,SVG,141,143,Body_Part,present
+117,56565,2168-06-12,0,PDA,148,150,Body_Part,present
+118,56565,2168-06-12,0,EF,197,198,Test,present
+119,56565,2168-06-12,0,HTN,214,216,Disease_Syndrome_Disorder,present
+120,56565,2168-06-12,0,CAD,246,248,Disease_Syndrome_Disorder,present
+121,56565,2168-06-12,0,CHF,251,253,Disease_Syndrome_Disorder,present
+122,56565,2168-06-12,0,DM Type II,256,265,Disease_Syndrome_Disorder,present
+123,56565,2168-06-12,0,OSA,287,289,Disease_Syndrome_Disorder,present
+124,56565,2168-06-12,0,Obesity,300,306,Disease_Syndrome_Disorder,present
+125,56565,2168-06-12,0,appendectomy,313,324,Procedure,present
+126,56565,2168-06-12,0,cholecystectomy,331,345,Procedure,present
+127,56565,2168-06-12,0,"hernia
+   repair",352,367,Procedure,present
+128,56565,2168-06-12,0,stomach surgery,374,388,Procedure,present
+129,56565,2168-06-12,2,CT,838,839,Test,present
+130,56565,2168-06-12,3,Albumin,1004,1010,Test,present
+131,56565,2168-06-12,4,Albumin,1034,1040,Test,present
+132,56565,2168-06-12,22,AVB,1482,1484,Disease_Syndrome_Disorder,present
+133,56565,2168-06-12,25,UA,1682,1683,Test,present
+134,56565,2168-06-12,25,culture,1689,1695,Test,present
+135,56565,2168-06-12,25,AVR,1760,1762,Procedure,present
+136,56565,2168-06-12,25,pericardial,1768,1778,Body_Part,present
+137,56565,2168-06-12,25,MV repair,1782,1790,Procedure,present
+138,56565,2168-06-12,25,ring,1798,1801,Body_Part,present
+139,56565,2168-06-12,25,CABGx3,1805,1810,Body_Part,present
+140,56565,2168-06-12,25,LIMA,1813,1816,Body_Part,present
+141,56565,2168-06-12,25,LAD,1821,1823,Body_Part,present
+142,56565,2168-06-12,25,SVG,1829,1831,Body_Part,present
+143,56565,2168-06-12,25,Diag,1836,1839,Body_Part,present
+144,56565,2168-06-12,25,SVG,1842,1844,Body_Part,present
+145,56565,2168-06-12,25,PDA,1849,1851,Body_Part,present
+146,56565,2168-06-12,27,PAP,2666,2668,Test,hypothetical
+147,56565,2168-06-12,27,ABG,4010,4012,Test,hypothetical
+148,56565,2168-06-12,27,acute distress,4076,4089,Symptom,hypothetical
+149,56565,2168-06-12,27,B)basilar crackles,4229,4246,Symptom,hypothetical
+150,56565,2168-06-12,27,Non-tender,4304,4313,Symptom,hypothetical
+151,56565,2168-06-12,27,Bowel,4316,4320,Body_Part,hypothetical
+152,56565,2168-06-12,27,Edema,4359,4363,Symptom,hypothetical
+153,56565,2168-06-12,27,"Pulse - Dorsalis
+   pedis",4393,4417,Test,present
+154,56565,2168-06-12,27,Edema,4452,4456,Symptom,hypothetical
+155,56565,2168-06-12,27,"Pulse - Dorsalis
+   pedis",4486,4510,Test,present
+156,56565,2168-06-12,27,[image002.jpg],4839,4852,Test,present
+157,56565,2168-06-12,27,WBC,5400,5402,Test,present
+158,56565,2168-06-12,27,Hct,5431,5433,Test,present
+159,56565,2168-06-12,27,Plt,5486,5488,Test,present
+160,56565,2168-06-12,27,Creatinine,5511,5520,Test,present
+161,56565,2168-06-12,27,TCO2,5546,5549,Test,present
+162,56565,2168-06-12,27,Glucose,5578,5584,Test,present
+163,56565,2168-06-12,27,PT,5635,5636,Test,present
+164,56565,2168-06-12,27,PTT,5640,5642,Test,present
+165,56565,2168-06-12,27,INR:15.4/36.2/1.4,5646,5662,Test,present
+166,56565,2168-06-12,27,Fibrinogen:182,5665,5678,Test,present
+167,56565,2168-06-12,27,Lactic,5687,5692,Test,present
+168,56565,2168-06-12,27,Ca:9.1,5714,5719,Test,present
+169,56565,2168-06-12,27,Mg:2.0,5728,5733,Test,present
+170,56565,2168-06-12,27,PO4:3.2,5742,5748,Test,present
+171,56565,2168-06-12,27,Assessment,5759,5768,Test,present
+172,56565,2168-06-12,27,"Plan
+   IMPAIRED SKIN INTEGRITY",5774,5804,Test,present
+173,56565,2168-06-12,27,CORONARY ARTERY BYPASS GRAFT,5807,5834,Test,present
+174,56565,2168-06-12,27,CABG,5837,5840,Procedure,present
+175,56565,2168-06-12,27,HD27,5867,5870,Test,present
+176,56565,2168-06-12,27,AVR,5899,5901,Procedure,present
+177,56565,2168-06-12,27,pericardial,5907,5917,Body_Part,present
+178,56565,2168-06-12,27,MV repair,5921,5929,Procedure,present
+179,56565,2168-06-12,27,CABGx3,5944,5949,Test,present
+180,56565,2168-06-12,27,LIMA to LAD,5952,5962,Test,present
+181,56565,2168-06-12,27,SVG to Diag,5968,5978,Test,present
+182,56565,2168-06-12,27,SVG to PDA,5981,5990,Disease_Syndrome_Disorder,present
+183,56565,2168-06-12,27,Asystole under pacer,6004,6023,Disease_Syndrome_Disorder,present
+184,56565,2168-06-12,28,AVB,6058,6060,Disease_Syndrome_Disorder,present
+185,56565,2168-06-12,29,PCT,6150,6152,Test,hypothetical
+186,56565,2168-06-12,33,>1st degree AVB,6279,6293,Disease_Syndrome_Disorder,present
+187,56565,2168-06-12,34,RCAF,6320,6323,Test,absent
+188,56565,2168-06-12,34,AF,6362,6363,Disease_Syndrome_Disorder,present
+189,56565,2168-06-12,38,CXR,6456,6458,Test,present
+190,56565,2168-06-12,39,overload,6488,6495,Disease_Syndrome_Disorder,present
+191,56565,2168-06-12,43,SN A/C,6766,6771,Body_Part,present
+192,56565,2168-06-12,44,cultures,6895,6902,Test,present
+193,56565,2168-06-12,44,Pan CXd,6905,6911,Test,present
+194,56565,2168-06-12,45,Blood CXs PND,6924,6936,Symptom,present
+195,56565,2168-06-12,46,WBC ct,6942,6947,Test,present
+196,56565,2168-06-12,48,CXR,7083,7085,Test,hypothetical
+197,56565,2168-06-12,49,Hyponatremia,7143,7154,Disease_Syndrome_Disorder,present
+198,56565,2168-06-12,50,CT surgery,7177,7186,Procedure,present
+199,56565,2168-06-12,50,DVT,7439,7441,Disease_Syndrome_Disorder,present
+200,56565,2168-06-12,0,Coronary artery bypass graft,0,27,Procedure,present
+201,56565,2168-06-12,0,CABG,30,33,Procedure,present
+202,56565,2168-06-12,1,WBC,83,85,Test,present
+203,56565,2168-06-12,6,Pedal pulses palp,433,449,Body_Part,present
+204,56565,2168-06-12,7,sternal,453,459,Body_Part,present
+205,56565,2168-06-12,7,tube,476,479,Body_Part,present
+206,56565,2168-06-12,7,drainage,498,505,Symptom,absent
+207,56565,2168-06-12,9,Pain,535,538,Symptom,present
+208,56565,2168-06-12,10,Lungs,561,565,Body_Part,present
+209,56565,2168-06-12,10,crackles,572,579,Symptom,present
+210,56565,2168-06-12,10,bilat bases,584,594,Body_Part,present
+211,56565,2168-06-12,12,pain,648,651,Symptom,present
+212,56565,2168-06-12,17,nose,874,877,Body_Part,present
+213,56565,2168-06-12,18,Pain,918,921,Symptom,present
+214,56565,2168-06-12,26,Pain,1274,1277,Symptom,present
+215,56565,2168-06-12,28,groin folds,1383,1393,Body_Part,present
+216,56565,2168-06-12,28,chest,1401,1405,Body_Part,present
+217,56565,2168-06-12,28,red,1412,1414,Symptom,present
+218,56565,2168-06-12,28,excoriated  areas,1417,1433,Symptom,present
+219,56565,2168-06-12,29,Painful,1437,1443,Symptom,present
+220,56565,2168-06-12,30,back,1456,1459,Body_Part,absent
+221,56565,2168-06-12,30,buttocks,1465,1472,Body_Part,absent
+222,56565,2168-06-12,36,Wound,1764,1768,Symptom,present
+223,56565,2168-06-12,38,surgi-bra d/t breakdown,1808,1830,Symptom,absent
+224,56565,2168-06-12,38,"chest
+   wall",1835,1847,Body_Part,present
+225,56565,2168-06-13,0,AVR,87,89,Procedure,present
+226,56565,2168-06-13,0,pericardial,95,105,Body_Part,present
+227,56565,2168-06-13,0,MV repair,109,117,Procedure,present
+228,56565,2168-06-13,0,ring,125,128,Body_Part,present
+229,56565,2168-06-13,0,CABGx3,132,137,Procedure,present
+230,56565,2168-06-13,0,LIMA,140,143,Body_Part,present
+231,56565,2168-06-13,0,LAD,148,150,Body_Part,present
+232,56565,2168-06-13,0,SVG,156,158,Body_Part,present
+233,56565,2168-06-13,0,Diag,163,166,Body_Part,present
+234,56565,2168-06-13,0,SVG,169,171,Body_Part,present
+235,56565,2168-06-13,0,PDA,176,178,Body_Part,present
+236,56565,2168-06-13,0,EF,225,226,Test,present
+237,56565,2168-06-13,0,HTN,242,244,Disease_Syndrome_Disorder,present
+238,56565,2168-06-13,0,CAD,274,276,Disease_Syndrome_Disorder,present
+239,56565,2168-06-13,0,CHF,279,281,Disease_Syndrome_Disorder,present
+240,56565,2168-06-13,0,DM Type II,284,293,Disease_Syndrome_Disorder,present
+241,56565,2168-06-13,0,OSA,315,317,Disease_Syndrome_Disorder,present
+242,56565,2168-06-13,0,Obesity,328,334,Disease_Syndrome_Disorder,present
+243,56565,2168-06-13,0,appendectomy,341,352,Procedure,present
+244,56565,2168-06-13,0,cholecystectomy,359,373,Procedure,present
+245,56565,2168-06-13,0,"hernia
+   repair",380,395,Procedure,present
+246,56565,2168-06-13,0,stomach surgery,402,416,Procedure,present
+247,56565,2168-06-13,2,CT,866,867,Test,present
+248,56565,2168-06-13,3,Albumin,1003,1009,Test,present
+249,56565,2168-06-13,4,Albumin,1033,1039,Test,present
+250,56565,2168-06-13,22,AVB,1481,1483,Disease_Syndrome_Disorder,present
+251,56565,2168-06-13,25,UA,1681,1682,Test,present
+252,56565,2168-06-13,25,culture,1688,1694,Test,present
+253,56565,2168-06-13,25,AVR,1759,1761,Procedure,present
+254,56565,2168-06-13,25,pericardial,1767,1777,Body_Part,present
+255,56565,2168-06-13,25,MV repair,1781,1789,Procedure,present
+256,56565,2168-06-13,25,ring,1797,1800,Body_Part,present
+257,56565,2168-06-13,25,CABGx3,1804,1809,Body_Part,present
+258,56565,2168-06-13,25,LIMA,1812,1815,Body_Part,present
+259,56565,2168-06-13,25,LAD,1820,1822,Body_Part,present
+260,56565,2168-06-13,25,SVG,1828,1830,Body_Part,present
+261,56565,2168-06-13,25,Diag,1835,1838,Body_Part,present
+262,56565,2168-06-13,25,SVG,1841,1843,Body_Part,present
+263,56565,2168-06-13,25,PDA,1848,1850,Body_Part,present
+264,56565,2168-06-13,25,"Paced
+   Wgt",2542,2553,Test,present
+265,56565,2168-06-13,27,PAP,2643,2645,Test,hypothetical
+266,56565,2168-06-13,27,ABG,3987,3989,Test,hypothetical
+267,56565,2168-06-13,27,acute distress,4053,4066,Symptom,hypothetical
+268,56565,2168-06-13,27,B)basilar crackles,4206,4223,Symptom,hypothetical
+269,56565,2168-06-13,27,Non-tender,4281,4290,Symptom,hypothetical
+270,56565,2168-06-13,27,Bowel,4293,4297,Body_Part,hypothetical
+271,56565,2168-06-13,27,Edema,4336,4340,Symptom,hypothetical
+272,56565,2168-06-13,27,"Pulse - Dorsalis
+   pedis",4370,4394,Test,present
+273,56565,2168-06-13,27,Edema,4429,4433,Symptom,hypothetical
+274,56565,2168-06-13,27,"Pulse - Dorsalis
+   pedis",4463,4487,Test,present
+275,56565,2168-06-13,27,[image002.jpg],4816,4829,Test,present
+276,56565,2168-06-13,27,WBC,5377,5379,Test,present
+277,56565,2168-06-13,27,Hct,5408,5410,Test,present
+278,56565,2168-06-13,27,Plt,5463,5465,Test,present
+279,56565,2168-06-13,27,Creatinine,5488,5497,Test,present
+280,56565,2168-06-13,27,TCO2,5523,5526,Test,present
+281,56565,2168-06-13,27,Glucose,5555,5561,Test,present
+282,56565,2168-06-13,27,PT,5612,5613,Test,present
+283,56565,2168-06-13,27,PTT,5617,5619,Test,present
+284,56565,2168-06-13,27,INR:15.4/36.2/1.4,5623,5639,Test,present
+285,56565,2168-06-13,27,Fibrinogen:182,5642,5655,Test,present
+286,56565,2168-06-13,27,Lactic,5664,5669,Test,present
+287,56565,2168-06-13,27,Ca:9.1,5691,5696,Test,present
+288,56565,2168-06-13,27,Mg:2.0,5705,5710,Test,present
+289,56565,2168-06-13,27,PO4:3.2,5719,5725,Test,present
+290,56565,2168-06-13,27,Assessment,5736,5745,Test,present
+291,56565,2168-06-13,27,"Plan
+   IMPAIRED SKIN INTEGRITY",5751,5781,Test,present
+292,56565,2168-06-13,27,CORONARY ARTERY BYPASS GRAFT,5784,5811,Test,present
+293,56565,2168-06-13,27,CABG,5814,5817,Procedure,present
+294,56565,2168-06-13,27,HD27,5844,5847,Test,present
+295,56565,2168-06-13,27,AVR,5876,5878,Procedure,present
+296,56565,2168-06-13,27,pericardial,5884,5894,Body_Part,present
+297,56565,2168-06-13,27,MV repair,5898,5906,Procedure,present
+298,56565,2168-06-13,27,CABGx3,5921,5926,Test,present
+299,56565,2168-06-13,27,LIMA to LAD,5929,5939,Test,present
+300,56565,2168-06-13,27,SVG to Diag,5945,5955,Test,present
+301,56565,2168-06-13,27,SVG to PDA,5958,5967,Disease_Syndrome_Disorder,present
+302,56565,2168-06-13,27,Asystole under pacer,5981,6000,Disease_Syndrome_Disorder,present
+303,56565,2168-06-13,28,AVB,6035,6037,Disease_Syndrome_Disorder,present
+304,56565,2168-06-13,29,PCT,6127,6129,Test,hypothetical
+305,56565,2168-06-13,33,>1st degree AVB,6256,6270,Disease_Syndrome_Disorder,present
+306,56565,2168-06-13,34,RCAF,6297,6300,Test,absent
+307,56565,2168-06-13,34,AF,6339,6340,Disease_Syndrome_Disorder,present
+308,56565,2168-06-13,38,CXR,6433,6435,Test,present
+309,56565,2168-06-13,39,overload,6465,6472,Disease_Syndrome_Disorder,present
+310,56565,2168-06-13,43,SN A/C,6743,6748,Body_Part,present
+311,56565,2168-06-13,44,cultures,6872,6879,Test,present
+312,56565,2168-06-13,44,Pan CXd,6882,6888,Test,present
+313,56565,2168-06-13,45,Blood CXs PND,6901,6913,Symptom,present
+314,56565,2168-06-13,46,WBC ct,6919,6924,Test,present
+315,56565,2168-06-13,48,CXR,7087,7089,Test,hypothetical
+316,56565,2168-06-13,49,Hyponatremia,7147,7158,Disease_Syndrome_Disorder,present
+317,56565,2168-06-13,50,CT surgery,7181,7190,Procedure,present
+318,56565,2168-06-13,50,DVT,7443,7445,Disease_Syndrome_Disorder,present
+319,56565,2168-06-14,0,Coronary artery bypass graft,0,27,Procedure,present
+320,56565,2168-06-14,0,CABG,30,33,Procedure,present
+321,56565,2168-06-14,5,Pedal pulses palp,278,294,Body_Part,present
+322,56565,2168-06-14,6,sternal,298,304,Body_Part,present
+323,56565,2168-06-14,6,tube,321,324,Body_Part,present
+324,56565,2168-06-14,6,drainage,343,350,Symptom,absent
+325,56565,2168-06-14,8,Pain,379,382,Symptom,present
+326,56565,2168-06-14,9,Lungs diminished bilat bases,406,433,Symptom,present
+327,56565,2168-06-14,12,pain,506,509,Symptom,present
+328,56565,2168-06-14,16,Wound,672,676,Symptom,present
+329,56565,2168-06-14,16,groin,686,690,Body_Part,present
+330,56565,2168-06-14,17,PTT,730,732,Test,present
+331,56565,2168-06-14,18,good cough,807,816,Symptom,present
+332,56565,2168-06-14,20,pacing noted overnoc,901,920,Symptom,absent
+333,56565,2168-06-14,22,snoring,1036,1042,Symptom,absent
+334,56565,2168-06-14,23,PTT therapeutic,1079,1093,Test,present
+335,56565,2168-06-14,27,Pain,1231,1234,Symptom,present
+336,56565,2168-06-14,30,PTT,1372,1374,Test,present
+337,56565,2168-06-14,31,groin folds,1433,1443,Body_Part,present
+338,56565,2168-06-14,31,chest,1451,1455,Body_Part,present
+339,56565,2168-06-14,31,red,1462,1464,Symptom,present
+340,56565,2168-06-14,31,excoriated  areas,1467,1483,Symptom,present
+341,56565,2168-06-14,32,Painful,1487,1493,Symptom,present
+342,56565,2168-06-14,33,back,1506,1509,Body_Part,absent
+343,56565,2168-06-14,33,buttocks,1515,1522,Body_Part,absent
+344,56565,2168-06-14,39,Rash,1792,1795,Symptom,present
+345,56565,2168-06-14,41,Wound,1902,1906,Symptom,present
+346,56565,2168-06-14,43,surgi-bra d/t breakdown,1946,1968,Symptom,absent
+347,56565,2168-06-14,43,"chest
+   wall",1973,1985,Body_Part,present
+348,56565,2168-06-14,44,holding bowel regimen,1998,2018,Procedure,possible
+349,56565,2168-06-09,0,AVR,4,6,Procedure,present
+350,56565,2168-06-09,0,"21 pericardial), MV repair",9,34,Procedure,present
+351,56565,2168-06-09,0,ring,42,45,Body_Part,present
+352,56565,2168-06-09,0,CABGx3,49,54,Body_Part,present
+353,56565,2168-06-09,0,LIMA,57,60,Body_Part,present
+354,56565,2168-06-09,0,LAD,65,67,Body_Part,present
+355,56565,2168-06-09,0,SVG,73,75,Body_Part,present
+356,56565,2168-06-09,0,Diag,80,83,Body_Part,present
+357,56565,2168-06-09,0,SVG,86,88,Body_Part,present
+358,56565,2168-06-09,0,PDA,93,95,Body_Part,present
+359,56565,2168-06-09,1,Pt extubated,115,126,Procedure,present
+360,56565,2168-06-09,5,Coronary artery bypass graft,283,310,Procedure,present
+361,56565,2168-06-09,5,CABG,313,316,Procedure,present
+362,56565,2168-06-09,8,ectopy,451,456,Symptom,absent
+363,56565,2168-06-09,9,AV block,500,507,Disease_Syndrome_Disorder,present
+364,56565,2168-06-09,10,Svo2,522,525,Test,present
+365,56565,2168-06-09,13,LS,581,582,Body_Part,present
+366,56565,2168-06-09,16,CT,677,678,Test,present
+367,56565,2168-06-09,16,"moderate amount of
+   thins serousanginous fluid",689,736,Symptom,present
+368,56565,2168-06-09,16,airleak,742,748,Symptom,absent
+369,56565,2168-06-09,17,hypoactive BS,760,772,Disease_Syndrome_Disorder,present
+370,56565,2168-06-09,21,Glucoses,867,874,Test,present
+371,56565,2168-06-09,22,c/o Incisional pain,896,914,Symptom,present
+372,56565,2168-06-09,0,"HD25
+   [**6-9**] POD 1
+   s/p AVR",17,50,Procedure,present
+373,56565,2168-06-09,0,pericardial,56,66,Body_Part,present
+374,56565,2168-06-09,0,MV repair,70,78,Procedure,present
+375,56565,2168-06-09,0,ring,86,89,Body_Part,present
+376,56565,2168-06-09,0,CABGx3,93,98,Body_Part,present
+377,56565,2168-06-09,0,LIMA,101,104,Body_Part,present
+378,56565,2168-06-09,0,LAD,109,111,Body_Part,present
+379,56565,2168-06-09,0,SVG,117,119,Body_Part,present
+380,56565,2168-06-09,0,Diag,124,127,Body_Part,present
+381,56565,2168-06-09,0,SVG,130,132,Body_Part,present
+382,56565,2168-06-09,0,PDA,137,139,Body_Part,present
+383,56565,2168-06-09,0,EF,186,187,Test,present
+384,56565,2168-06-09,0,HTN,203,205,Disease_Syndrome_Disorder,present
+385,56565,2168-06-09,0,CAD,235,237,Disease_Syndrome_Disorder,present
+386,56565,2168-06-09,0,CHF,240,242,Disease_Syndrome_Disorder,present
+387,56565,2168-06-09,0,DM Type II,245,254,Disease_Syndrome_Disorder,present
+388,56565,2168-06-09,0,PNA,257,259,Disease_Syndrome_Disorder,present
+389,56565,2168-06-09,0,OSA,276,278,Disease_Syndrome_Disorder,present
+390,56565,2168-06-09,0,Obesity,289,295,Disease_Syndrome_Disorder,present
+391,56565,2168-06-09,0,appendectomy,302,313,Procedure,present
+392,56565,2168-06-09,0,cholecystectomy,320,334,Procedure,present
+393,56565,2168-06-09,0,"hernia
+   repair",341,356,Procedure,present
+394,56565,2168-06-09,0,stomach surgery,363,377,Procedure,present
+395,56565,2168-06-09,18,EKG,1278,1280,Test,hypothetical
+396,56565,2168-06-09,18,EXTUBATION,1407,1416,Procedure,present
+397,56565,2168-06-09,20,PAP,2368,2370,Test,present
+398,56565,2168-06-09,20,SvO2,2489,2492,Test,present
+399,56565,2168-06-09,20,Mixed Venous O2%,2502,2517,Test,present
+400,56565,2168-06-09,20,"CPAP/PSV
+   Vt",3645,3658,Test,present
+401,56565,2168-06-09,20,"Physical Examination
+   Labs",3927,3954,Test,present
+402,56565,2168-06-09,20,Radiology,3958,3966,Test,present
+403,56565,2168-06-09,20,[image002.jpg],4112,4125,Test,present
+404,56565,2168-06-09,20,WBC,4670,4672,Test,hypothetical
+405,56565,2168-06-09,20,Hct,4701,4703,Test,hypothetical
+406,56565,2168-06-09,20,Plt,4746,4748,Test,hypothetical
+407,56565,2168-06-09,20,Creatinine,4772,4781,Test,hypothetical
+408,56565,2168-06-09,20,TCO2,4800,4803,Test,hypothetical
+409,56565,2168-06-09,20,Glucose,4844,4850,Test,hypothetical
+410,56565,2168-06-09,20,PT,4901,4902,Test,hypothetical
+411,56565,2168-06-09,20,PTT,4906,4908,Test,hypothetical
+412,56565,2168-06-09,20,INR:17.1/44.9/1.5,4912,4928,Test,hypothetical
+413,56565,2168-06-09,20,Fibrinogen:182,4931,4944,Test,hypothetical
+414,56565,2168-06-09,20,Lactic,4953,4958,Test,hypothetical
+415,56565,2168-06-09,20,Mg:2.0,4980,4985,Test,hypothetical
+416,56565,2168-06-09,20,Assessment,4996,5005,Test,hypothetical
+417,56565,2168-06-09,20,CORONARY ARTERY BYPASS GRAFT,5019,5046,Disease_Syndrome_Disorder,present
+418,56565,2168-06-09,20,CABG,5049,5052,Procedure,hypothetical
+419,56565,2168-06-09,20,Pain,5094,5097,Symptom,hypothetical
+420,56565,2168-06-09,20,Statins,5157,5163,Test,hypothetical
+421,56565,2168-06-09,20,Post-op Shock,5166,5178,Test,hypothetical
+422,56565,2168-06-09,20,Epi,5184,5186,Test,hypothetical
+423,56565,2168-06-09,20,SvO2,5258,5261,Test,hypothetical
+424,56565,2168-06-09,21,Extubate,5278,5285,Procedure,present
+425,56565,2168-06-09,21,extubation,5303,5312,Procedure,present
+426,56565,2168-06-09,23,Mod anemia,5480,5489,Disease_Syndrome_Disorder,present
+427,56565,2168-06-09,24,cultures,5567,5574,Test,present
+428,56565,2168-06-09,24,Vanco periop,5577,5588,Test,present
+429,56565,2168-05-24,1,greater saphenous vein,182,203,Body_Part,possible
+430,56565,2168-05-24,1,EKG CHANGES,245,255,Test,present
+431,56565,2168-05-24,2,PLEURAL EFFUSION\CARDIAC CATH,257,285,Procedure,present
+432,56565,2168-05-24,2,CAD,440,442,Disease_Syndrome_Disorder,present
+433,56565,2168-05-24,2,CHF,445,447,Disease_Syndrome_Disorder,present
+434,56565,2168-05-24,2,"valve
+  replacement/CABG",480,503,Test,present
+435,56565,2168-05-24,3,greater saphenous vein,558,579,Body_Part,present
+436,56565,2168-05-24,3,bypass surgery,585,598,Procedure,present
+437,56565,2168-05-24,3,lower extremity,745,759,Body_Part,absent
+438,56565,2168-05-24,3,venous duplex,761,773,Test,present
+439,56565,2168-05-24,4,Preop CABG,787,796,Procedure,present
+440,56565,2168-05-24,5,Duplex evaluation,812,828,Test,present
+441,56565,2168-05-24,5,lower extremity veins,857,877,Body_Part,present
+442,56565,2168-05-24,6,greater saphenous veins,885,907,Body_Part,present
+443,56565,2168-05-24,6,groin,929,933,Body_Part,present
+444,56565,2168-05-24,6,ankle,942,946,Body_Part,present
+445,56565,2168-05-24,7,greater saphenous,977,993,Body_Part,present
+446,56565,2168-05-24,7,thigh,1031,1035,Body_Part,present
+447,56565,2168-05-24,7,calf,1061,1064,Body_Part,present
+448,56565,2168-05-24,8,greater saphenous,1077,1093,Body_Part,present
+449,56565,2168-05-24,8,thigh,1131,1135,Body_Part,present
+450,56565,2168-05-24,8,calf,1160,1163,Body_Part,present
+451,56565,2168-05-24,9,greater saphenous veins,1198,1220,Body_Part,present
+452,56565,2168-05-23,0,PA,32,33,Test,present
+453,56565,2168-05-23,0,EKG CHANGES,205,215,Test,present
+454,56565,2168-05-23,1,PLEURAL EFFUSION\CARDIAC CATH,217,245,Procedure,present
+455,56565,2168-05-23,1,CHF,397,399,Disease_Syndrome_Disorder,present
+456,56565,2168-05-23,1,CAD,402,404,Disease_Syndrome_Disorder,present
+457,56565,2168-05-23,1,"AVR
+  replacement/CABG",457,478,Procedure,present
+458,56565,2168-05-23,2,cardiopulmonary process,531,553,Body_Part,present
+459,56565,2168-05-23,2,Moderate cardiomegaly,681,701,Disease_Syndrome_Disorder,present
+460,56565,2168-05-23,2,"moderate increase in diameter of the pulmonary
+  vasculature",704,763,Symptom,present
+461,56565,2168-05-23,2,hemidiaphragm,789,801,Body_Part,absent
+462,56565,2168-05-23,3,focal pulmonary consolidation,841,869,Symptom,absent
+463,56565,2168-05-23,4,CHF,1009,1011,Disease_Syndrome_Disorder,present
+464,56565,2168-05-23,4,CAD,1017,1019,Disease_Syndrome_Disorder,present
+465,56565,2168-05-23,4,CABG,1033,1036,Procedure,present
+466,56565,2168-05-23,5,"continued moderate
+ cardiomegaly",1101,1132,Disease_Syndrome_Disorder,present
+467,56565,2168-05-23,5,"elevation of pulmonary
+ venous pressure",1172,1210,Symptom,present
+468,56565,2168-05-23,6,Elevation of the right hemidiaphragmatic contour,1214,1261,Symptom,present
+469,56565,2168-05-23,7,definite pleural effusion,1277,1301,Disease_Syndrome_Disorder,absent
+470,56565,2168-05-23,7,"acute
+ focal pneumonia",1346,1367,Disease_Syndrome_Disorder,absent
+471,18357,2184-09-16,0,Atrial fibrillation,0,18,Disease_Syndrome_Disorder,present
+472,18357,2184-09-14,0,Atrial fibrillation,0,18,Disease_Syndrome_Disorder,present
+473,18357,2184-09-14,0,moderate ventricular response,25,53,Symptom,present
+474,18357,2184-09-14,1,significant diagnostic abnormality,76,109,Symptom,absent
+475,18357,2184-09-14,2,atrial fibrillation,164,182,Disease_Syndrome_Disorder,present
+476,18357,2184-09-14,2,"ventricular response has
+significantly decreased",202,249,Symptom,present
+477,18357,2177-12-30,1,sp line placement,166,182,Procedure,present
+478,18357,2177-12-30,1,intubation,188,197,Procedure,present
+479,18357,2177-12-30,1,COPD,348,351,Disease_Syndrome_Disorder,present
+480,18357,2177-12-30,1,resp failure,354,365,Disease_Syndrome_Disorder,present
+481,18357,2177-12-30,1,intubated post-op,378,394,Procedure,present
+482,18357,2177-12-30,1,sp line placement,429,445,Procedure,present
+483,18357,2177-12-30,1,intubation,451,460,Procedure,present
+484,18357,2177-12-30,2,Intubation,712,721,Procedure,present
+485,18357,2177-12-30,2,line placement,727,740,Procedure,present
+486,18357,2177-12-30,3,carina,867,872,Body_Part,present
+487,18357,2177-12-30,4,superior vena cava,921,938,Body_Part,present
+488,18357,2177-12-30,5,pneumothorax,966,977,Disease_Syndrome_Disorder,absent
+489,18357,2177-12-30,5,radiograph,1000,1009,Test,absent
+490,18357,2177-12-30,6,cardiac silhouette is enlarged,1017,1046,Symptom,present
+491,18357,2177-12-30,6,congestive heart failure,1073,1096,Disease_Syndrome_Disorder,present
+492,18357,2177-12-30,7,increasing opacity,1117,1134,Symptom,present
+493,18357,2177-12-30,7,retrocardiac region,1149,1167,Body_Part,present
+494,18357,2177-12-30,7,"pleural
+ effusion",1203,1219,Disease_Syndrome_Disorder,present
+495,18357,2177-12-30,7,adjacent atelectasis,1225,1244,Disease_Syndrome_Disorder,possible
+496,18357,2177-12-30,11,Congestive heart failure,1334,1357,Disease_Syndrome_Disorder,present
+497,18357,2184-09-12,0,MICU-7,115,120,Test,hypothetical
+498,18357,2184-09-12,0,c-spine fx,268,277,Test,present
+499,18357,2184-09-12,0,HYPONATREMIA,314,325,Disease_Syndrome_Disorder,present
+500,18357,2184-09-12,1,c-spine fx,570,579,Disease_Syndrome_Disorder,present
+501,18357,2184-09-12,1,dislocation,582,592,Disease_Syndrome_Disorder,absent
+502,18357,2184-09-12,1,cervical spine fractures,761,784,Disease_Syndrome_Disorder,absent
+503,18357,2184-09-12,1,malalignment,789,800,Symptom,absent
+504,18357,2184-09-12,0,HYPONATREMIA,170,181,Disease_Syndrome_Disorder,present
+505,18357,2184-09-12,1,resp distress,347,359,Symptom,present
+506,18357,2184-09-12,2,chest x-ray,606,616,Test,present
+507,18357,2184-09-12,3,removal of indwelling support,644,672,Procedure,present
+508,18357,2184-09-12,3,pneumothorax,719,730,Disease_Syndrome_Disorder,absent
+509,18357,2184-09-12,3,pneumomediastinum,735,751,Disease_Syndrome_Disorder,absent
+510,18357,2184-09-12,4,"Heart remains
+ enlarged",755,777,Symptom,present
+511,18357,2184-09-12,4,pulmonary vascular engorgement,802,831,Symptom,present
+512,18357,2184-09-12,4,"improving
+ pulmonary edema",837,862,Symptom,present
+513,18357,2184-09-12,5,retrocardiac opacity,916,935,Symptom,present
+514,18357,2184-09-12,5,pleural effusion,964,979,Disease_Syndrome_Disorder,possible
+515,18357,2184-09-12,5,atelectasis,986,996,Disease_Syndrome_Disorder,possible
+516,18357,2184-09-12,6,pleural effusion,1012,1027,Disease_Syndrome_Disorder,present
+517,18357,2178-01-01,2,moderate secretions,181,199,Symptom,present
+518,18357,2178-01-04,2,pupils,84,89,Body_Part,present
+519,18357,2178-01-04,6,urine output,185,196,Test,present
+520,18357,2178-01-04,12,drop in urine output,396,415,Symptom,present
+521,18357,2178-01-04,19,urine output,619,630,Test,present
+522,18357,2178-01-04,20,extubation,707,716,Procedure,possible
+523,18357,2178-01-04,21,thick tan/ yellow secretions,763,790,Symptom,present
+524,18357,2178-01-04,22,coarse,803,808,Symptom,present
+525,18357,2178-01-04,22,diminished in the bases,814,836,Symptom,present
+526,2269,2187-12-14,4,abdomen,225,231,Body_Part,absent
+527,2269,2187-12-14,8,Anal dilation,345,357,Procedure,present
+528,2269,2187-12-14,0,limbs,89,93,Body_Part,present
+529,2269,2187-12-14,1,Head,97,100,Body_Part,absent
+530,2269,2187-12-14,1,Neck,103,106,Body_Part,present
+531,2269,2187-12-14,1,Head,119,122,Body_Part,present
+532,2269,2187-12-14,1,soft,205,208,Body_Part,absent
+533,2269,2187-12-14,1,ear,225,227,Body_Part,absent
+534,2269,2187-12-14,1,Nose,240,243,Body_Part,absent
+535,2269,2187-12-14,1,cleft palate,263,274,Symptom,absent
+536,2269,2187-12-14,1,icterus,297,303,Symptom,absent
+537,2269,2187-12-14,1,neck swellings,308,321,Symptom,absent
+538,2269,2187-12-14,1,Skin,358,361,Body_Part,present
+539,2269,2187-12-14,1,pale,371,374,Symptom,present
+540,2269,2187-12-14,1,"mottled
+Chest",377,389,Symptom,present
+541,2269,2187-12-14,1,chest retractions,415,431,Symptom,absent
+542,2269,2187-12-14,1,"grunting or nasal flaring
+Respiration",434,470,Symptom,absent
+543,2269,2187-12-14,1,lung,504,507,Body_Part,present
+544,2269,2187-12-14,2,Abdomen,590,596,Body_Part,absent
+545,2269,2187-12-14,2,umbilical cord,642,655,Body_Part,absent
+546,2269,2187-12-14,2,"organomegaly
+Bowel sounds",688,712,Symptom,absent
+547,2269,2187-12-14,2,anal,752,755,Body_Part,absent
+548,2269,2187-12-14,2,genitalia,796,804,Body_Part,present
+549,2269,2187-12-14,2,anal,823,826,Body_Part,absent
+550,2269,2187-12-14,2,"limb anomalies
+Spine",886,905,Symptom,absent
+551,2269,2187-12-14,2,Congenital dysplasia,931,950,Disease_Syndrome_Disorder,present
+552,2269,2187-12-14,2,Skin,988,991,Body_Part,absent
+553,2269,2187-12-14,2,skin lesions,1018,1029,Symptom,absent
+554,2269,2187-12-14,2,limbs,1121,1125,Body_Part,present
+555,2269,2187-12-14,2,limbs,1149,1153,Body_Part,absent
+556,2269,2187-12-14,2,facial nerve palsy,1170,1187,Disease_Syndrome_Disorder,absent
+557,2269,2187-12-14,2,"excessive crying
+Rooting",1192,1215,Symptom,absent
+558,2269,2187-12-18,1,RA,35,36,Disease_Syndrome_Disorder,present
+559,2269,2187-12-18,2,spells,42,47,Symptom,absent
+560,2269,2187-12-18,8,distension,200,209,Symptom,absent
+561,2269,2187-12-18,10,KUB,268,270,Test,hypothetical
+562,2269,2187-12-18,11,discomfort,280,289,Symptom,present
+563,2269,2187-12-18,11,relative obstruction,309,328,Symptom,present
+564,2269,2187-12-18,11,dc,365,366,Test,hypothetical
+565,2269,2187-12-20,1,spits,216,220,Symptom,hypothetical
+566,2269,2187-12-20,1,distended,283,291,Symptom,hypothetical
+567,2269,2187-12-20,2,hands,466,470,Body_Part,present
+568,2269,2187-12-20,2,her legs,589,596,Body_Part,present
+569,2269,2187-12-10,1,difficulty heme negative,377,400,Symptom,absent
+570,2269,2187-12-10,2,hands,519,523,Body_Part,present
+571,2269,2187-12-10,2,face,528,531,Body_Part,present
+572,2269,2187-12-10,0,"NEONATOLOGY
+DOING WELL",0,21,Disease_Syndrome_Disorder,present
+573,2269,2187-12-10,1,REMAINS IN RA,24,36,Disease_Syndrome_Disorder,present
+574,2269,2187-12-10,6,ABDOMEN BENIGN,170,183,Disease_Syndrome_Disorder,present
+575,2269,2187-11-28,3,HC,179,180,Test,present
+576,2269,2187-11-28,6,imperforate anus,247,262,Disease_Syndrome_Disorder,present
+577,2269,2187-11-28,8,Abdomen,283,289,Body_Part,present
+578,2269,2187-11-28,8,bowel,316,320,Body_Part,absent
+579,2269,2187-11-28,10,Small sacral dimple,339,357,Symptom,present
+580,2269,2187-11-28,11,CBC,371,373,Test,present
+581,2269,2187-11-28,11,blood cx sent,379,391,Test,present
+582,2269,2187-11-28,12,DS 100,394,399,Disease_Syndrome_Disorder,present
+583,2269,2187-11-28,17,hand,634,637,Body_Part,present
+584,2269,2187-12-19,1,Remains in RA,24,36,Disease_Syndrome_Disorder,present
+585,2269,2187-12-19,2,spells,42,47,Symptom,absent
+586,2269,2187-12-19,4,Abdomen,72,78,Body_Part,present
+587,2269,2187-12-08,1,mild subcostal retractions,203,228,Symptom,present
+588,2269,2187-12-08,2,audible murmur,270,283,Symptom,absent
+589,2269,2187-12-08,3,rashes,386,391,Symptom,absent
+590,2269,2187-12-08,3,bruises,394,400,Symptom,absent
+591,2269,2187-12-08,3,lesions,405,411,Symptom,absent
+592,2269,2187-12-08,4,bowel,449,453,Body_Part,present
+593,2269,2187-12-08,4,HSM,466,468,Symptom,absent
+594,2269,2187-12-08,4,palpable masses,474,488,Symptom,absent
+595,2269,2187-12-08,5,genitalia,538,546,Body_Part,absent
+596,2269,2187-12-11,3,BSC,224,226,Body_Part,present
+597,2269,2187-12-11,3,retractions,246,256,Symptom,absent
+598,2269,2187-12-11,4,audible murmur,262,275,Symptom,absent
+599,2269,2187-12-11,5,ABD soft,293,300,Body_Part,present
+600,2269,2187-12-11,6,GU,339,340,Body_Part,present
+601,2269,2187-12-11,6,anus,354,357,Body_Part,present
