@@ -1,0 +1,2652 @@
+entity,concept,count
+10 inch,"['Measurement', 'Size']",2
+100 pure,"['Other Brands', 'Others']",2
+12 inch,"['Measurement', 'Size']",2
+12 piece,"['Food', 'Favorite']",2
+16oz,"['Product', 'Size', 'Plastic Bottle']",3
+18 inch,"['Measurement', 'Size']",2
+1920s,"['Decade', 'Period']",2
+1950s,"['Decade', 'Period']",2
+1ml,"['Volume', 'Amount']",2
+2 inch,"['Measurement', 'Size']",2
+3 in 1,"['Other Brands', 'Others']",2
+3d,"['Protein', 'Tv Type']",2
+3ml,"['Volume', 'Amount']",2
+4d,"['Protein', 'Technology']",2
+500ml,"['Product', 'Volume', 'Size', 'Amount']",4
+50mg,"['Dose', 'Major Factor']",2
+6 oz,"['Product', 'Size']",2
+7 eleven,"['Retailer', 'Company', 'Store']",3
+750ml,"['Product', 'Volume', 'Size']",3
+8 oz,"['Product', 'Size']",2
+9mm,"['Size', 'Lens']",2
+a&w,"['Brand', 'Restaurant']",2
+a1,"['Car', 'Road']",2
+abbott,"['Manufacturer', 'Brand', 'Company', 'Store', 'Healthcare Company']",5
+abdomen,"['Body Part', 'Symptom', 'Condition', 'Place', 'Body']",5
+abreva,"['Product', 'Drug Brand', 'Drug']",3
+abscess,"['Disease', 'Infection', 'Complication']",3
+academy,"['Retailer', 'Store']",2
+acai,"['Ingredient', 'Fruit']",2
+accessories,"['Product', 'Accessory', 'Apparel']",3
+accutane,"['Drug', 'Medication']",2
+ace,"['Brand', 'Hotel Chain']",2
+acetyl,"['Substituent', 'Alkyl Group', 'Functional Group']",3
+acetyl l carnitine,"['Supplement', 'Amino Acid']",2
+ache,"['Manufacturer', 'Symptom']",2
+acid reflux,"['Symptom', 'Condition']",2
+acne,"['Treatment', 'Brand', 'Symptom', 'Fashion Brand', 'Sign', 'Condition', 'Skin Condition', 'Infection', 'Skin', 'Skin Type']",10
+acne facial,"['Treatment', 'Service']",2
+acne free,"['Other Brands', 'Others']",2
+acne pimples,"['Condition', 'Irregularity']",2
+acne prone skin,"['Treatment', 'Condition', 'Skin Condition', 'Skin', 'Skin Type']",5
+acne scarring,"['Treatment', 'Condition']",2
+acne scars,"['Sign', 'Condition', 'Scar']",3
+acne studios,"['Brand', 'Fashion Brand']",2
+acne treatment,"['Procedure', 'Treatment']",2
+acqua di parma,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+acrylic,"['Material', 'Yarn', 'Medium']",3
+actinic keratosis,"['Condition', 'Lesion']",2
+action,"['Retailer', 'Store', 'Genre']",3
+acupressure,"['Body Part', 'Treatment', 'Technique', 'Therapy']",4
+acupuncture,"['Treatment', 'Service', 'Technique', 'Therapy', 'Alternative Medicine']",5
+acure,"['Manufacturer', 'Brand', 'Company']",3
+aczone,"['Product', 'Medication']",2
+adapalene,"['Product', 'Treatment', 'Ingredient', 'Medication', 'Retinoid']",5
+adidas,"['Manufacturer', 'Brand', 'Fashion Brand', 'Sports Brand', 'Shoe Brand']",5
+adult,"['Person', 'Age Group']",2
+adults,"['Person', 'Gender']",2
+advent,"['Other Brands', 'Others']",2
+aerin,"['Manufacturer', 'Brand']",2
+aesop,"['Manufacturer', 'Brand', 'Store']",3
+african,"['Country', 'Hair', 'Cuisine', 'Language', 'Culture']",5
+afro,"['Style', 'Hairstyle', 'Hair Style']",3
+after,"['Time Period', 'Project']",2
+afternoon,"['Event', 'Success']",2
+ageless,"['Other Brands', 'Others']",2
+aging skin,"['Symptom', 'Condition', 'Skin', 'Skin Type']",4
+ahava,"['Manufacturer', 'Brand', 'Cosmetics Brand']",3
+air,"['Information', 'Resource']",2
+ala,"['Acid', 'Fatty Acid']",2
+alba botanica,"['Manufacturer', 'Brand']",2
+alcatel,"['Brand', 'Company']",2
+alcohol,"['Drug', 'Substance']",2
+aldi,"['Retailer', 'Brand', 'Company', 'Store', 'Retail Store']",5
+aleve,"['Product', 'Drug Brand', 'Drug', 'Medication']",4
+alex,"['Other Brands', 'Others']",2
+alkaline,"['Chemical', 'Battery']",2
+allegra,"['Product', 'Drug Brand', 'Antihistamine', 'Spray']",4
+allergy,"['Condition', 'Disease']",2
+allure,"['Other Brands', 'Others']",2
+almay,"['Manufacturer', 'Brand', 'Company', 'Store']",4
+almond,"['Food', 'Fruit', 'Nut', 'Liqueur', 'Alternative']",5
+almond eyes,"['Color', 'Shape']",2
+almond milk,"['Drink', 'Alternative']",2
+almond oil,"['Ingredient', 'Oil']",2
+aloe,"['Ingredient', 'Oil']",2
+aloe vera,"['Product', 'Ingredient', 'Oil']",3
+aloe vera juice,"['Product', 'Ingredient']",2
+aloe vera oil,"['Ingredient', 'Oil']",2
+alpha lipoic acid,"['Nutrient', 'Metal', 'Antioxidant']",3
+alterna,"['Manufacturer', 'Brand']",2
+aluminum,"['Material', 'Color', 'Metal', 'Mineral', 'Element', 'Building Material']",6
+always,"['Other Brands', 'Others']",2
+amanda,"['Other Brands', 'Others']",2
+amaretto,"['Brand', 'Flavor', 'Liqueur']",3
+amarula,"['Brand', 'Liqueur']",2
+amazon,"['Manufacturer', 'Retailer', 'Brand', 'Fashion Brand', 'Color', 'Service', 'Company', 'Store', 'Toothpaste', 'Fruit', 'Eletronics Brand', 'Platform', 'Site', 'Tv Network', 'Healthcare Company', 'Retail Store', 'Food Manufacturer', 'Group 5', 'Group 12', 'Search Engine', 'Jewelry Store', 'Group 3', 'Group 7', 'Group 1']",24
+american,"['Country', 'Cuisine', 'Language', 'Culture']",4
+amethyst,"['Color', 'Mineral', 'Stone']",3
+amino acids,"['Nutrient', 'Mineral', 'Pathway']",3
+amla,"['Oil', 'Herb']",2
+ammonium,"['Nutrient', 'Compound', 'Mineral', 'Buffer']",4
+amorepacific,"['Manufacturer', 'Brand']",2
+amway,"['Manufacturer', 'Brand', 'Company']",3
+anastasia beverly hills,"['Manufacturer', 'Brand']",2
+android,"['Company', 'Platform', 'Device', 'Operating System']",4
+anemia,"['Symptom', 'Condition', 'Disorder', 'Disease', 'Effect']",5
+angelina jolie,"['Celebrity', 'Artist']",2
+ankle,"['Body Part', 'Animal', 'Condition', 'Design', 'Tattoo', 'Injury', 'Style', 'Bones', 'Joint', 'Muscles', 'Sock Style']",11
+anniversary,"['Occasion', 'Special Occasion', 'Event', 'Stone']",4
+anthropologie,"['Manufacturer', 'Retailer', 'Brand', 'Fashion Brand', 'Store']",5
+anti inflammatory,"['Drug', 'Medication']",2
+antibacterial,"['Product', 'Drug']",2
+antibiotic,"['Product', 'Drug', 'Medication']",3
+antibiotics,"['Drug', 'Medication']",2
+antifungal,"['Product', 'Drug', 'Medication']",3
+antihistamine,"['Drug', 'Medication']",2
+antimicrobial,"['Product', 'Drug']",2
+antiseptic,"['Product', 'Drug']",2
+antiviral,"['Drug', 'Medication']",2
+anus,"['Body Part', 'Condition', 'Organ', 'Cancer']",4
+anusol,"['Product', 'Drug Brand']",2
+anxiety,"['Symptom', 'Condition', 'Disorder', 'Disease', 'Emotion']",5
+anya hindmarch,"['Brand', 'Designer']",2
+apple,"['Retailer', 'Brand', 'Color', 'Company', 'Store', 'Fruit', 'Platform', 'Vegetable', 'Site', 'Device', 'Dessert', 'Tv Network', 'Herb', 'Search Engine', 'Software']",15
+apple cider vinegar,"['Ingredient', 'Oil']",2
+apricot,"['Ingredient', 'Color', 'Fruit', 'Oil', 'Tea', 'Florist']",6
+aqua,"['Color', 'Fruit', 'Peel']",3
+aquamarine,"['Color', 'Stone']",2
+aquaphor,"['Brand', 'Drug Brand', 'Cream']",3
+aquarius,"['Sign', 'Drink']",2
+arbonne,"['Manufacturer', 'Brand', 'Company', 'Cosmetics Brand']",4
+ardell,"['Manufacturer', 'Brand']",2
+argan,"['Ingredient', 'Oil']",2
+argan oil,"['Ingredient', 'Oil']",2
+ariana grande,"['Celebrity', 'Artist']",2
+ariel,"['Brand', 'Film']",2
+arm,"['Procedure', 'Body Part', 'Animal', 'Symptom', 'Condition', 'Design', 'Tattoo', 'Injury', 'Bones', 'Joint', 'Muscles', 'Body', 'Workout', 'Exercise']",14
+arm & hammer,"['Brand', 'Toothpaste']",2
+arm tattoo,"['Animal', 'Tattoo']",2
+armani,"['Manufacturer', 'Brand', 'Fashion Brand', 'Color', 'Designer']",5
+armpit,"['Body Part', 'Symptom', 'Site']",3
+armpits,"['Body Part', 'Structure', 'Site']",3
+arms,"['Procedure', 'Body Part', 'Animal', 'Symptom', 'Condition', 'Tattoo', 'Bones', 'Joint', 'Body']",9
+army,"['Color', 'Force', 'School']",3
+arnica,"['Herb', 'Remedy']",2
+aromatherapy,"['Treatment', 'Therapy']",2
+art,"['Activity', 'Genre', 'Field', 'Discipline']",4
+arthritis,"['Body Part', 'Symptom', 'Condition', 'Disease', 'Organ', 'Bones', 'Joint']",7
+artistry,"['Brand', 'Store']",2
+artnaturals,"['Brand', 'Company']",2
+asepxia,"['Brand', 'Drug Brand']",2
+ash blonde,"['Color', 'Trait']",2
+ashley,"['Other Brands', 'Others']",2
+asian,"['Country', 'Cuisine', 'Language']",3
+aspercreme,"['Product', 'Drug Brand', 'Cream']",3
+aspirin,"['Drug Brand', 'Drug', 'Medication']",3
+astaxanthin,"['Nutrient', 'Carotenoid', 'Antioxidant']",3
+asthma,"['Symptom', 'Condition', 'Disease']",3
+athlete's foot,"['Retailer', 'Condition', 'Infection']",3
+athletes foot,"['Condition', 'Infection']",2
+au naturale,"['Other Brands', 'Others']",2
+auburn hair,"['Color', 'Trait']",2
+aussie dog,"['Other Brands', 'Others']",2
+austin,"['Car Make', 'City']",2
+autism,"['Condition', 'Disorder', 'Disability']",3
+autoimmune disease,"['Condition', 'Disease']",2
+avalon organics,"['Manufacturer', 'Brand']",2
+aveda,"['Manufacturer', 'Brand', 'Cosmetics Brand']",3
+aveeno,"['Manufacturer', 'Brand', 'Drug Brand']",3
+avene,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+avocado,"['Food', 'Fruit', 'Oil']",3
+avocado oil,"['Ingredient', 'Oil']",2
+avon,"['Manufacturer', 'Brand', 'Fashion Brand', 'Company', 'Store', 'Cosmetics Brand']",6
+away,"['Retailer', 'Store']",2
+aws,"['Service', 'Company', 'Platform', 'Cloud Service']",4
+axe,"['Manufacturer', 'Brand', 'Fashion Brand', 'Tool']",4
+axilla,"['Body Part', 'Site']",2
+axillary,"['Site', 'Vein']",2
+ayurveda,"['Treatment', 'Therapy', 'Medicine']",3
+azelaic,"['Ingredient', 'Acid']",2
+azelaic acid,"['Product', 'Ingredient', 'Acid']",3
+aztec,"['Other Brands', 'Others']",2
+azure,"['Service', 'Platform', 'Cloud Service']",3
+b12,"['Nutrient', 'Mineral', 'Vitamin']",3
+b3,"['Nutrient', 'Vitamin']",2
+b5,"['Nutrient', 'Vitamin']",2
+babyganics,"['Manufacturer', 'Brand']",2
+babylights,"['Technique', 'Trend']",2
+baccarat rouge 540,"['Fabric', 'Fragrance']",2
+back,"['Procedure', 'Product', 'Body Part', 'Animal', 'Treatment', 'Symptom', 'Condition', 'Piercing', 'Tattoo', 'Place', 'Injury', 'Organ', 'Bones', 'Technique', 'Joint', 'Muscles', 'Body', 'Workout', 'Body Wax']",19
+back facial,"['Treatment', 'Service']",2
+back pain,"['Symptom', 'Condition', 'Sport', 'Pain']",4
+backpack,"['Product', 'Bag', 'Accessory']",3
+bacon,"['Food', 'Meat', 'Recipe', 'Dentist']",4
+bacteria,"['Organism', 'Microorganism']",2
+bad breath,"['Procedure', 'Symptom', 'Sign', 'Condition']",4
+badger,"['Animal', 'Brand']",2
+bag,"['Product', 'Accessory', 'Apparel']",3
+bags,"['Product', 'Accessory']",2
+baileys,"['Brand', 'Liqueur']",2
+baking powder,"['Product', 'Ingredient', 'Food']",3
+baking soda,"['Product', 'Ingredient']",2
+balayage,"['Technique', 'Trend']",2
+balmain,"['Brand', 'Fashion Brand', 'Pen']",3
+balmex,"['Brand', 'Cream']",2
+baltimore,"['City', 'State']",2
+bamboobies,"['Other Brands', 'Others']",2
+banana,"['Ingredient', 'Color', 'Company', 'Fruit', 'Oil', 'Flavor', 'Dessert', 'Tree', 'Liqueur']",9
+banana cream,"['Fruit', 'Flavor', 'Dessert']",3
+bandaid,"['Other Brands', 'Others']",2
+baobab,"['Other Brands', 'Others']",2
+bar,"['Place', 'Room']",2
+barbie,"['Brand', 'Company']",2
+bare minerals,"['Manufacturer', 'Brand', 'Fashion Brand', 'Cosmetics Brand']",4
+bareminerals,"['Manufacturer', 'Brand']",2
+barrier repair,"['Other Brands', 'Others']",2
+basal cell,"['Cancer', 'Cell', 'Tumor']",3
+base makeup,"['Product', 'Body Part', 'Facial Feature', 'Organ']",4
+basil,"['Oil', 'Spice', 'Herb']",3
+baskin robbins,"['Brand', 'Company', 'Store', 'Restaurant', 'Ice Cream', 'Food Manufacturer']",6
+bath,"['Product', 'Fabric', 'Place', 'Amenity', 'Facility', 'School', 'Room']",7
+bath & body works,"['Retailer', 'Brand', 'Store']",3
+bath and body,"['Product', 'Retailer', 'Store']",3
+bath and body works,"['Manufacturer', 'Retailer', 'Brand', 'Store']",4
+bathroom,"['Product', 'Service', 'Place', 'Amenity', 'Facility', 'Room', 'Home Room', 'Idea']",8
+battery,"['Accessory', 'Device', 'Component']",3
+baxter,"['Manufacturer', 'Brand', 'Company', 'Healthcare Company']",4
+bay,"['Store', 'Water Body']",2
+bb,"['Brand', 'Company']",2
+bb cream,"['Product', 'Skin Care Product']",2
+bean,"['Vegetable', 'Crop']",2
+beanie,"['Brand', 'Accessory']",2
+beans,"['Product', 'Food', 'Vegetable', 'Spice', 'Dish', 'Crop']",6
+bear,"['Animal', 'Retailer', 'Design', 'Tattoo']",4
+beard,"['Hair', 'Facial Hair']",2
+beard trimmer,"['Product', 'Tool']",2
+beauty,"['Category', 'Industry']",2
+beauty blender,"['Other Brands', 'Others']",2
+beauty by earth,"['Other Brands', 'Others']",2
+beautycounter,"['Brand', 'Company']",2
+bebe,"['Retailer', 'Fashion Brand', 'Store']",3
+becca,"['Manufacturer', 'Brand']",2
+bed,"['Place', 'Amenity', 'Furniture', 'Room']",4
+bed bath and beyond,"['Retailer', 'Brand', 'Store']",3
+bedroom,"['Product', 'Place', 'Amenity', 'Room', 'Home Room', 'Idea']",6
+beef,"['Animal', 'Food', 'Sauce', 'Meat', 'Dish', 'Recipe']",6
+beer,"['Drink', 'Beverage']",2
+beeswax,"['Ingredient', 'Oil', 'Wax']",3
+beet,"['Food', 'Fruit', 'Vegetable']",3
+beetlejuice,"['Movie', 'Film']",2
+before,"['Time Period', 'Project']",2
+belif,"['Manufacturer', 'Brand']",2
+belk,"['Retailer', 'Brand', 'Store']",3
+bell,"['Other Brands', 'Others']",2
+bell's palsy,"['Symptom', 'Condition']",2
+bella,"['Other Brands', 'Others']",2
+bella curls,"['Other Brands', 'Others']",2
+belle,"['Character', 'Film']",2
+belly,"['Procedure', 'Body Part', 'Symptom', 'Problem Area']",4
+belly button,"['Body Part', 'Piercing']",2
+ben & jerry's,"['Retailer', 'Brand', 'Store']",3
+ben and jerry,"['Retailer', 'Store']",2
+ben and jerry's,"['Retailer', 'Company', 'Store']",3
+ben sherman,"['Brand', 'Fashion Brand']",2
+benadryl,"['Product', 'Brand', 'Drug Brand', 'Antihistamine', 'Drug', 'Medication', 'Lozenge']",7
+benefit,"['Manufacturer', 'Brand', 'Cosmetics Brand']",3
+benefit makeup,"['Brand', 'Fashion Brand']",2
+bengay,"['Product', 'Drug Brand', 'Cream']",3
+benign tumor,"['Disease', 'Tumor']",2
+bentonite clay,"['Ingredient', 'Color']",2
+benzoyl,"['Brand', 'Drug Brand', 'Cream', 'Functional Group']",4
+benzoyl peroxide,"['Product', 'Treatment', 'Ingredient', 'Acid', 'Peel']",5
+bergamot,"['Fruit', 'Oil', 'Herb']",3
+berries,"['Brand', 'Fruit']",2
+berry,"['Fruit', 'Vegetable']",2
+berry lipstick,"['Color', 'Lipstick']",2
+best body lotion,"['Award', 'Category']",2
+best buy,"['Retailer', 'Brand', 'Company', 'Store']",4
+best epilator,"['Other Brands', 'Others']",2
+best exfoliator,"['Award', 'Category']",2
+best eye cream,"['Award', 'Category']",2
+best foundation,"['Product', 'Award']",2
+best moisturiser,"['Award', 'Category']",2
+best night cream,"['Award', 'Category']",2
+best sunscreen,"['Award', 'Category']",2
+betamethasone,"['Steroid', 'Corticosteroid']",2
+betsey johnson,"['Fashion Brand', 'Designer']",2
+beyonce,"['Celebrity', 'Artist']",2
+bicarbonate,"['Nutrient', 'Anion', 'Compound', 'Mineral', 'Buffer']",5
+bikini,"['Product', 'Body Part', 'Service', 'Facial Feature', 'Sensitive Area']",5
+bikini hair removal,"['Treatment', 'Service']",2
+bioclear,"['Other Brands', 'Others']",2
+bioderma,"['Manufacturer', 'Brand']",2
+biofreeze,"['Product', 'Drug Brand']",2
+biomax,"['Other Brands', 'Others']",2
+biopelle,"['Manufacturer', 'Brand']",2
+biore,"['Manufacturer', 'Brand']",2
+biotene,"['Product', 'Brand', 'Drug Brand', 'Toothpaste', 'Group 5', 'Lozenge']",6
+biotin,"['Nutrient', 'Mineral', 'Vitamin', 'Element', 'Antioxidant']",5
+birch,"['Flavor', 'Species', 'Tattoo', 'Tree']",4
+bird,"['Animal', 'Design', 'Tattoo']",3
+birds,"['Animal', 'Design', 'Tattoo']",3
+birthday,"['Occasion', 'Special Occasion', 'Event', 'Dress', 'Flower', 'Holiday']",6
+biscuits,"['Grain', 'Food']",2
+bite beauty,"['Manufacturer', 'Brand']",2
+black,"['Color', 'Food', 'Fruit', 'Oil', 'Flavor', 'Metal', 'Species', 'Drink', 'Tea', 'Spice', 'Stone', 'Dress', 'Dessert', 'Tree', 'Herb', 'Crop', 'Peel', 'Flower']",18
+black beans,"['Food', 'Vegetable', 'Legume', 'Beans']",4
+black hair,"['Color', 'Hair Type', 'Hair', 'Trait']",4
+black hairstyles,"['Style', 'Hairstyle']",2
+black opal,"['Brand', 'Stone']",2
+black tea,"['Fruit', 'Drink', 'Tea']",3
+black walnut,"['Species', 'Language']",2
+black widow,"['Character', 'Film']",2
+blackberry,"['Color', 'Company', 'Store', 'Fruit', 'Platform', 'Device']",6
+blackheads,"['Lesion', 'Acne Type', 'Acne', 'Skin Problem']",4
+bladder,"['Condition', 'Disease', 'Organ', 'Cancer']",4
+bladder cancer,"['Condition', 'Cancer']",2
+blazers,"['Team', 'Piece']",2
+bleaching,"['Procedure', 'Process']",2
+bleeding,"['Symptom', 'Complication']",2
+bleeding gums,"['Symptom', 'Sign']",2
+blending brush,"['Product', 'Brush']",2
+bliss,"['Manufacturer', 'Brand', 'Dentist']",3
+blistex,"['Manufacturer', 'Brand', 'Drug Brand', 'Cosmetics Brand']",4
+blizzard,"['Company', 'Console']",2
+bloating,"['Symptom', 'Condition']",2
+blonde,"['Product', 'Color', 'Trait', 'Hair Color']",4
+blonde hair,"['Color', 'Hair Type', 'Hair', 'Trait', 'Hairstyle', 'Wig']",6
+blonde highlights,"['Color', 'Hair']",2
+blood,"['Specimen', 'Fluid']",2
+blood pressure,"['Nutrient', 'Sign', 'Risk Factor', 'Diet']",4
+blood sugar,"['Sign', 'Risk Factor', 'Variable']",3
+blood vessels,"['Tissue', 'Organ']",2
+blow dry,"['Treatment', 'Service']",2
+blue,"['Color', 'Fruit', 'Sweetener', 'Oil', 'Species', 'Drink', 'Tea', 'Stone', 'Dress', 'Dessert', 'Herb', 'Crop', 'Flower', 'Alga']",14
+blue bell,"['Brand', 'Company', 'Ice Cream']",3
+blue bunny,"['Brand', 'Store', 'Ice Cream']",3
+blue emu,"['Product', 'Drug Brand', 'Cream']",3
+blue eyes,"['Color', 'Trait']",2
+blueberry,"['Color', 'Fruit', 'Flavor', 'Dessert', 'Herb']",5
+bluetooth,"['Technology', 'Connectivity', 'Interface']",3
+blush,"['Product', 'Brush', 'Florist']",3
+blusher,"['Product', 'Brush']",2
+bobbi brown,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+body,"['Body Part', 'Aspect', 'Condition', 'Tattoo', 'Bones']",5
+body care,"['Product', 'Body Part']",2
+body contouring,"['Procedure', 'Treatment']",2
+body cream,"['Product', 'Body Part']",2
+body hair removal,"['Body Part', 'Treatment', 'Service', 'Facial Feature', 'Sensitive Area']",5
+body lotion,"['Product', 'Body Part']",2
+body massage,"['Body Part', 'Treatment', 'Service', 'Technique']",4
+body scrub,"['Product', 'Treatment', 'Service']",3
+body shop,"['Manufacturer', 'Brand', 'Fashion Brand', 'Store', 'Cosmetics Brand', 'Food Manufacturer', 'Group 5', 'Group 6', 'Beauty Brand']",9
+body soap,"['Product', 'Fabric', 'Amenity']",3
+bodyshop,"['Manufacturer', 'Brand']",2
+boho,"['Other Brands', 'Others']",2
+boils,"['Condition', 'Infection']",2
+boiron,"['Product', 'Manufacturer', 'Brand', 'Drug Brand', 'Company', 'Store']",6
+bolero,"['Other Brands', 'Others']",2
+bone,"['Tissue', 'Symptom', 'Condition', 'Organ']",4
+bone pain,"['Symptom', 'Condition']",2
+bones,"['Tissue', 'Organ', 'Cancer', 'Tumor']",4
+boob,"['Other Brands', 'Others']",2
+boost,"['Company', 'Carrier']",2
+boots,"['Product', 'Manufacturer', 'Brand', 'Company', 'Store', 'Accessory', 'Healthcare Company', 'Cosmetics Brand', 'Shoe', 'Footwear', 'Group 2']",11
+borage,"['Oil', 'Herb']",2
+born,"['Other Brands', 'Others']",2
+bosch,"['Brand', 'Company', 'Appliance Brand']",3
+boscia,"['Manufacturer', 'Brand']",2
+boston,"['Team', 'City', 'State']",3
+botox,"['Procedure', 'Treatment', 'Filler']",3
+bottle,"['Product', 'Container']",2
+bottles,"['Product', 'Container']",2
+bottom,"['Place', 'Show']",2
+bounce curl,"['Other Brands', 'Others']",2
+bovine,"['Animal', 'Biological Fluid']",2
+box braids,"['Style', 'Hairstyle']",2
+boxes,"['Product', 'Material', 'Container']",3
+braces,"['Procedure', 'Treatment', 'Service']",3
+braid,"['Style', 'Hairstyle']",2
+braids,"['Style', 'Hairstyle']",2
+brain,"['Body Part', 'Tissue', 'Condition', 'Structure', 'Disease', 'Organ', 'Cancer', 'Defect', 'Tumor']",9
+brand's,"['Other Brands', 'Others']",2
+brass,"['Material', 'Color', 'Metal']",3
+braum's,"['Brand', 'Ice Cream', 'Food Manufacturer', 'Group 24']",4
+braun,"['Manufacturer', 'Brand', 'Company']",3
+brazilian,"['Body Part', 'Service', 'Facial Feature', 'Cuisine', 'Sensitive Area', 'Hair Extension']",6
+brazilian blowout,"['Treatment', 'Brand', 'Service']",3
+bread,"['Product', 'Grain', 'Ingredient', 'Food', 'Dish', 'Crop']",6
+breakfast,"['Food', 'Meal Time', 'Recipe', 'Meal']",4
+breast,"['Procedure', 'Organ', 'Cancer', 'Tumor']",4
+breast cancer,"['Disease', 'Cancer']",2
+breathrx,"['Product', 'Brand']",2
+breyers,"['Brand', 'Store', 'Ice Cream']",3
+brick,"['Material', 'Retailer', 'Store']",3
+bridesmaid,"['Woman', 'Bridal Party', 'Wedding Party']",3
+brightening serum,"['Product', 'Ingredient']",2
+brio,"['Brand', 'Toys Brand']",2
+broccoli,"['Food', 'Vegetable', 'Dish']",3
+brompton,"['Brand', 'Sports Brand']",2
+bronx,"['Place', 'New York Location']",2
+bronze,"['Material', 'Color', 'Metal', 'Stone']",4
+bronzer,"['Product', 'Brush', 'Skin Care Product']",3
+brow,"['Procedure', 'Product', 'Body Part', 'Facial Feature', 'Brush']",5
+brow lift,"['Procedure', 'Treatment']",2
+brow wax,"['Treatment', 'Service']",2
+brown,"['Color', 'Fruit', 'Sweetener', 'Drink', 'School', 'Alga']",6
+brown eyes,"['Color', 'Trait']",2
+brown hair,"['Product', 'Color', 'Trait']",3
+brown sugar,"['Product', 'Ingredient', 'Sweetener', 'Sugar']",4
+brows,"['Body Part', 'Service', 'Facial Feature', 'Tattoo']",4
+brunette,"['Color', 'Trait']",2
+bubble bath,"['Product', 'Color']",2
+bubble gum,"['Fruit', 'Flavor']",2
+buffing brush,"['Product', 'Brush']",2
+bulb,"['Other Brands', 'Others']",2
+bulk hair,"['Hair', 'Language']",2
+bun,"['Product', 'Test']",2
+bunny,"['Animal', 'Tattoo']",2
+bunny lines,"['Body Part', 'Wrinkle']",2
+burberry,"['Manufacturer', 'Brand', 'Fashion Brand', 'Designer']",4
+burger king,"['Brand', 'Company', 'Restaurant', 'Group 4']",4
+burgundy,"['Color', 'Flower']",2
+burn scar,"['Condition', 'Scar']",2
+burn scars,"['Condition', 'Scar']",2
+burt's bees,"['Manufacturer', 'Brand', 'Company', 'Store', 'Cosmetics Brand']",5
+burts bees,"['Manufacturer', 'Brand', 'Cosmetics Brand']",3
+butter,"['Product', 'Ingredient', 'Food', 'Oil', 'Sauce', 'Spice', 'Cheese', 'Dish']",8
+butter london,"['Manufacturer', 'Brand']",2
+buttermilk,"['Product', 'Ingredient', 'Food']",3
+butterscotch,"['Fruit', 'Flavor']",2
+buttocks,"['Procedure', 'Body Part', 'Condition', 'Facial Feature', 'Bones', 'Problem Area']",6
+buzz cut,"['Hairstyle', 'Haircut']",2
+bvlgari,"['Manufacturer', 'Retailer', 'Brand', 'Fashion Brand', 'Store']",5
+byredo,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+c1,"['Component', 'Constant']",2
+c12,"['Acid', 'Constant']",2
+c2,"['Component', 'Constant']",2
+c3,"['Component', 'Constant']",2
+ca,"['Retailer', 'Domain', 'Element', 'State']",4
+cabbage,"['Food', 'Vegetable']",2
+cabernet,"['Wine', 'Variety']",2
+cabinets,"['Product', 'Kitchen Design', 'Surface']",3
+cake,"['Product', 'Ingredient', 'Food', 'Dessert']",4
+cake batter,"['Fruit', 'Flavor']",2
+cakes,"['Product', 'Ingredient', 'Food', 'Treat', 'Dessert']",5
+cal,"['Team', 'School']",2
+calamine lotion,"['Product', 'Cream']",2
+calendula,"['Oil', 'Herb', 'Remedy']",3
+calendula oil,"['Ingredient', 'Oil']",2
+calf,"['Body Part', 'Animal', 'Condition', 'Technique', 'Muscles']",5
+california,"['Brand', 'City', 'School', 'State']",4
+calming serum,"['Product', 'Ingredient']",2
+calves,"['Body Part', 'Animal', 'Muscles']",3
+calvin klein,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+camellia,"['Flower', 'Shrub']",2
+camellia oil,"['Ingredient', 'Oil']",2
+cancer,"['Body Part', 'Symptom', 'Condition', 'Disease', 'Organ', 'Bones']",6
+candy,"['Food', 'Flavor', 'Snack']",3
+canine,"['Animal', 'Tooth']",2
+canker sore,"['Procedure', 'Condition', 'Disease']",3
+canvas,"['Material', 'Fabric']",2
+cap,"['Accessory', 'School']",2
+caps,"['Product', 'Accessory']",2
+capsule,"['Product', 'Form']",2
+capsules,"['Product', 'Medication', 'Form']",3
+car,"['Product', 'Vehicle', 'Vehicle Type', 'Loan Type']",4
+caramel,"['Color', 'Food', 'Fruit', 'Flavor', 'Dessert']",5
+carbon,"['Material', 'Metal', 'Mineral', 'Element', 'Gas', 'Solvent']",6
+carcinoma,"['Structure', 'Lesion', 'Organ', 'Cancer', 'Tumor']",5
+cardamom,"['Oil', 'Spice', 'Herb']",3
+cardi b,"['Celebrity', 'Artist']",2
+carnitine,"['Supplement', 'Amino Acid']",2
+carolina,"['Team', 'School']",2
+carolina herrera,"['Manufacturer', 'Brand', 'Fashion Brand', 'Designer']",4
+carpal tunnel,"['Symptom', 'Condition']",2
+carrot,"['Food', 'Fruit', 'Vegetable', 'Soap']",4
+carrot seed oil,"['Ingredient', 'Oil']",2
+carrots,"['Food', 'Vegetable']",2
+carvel,"['Brand', 'Ice Cream']",2
+casablanca,"['Other Brands', 'Others']",2
+cashew,"['Nut', 'Alternative']",2
+cashmere,"['Material', 'Fabric', 'Amenity', 'Yarn']",4
+castor oil,"['Ingredient', 'Oil']",2
+cat,"['Animal', 'Brand', 'Design', 'Tattoo', 'Car Make']",5
+catfish,"['Fish', 'Species']",2
+cats,"['Animal', 'Tattoo', 'Transit Agency']",3
+caudalie,"['Manufacturer', 'Brand']",2
+cauliflower,"['Food', 'Vegetable', 'Dish']",3
+causes,"['Aspect', 'Condition', 'Disease', 'Information', 'Health Issue']",5
+cavities,"['Procedure', 'Symptom', 'Condition', 'Disease']",4
+cc cream,"['Product', 'Skin Care Product']",2
+cedar,"['Oil', 'Species', 'Tree', 'Woods']",4
+celeb luxury,"['Other Brands', 'Others']",2
+celebrity,"['Other Brands', 'Others']",2
+celery,"['Fruit', 'Vegetable', 'Spice']",3
+celiac disease,"['Condition', 'Disorder', 'Disease']",3
+cellulite,"['Treatment', 'Condition']",2
+cellulite reduction,"['Procedure', 'Treatment']",2
+cellulite treatment,"['Procedure', 'Treatment']",2
+cellulitis,"['Condition', 'Disease', 'Infection']",3
+cepacol,"['Brand', 'Drug Brand', 'Lozenge']",3
+cerave,"['Manufacturer', 'Brand', 'Drug Brand', 'Cleanser']",4
+cereal,"['Grain', 'Food', 'Flavor', 'Crop']",4
+cerebral palsy,"['Condition', 'Disorder', 'Disease', 'Injury', 'Disability']",5
+cervical,"['Condition', 'Organ', 'Cancer', 'Location', 'Region']",5
+cervix,"['Organ', 'Cancer']",2
+cetaphil,"['Manufacturer', 'Brand', 'Drug Brand', 'Cleanser', 'Cream']",5
+chai,"['Color', 'Fruit', 'Drink', 'Tea', 'Herb']",5
+chai tea,"['Color', 'Fruit', 'Drink', 'Tea', 'Spice', 'Herb']",6
+chamomile,"['Ingredient', 'Oil', 'Drink', 'Tea', 'Spice', 'Herb']",6
+chamomile tea,"['Tea', 'Spice']",2
+chanel,"['Manufacturer', 'Brand', 'Fashion Brand', 'Cosmetics Brand', 'Designer Brand']",5
+chantecaille,"['Manufacturer', 'Brand']",2
+chapstick,"['Manufacturer', 'Brand']",2
+chardonnay,"['Wine', 'Variety']",2
+charger,"['Accessory', 'Component']",2
+charlotte,"['City', 'School']",2
+charlotte tilbury,"['Manufacturer', 'Brand']",2
+charm,"['Retailer', 'Store', 'Jewelry Store']",3
+cheek,"['Procedure', 'Body Part', 'Animal', 'Condition', 'Piercing', 'Facial Feature', 'Face', 'Brush', 'Organ', 'Hair Removal']",10
+cheekbones,"['Body Part', 'Facial Feature', 'Face']",3
+cheeks,"['Body Part', 'Condition', 'Facial Feature', 'Face', 'Brush', 'Organ']",6
+cheese,"['Product', 'Ingredient', 'Food', 'Sauce', 'Meat']",5
+cheesecake,"['Fruit', 'Flavor', 'Dessert', 'Cake']",4
+cheesecake factory,"['Store', 'Restaurant']",2
+cheetah,"['Animal', 'Design']",2
+chemical,"['Waste', 'Industry']",2
+chemical peel,"['Procedure', 'Treatment', 'Condition']",3
+cherry,"['Color', 'Fruit', 'Flavor', 'Species', 'Tattoo', 'Dessert', 'Tree', 'Liqueur']",8
+cherry angioma,"['Lesion', 'Irregularity']",2
+chest,"['Procedure', 'Body Part', 'Animal', 'Symptom', 'Bird', 'Condition', 'Piercing', 'Tattoo', 'Place', 'Bones', 'Joint', 'Body', 'Workout']",13
+chestnut,"['Tree', 'Nut']",2
+chia seed oil,"['Ingredient', 'Oil']",2
+chicken,"['Food', 'Sauce', 'Meat', 'Dish', 'Recipe']",5
+chicken pox,"['Disease', 'Vaccine']",2
+chickpeas,"['Color', 'Food', 'Vegetable', 'Legume', 'Beans']",5
+child,"['Person', 'Age Group']",2
+children,"['Person', 'Gender']",2
+chilli,"['Ingredient', 'Color', 'Food', 'Vegetable', 'Sauce', 'Spice', 'Herb', 'Dish']",8
+chin,"['Procedure', 'Body Part', 'Facial Feature', 'Face', 'Hair Removal']",5
+china glaze,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+chinese,"['Species', 'Cuisine', 'Language']",3
+chinese medicine,"['Treatment', 'Modality', 'Therapy', 'Alternative Medicine', 'Medicine']",5
+chipotle,"['Company', 'Restaurant']",2
+chives,"['Ingredient', 'Herb']",2
+chloe,"['Brand', 'Fashion Brand']",2
+chloraseptic,"['Drug Brand', 'Lozenge']",2
+chlorhexidine,"['Agent', 'Antiseptic']",2
+chloride,"['Nutrient', 'Anion', 'Compound', 'Acid', 'Mineral', 'Chemical', 'Buffer']",7
+chlorine,"['Mineral', 'Chemical', 'Element', 'Gas']",4
+chobani,"['Brand', 'Company']",2
+chocolate,"['Product', 'Food', 'Fruit', 'Flavor', 'Dessert', 'Herb', 'Snack']",7
+chocolate chip,"['Food', 'Flavor', 'Cookie']",3
+cholesterol,"['Nutrient', 'Risk Factor', 'Diet', 'Fats', 'Pathway']",5
+choline,"['Nutrient', 'Vitamin']",2
+chop,"['Healthcare Company', 'School', 'Hospital']",3
+chris,"['Celebrity', 'Player']",2
+christ,"['Other Brands', 'Others']",2
+christian dior,"['Retailer', 'Brand', 'Store']",3
+christian louboutin,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+christmas,"['Occasion', 'Special Occasion', 'Event', 'Holiday']",4
+chunks,"['Other Brands', 'Others']",2
+ciate,"['Brand', 'Fashion Brand']",2
+cider,"['Drink', 'Beverage']",2
+cilantro,"['Ingredient', 'Food', 'Oil', 'Herb']",4
+cinnamon,"['Ingredient', 'Fruit', 'Oil', 'Flavor', 'Vegetable', 'Spice', 'Herb']",7
+cinnamon rolls,"['Food', 'Treat']",2
+city,"['Place', 'Information', 'Location', 'Governmental Area', 'Location Type']",5
+claire's,"['Retailer', 'Brand', 'Store']",3
+clarifying cleanser,"['Product', 'Cleanser']",2
+clarin,"['Manufacturer', 'Brand']",2
+clarins,"['Manufacturer', 'Retailer', 'Brand', 'Fashion Brand', 'Store']",5
+clarisonic,"['Manufacturer', 'Brand']",2
+clavicle,"['Body Part', 'Bones']",2
+cle de peau,"['Manufacturer', 'Brand']",2
+clean & clear,"['Manufacturer', 'Brand']",2
+clean and clear,"['Manufacturer', 'Brand']",2
+clean clear,"['Manufacturer', 'Brand']",2
+cleaning products,"['Product', 'Amenity']",2
+cleanser,"['Product', 'Brush', 'Skin Care Product']",3
+cleansing,"['Product', 'Step']",2
+clear acrylic,"['Material', 'Color']",2
+clear and brilliant,"['Other Brands', 'Others']",2
+clear cell,"['Tumor', 'Subtype']",2
+clearasil,"['Manufacturer', 'Brand']",2
+clinic,"['Manufacturer', 'Brand', 'Service', 'Facility', 'Health Care Facility']",5
+clinique,"['Manufacturer', 'Brand', 'Fashion Brand', 'Store', 'Beauty Brand']",5
+clip in hair extensions,"['Method', 'Extension']",2
+clipper,"['Brand', 'Team']",2
+clippers,"['Other Brands', 'Others']",2
+closys,"['Product', 'Brand']",2
+clothes,"['Product', 'Accessory', 'Apparel']",3
+clove,"['Oil', 'Spice', 'Herb']",3
+cnd,"['Manufacturer', 'Brand']",2
+coach,"['Brand', 'Fashion Brand']",2
+coal,"['Resource', 'Fuel']",2
+coast,"['Other Brands', 'Others']",2
+coca cola,"['Manufacturer', 'Brand', 'Company', 'Sports Brand', 'Restaurant', 'Food Manufacturer']",6
+cocktails,"['Drink', 'Beverage']",2
+coco chanel,"['Brand', 'Fashion Brand']",2
+cocoa,"['Product', 'Drink', 'Beverage']",3
+cocoa butter,"['Ingredient', 'Oil']",2
+cocoa powder,"['Product', 'Ingredient']",2
+coconut,"['Ingredient', 'Color', 'Food', 'Fruit', 'Oil', 'Flavor', 'Tattoo', 'Drink', 'Dish']",9
+coconut bliss,"['Brand', 'Ice Cream']",2
+coconut cream,"['Ingredient', 'Flavor', 'Dessert']",3
+coconut milk,"['Ingredient', 'Drink', 'Alternative']",3
+coconut oil,"['Ingredient', 'Oil', 'Nut']",3
+coffee,"['Product', 'Drink', 'Beverage', 'Stain']",4
+coffee bean,"['Product', 'Brand', 'Company']",3
+coffee ice cream,"['Flavor', 'Dessert']",2
+cold,"['Condition', 'Illness', 'Disease', 'Infection', 'Virus']",5
+cold brew,"['Method', 'Drink']",2
+cold sore,"['Condition', 'Infection', 'Blister']",3
+cold sores,"['Condition', 'Infection']",2
+cold stone,"['Brand', 'Company', 'Restaurant']",3
+colgate,"['Manufacturer', 'Brand', 'Drug Brand', 'Company', 'Store', 'Toothpaste', 'Cosmetics Brand', 'Food Manufacturer', 'Group 5']",9
+collagen,"['Product', 'Ingredient', 'Protein']",3
+cologne,"['Fragrance', 'City']",2
+colon,"['Procedure', 'Body Part', 'Organ', 'Cancer', 'Tumor', 'Punctuation']",6
+coloplast,"['Manufacturer', 'Brand', 'Company', 'Healthcare Company']",4
+color,"['Property', 'Information', 'Element', 'Characteristic']",4
+color pop,"['Other Brands', 'Others']",2
+colorescience,"['Manufacturer', 'Brand']",2
+colour,"['Element', 'Characteristic']",2
+colourpop,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+comb,"['Product', 'Accessory', 'Personal Item', 'Tool']",4
+combination skin,"['Condition', 'Skin', 'Skin Type']",3
+comedonal acne,"['Condition', 'Form']",2
+comedones,"['Acne Type', 'Acne']",2
+conair,"['Brand', 'Company']",2
+concealer,"['Product', 'Brush', 'Makeup']",3
+condensed milk,"['Product', 'Ingredient']",2
+condition,"['Information', 'Element']",2
+coneflower,"['Plant', 'Flower']",2
+congestion,"['Symptom', 'Condition']",2
+constipation,"['Symptom', 'Condition', 'Disease']",3
+container store,"['Retailer', 'Store']",2
+converse,"['Brand', 'Fashion Brand', 'Sports Brand', 'Shoe Brand']",4
+cookies and cream,"['Flavor', 'Dessert']",2
+cooler,"['Other Brands', 'Others']",2
+coolsculpting,"['Procedure', 'Treatment', 'Filler']",3
+copper,"['Material', 'Nutrient', 'Color', 'Metal', 'Mineral', 'Trait', 'Element']",7
+copper hair,"['Color', 'Trait']",2
+coppertone,"['Manufacturer', 'Brand']",2
+coq10,"['Nutrient', 'Antioxidant']",2
+coral lipstick,"['Color', 'Lipstick']",2
+coriander,"['Ingredient', 'Vegetable', 'Spice', 'Herb']",4
+corn,"['Product', 'Grain', 'Ingredient', 'Food', 'Vegetable', 'Crop']",6
+corn syrup,"['Ingredient', 'Sweetener', 'Sugar']",3
+cornrows,"['Style', 'Hairstyle']",2
+cornstarch,"['Product', 'Ingredient']",2
+corpse bride,"['Movie', 'Film']",2
+corrector,"['Product', 'Concealer']",2
+corticosteroid,"['Drug', 'Medication']",2
+cortisone,"['Steroid', 'Corticosteroid']",2
+cortizone,"['Other Brands', 'Others']",2
+cortizone 10,"['Product', 'Brand', 'Drug Brand']",3
+cosmetic bag,"['Product', 'Bag']",2
+costco,"['Retailer', 'Brand', 'Company', 'Store', 'Jewelry Store']",5
+cottage,"['Place', 'Housing Type']",2
+cottage cheese,"['Product', 'Cheese']",2
+cotton,"['Material', 'Fashion Brand', 'Fabric', 'Amenity', 'Yarn', 'Fabric Type']",6
+coty,"['Manufacturer', 'Brand']",2
+cough,"['Symptom', 'Condition']",2
+cough syrup,"['Drug', 'Medication']",2
+countertop,"['Product', 'Surface']",2
+country,"['Place', 'Information', 'Governmental Area']",3
+couscous,"['Grain', 'Ingredient']",2
+covergirl,"['Manufacturer', 'Brand', 'Company']",3
+cowboy,"['Other Brands', 'Others']",2
+crab,"['Fish', 'Species', 'Seafood']",3
+crabtree & evelyn,"['Manufacturer', 'Brand']",2
+crawfish,"['Species', 'Seafood']",2
+cream,"['Product', 'Ingredient', 'Food', 'Sauce', 'Cheese', 'Hair Product']",6
+cream cheese,"['Product', 'Ingredient', 'Cheese']",3
+cream cleanser,"['Product', 'Body Part', 'Cleanser']",3
+cream soda,"['Fruit', 'Drink']",2
+cream stone,"['Other Brands', 'Others']",2
+creed,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+crest,"['Brand', 'Drug Brand', 'Company', 'Toothpaste']",4
+crew cut,"['Style', 'Hairstyle', 'Haircut']",3
+crop,"['Other Brands', 'Others']",2
+cross tattoo,"['Animal', 'Design', 'Tattoo']",3
+crown,"['Resort Hotel', 'Hotel']",2
+crush,"['Brand', 'Drink']",2
+cucumber,"['Fruit', 'Vegetable']",2
+culver's,"['Brand', 'Restaurant']",2
+cupcake,"['Other Brands', 'Others']",2
+cupcakes,"['Food', 'Treat', 'Dessert']",3
+cupping,"['Treatment', 'Technique', 'Therapy']",3
+curcumin,"['Compound', 'Antioxidant']",2
+curel,"['Manufacturer', 'Brand', 'Drug Brand']",3
+curl shampoo,"['Product', 'Shampoo']",2
+curly,"['Hair Type', 'Hair', 'Hairstyle']",3
+curly hair,"['Color', 'Hair Type', 'Hair', 'Hair Problem', 'Trait', 'Hairstyle', 'Wig']",7
+curly hairstyles,"['Style', 'Hairstyle']",2
+cuticle,"['Structure', 'Skin']",2
+cutting,"['Tool', 'Process']",2
+cvs,"['Retailer', 'Brand', 'Color', 'Company', 'Store', 'Site', 'Healthcare Company', 'Retail Store']",8
+cyst removal,"['Procedure', 'Condition']",2
+cystic acne,"['Condition', 'Form']",2
+cysts,"['Condition', 'Acne Type', 'Acne']",3
+d3,"['Nutrient', 'Game']",2
+dahlia,"['Plant', 'Flower']",2
+daily,"['Other Brands', 'Others']",2
+dairy,"['Product', 'Animal', 'Food', 'Allergy']",4
+dairy milk,"['Brand', 'Food Manufacturer']",2
+dairy queen,"['Brand', 'Company', 'Store', 'Restaurant']",4
+daisy,"['Tattoo', 'Plant', 'Flower']",3
+daiya,"['Retailer', 'Brand', 'Store', 'Ice Cream']",4
+dallas,"['Team', 'City']",2
+dance,"['Activity', 'Hobby', 'Sport']",3
+dandruff,"['Condition', 'Hair', 'Hair Problem']",3
+dandruff treatment,"['Treatment', 'Service']",2
+dark,"['Color', 'Skin Tone', 'Trait', 'Element', 'Hair Color']",5
+dark chocolate,"['Ingredient', 'Color', 'Food', 'Flavor']",4
+dark circles,"['Sign', 'Condition']",2
+dark hair,"['Color', 'Trait']",2
+dark skin,"['Trait', 'Skin', 'Skin Type']",3
+dark spots,"['Treatment', 'Symptom', 'Sign', 'Condition']",4
+darphin,"['Manufacturer', 'Brand']",2
+dawn,"['Other Brands', 'Others']",2
+day,"['Event', 'Success', 'Period']",3
+dc,"['Team', 'State']",2
+dd cream,"['Product', 'Skin Care Product']",2
+de,"['Country', 'Domain', 'Element', 'State', 'Algorithm']",5
+deborah lippmann,"['Manufacturer', 'Brand']",2
+deer,"['Animal', 'Design', 'Tattoo']",3
+degenerative,"['Condition', 'Deformity']",2
+dental,"['Benefit', 'Industry']",2
+deodorant,"['Product', 'Body Part']",2
+derma e,"['Manufacturer', 'Brand']",2
+derma roller,"['Other Brands', 'Others']",2
+dermablend,"['Manufacturer', 'Brand']",2
+dermal fillers,"['Procedure', 'Treatment', 'Filler']",3
+dermalogica,"['Manufacturer', 'Brand']",2
+dermaplaning,"['Procedure', 'Treatment', 'Condition']",3
+dermatitis,"['Condition', 'Disease', 'Infection']",3
+dermol,"['Emollient', 'Cream']",2
+desenex,"['Drug Brand', 'Medication', 'Cream']",3
+desert essence,"['Brand', 'Company']",2
+designs for health,"['Brand', 'Company']",2
+desitin,"['Brand', 'Drug Brand', 'Cream']",3
+desk,"['Furniture', 'Room']",2
+desserts,"['Food', 'Recipe']",2
+dettol,"['Brand', 'Drug Brand']",2
+dewalt,"['Brand', 'Company']",2
+dexamethasone,"['Steroid', 'Corticosteroid']",2
+diabetes,"['Symptom', 'Condition', 'Disease']",3
+diagnosis,"['Service', 'Aspect', 'Condition', 'Information', 'Health Issue']",5
+dial,"['Brand', 'Fruit']",2
+diamond,"['Material', 'Color', 'Metal', 'Stone']",4
+diamond face,"['Face', 'Shape']",2
+diamond shape,"['Shape', 'Diamond']",2
+diarrhea,"['Symptom', 'Condition', 'Disease']",3
+diclofenac,"['Drug Brand', 'Drug', 'Medication']",3
+diet green tea,"['Flavor', 'Drink']",2
+differin,"['Brand', 'Drug Brand', 'Medication', 'Retinoid']",4
+dill,"['Ingredient', 'Food', 'Spice', 'Herb']",4
+dimple,"['Other Brands', 'Others']",2
+dior,"['Manufacturer', 'Retailer', 'Brand', 'Fashion Brand', 'Company', 'Store', 'Designer']",7
+diphenhydramine,"['Antihistamine', 'Medication']",2
+diptyque,"['Manufacturer', 'Brand', 'Fashion Brand', 'Store']",4
+disaronno,"['Brand', 'Liqueur']",2
+dishwasher,"['Appliance', 'Home Appliance']",2
+disinfectant,"['Product', 'Drug']",2
+disney,"['Brand', 'Company', 'Tv Network', 'Hotel']",4
+disney princess,"['Brand', 'Character']",2
+diverticulitis,"['Condition', 'Disease']",2
+docosanol,"['Drug Brand', 'Drug']",2
+dog,"['Animal', 'Design', 'Tattoo']",3
+dogs,"['Animal', 'Tattoo']",2
+dolce and gabbana,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+dollar general,"['Retailer', 'Company', 'Store']",3
+dollar tree,"['Retailer', 'Brand', 'Color', 'Company', 'Store']",5
+dolphin,"['Animal', 'Resort Hotel']",2
+doterra,"['Brand', 'Company']",2
+double,"['Amount', 'Mattress Size', 'Hit', 'Bed Size']",4
+double chin,"['Body Part', 'Facial Feature', 'Problem Area']",3
+dove,"['Manufacturer', 'Brand', 'Fruit', 'Group 13', 'Group 12', 'Group 3']",6
+dove soap,"['Brand', 'Drug Brand']",2
+down syndrome,"['Condition', 'Disorder', 'Disease']",3
+doxycycline,"['Drug', 'Antibiotic']",2
+dr bronner's,"['Manufacturer', 'Brand']",2
+dr dennis gross,"['Manufacturer', 'Brand']",2
+dr dray,"['Other Brands', 'Others']",2
+dr mercola,"['Other Brands', 'Others']",2
+dr pimple popper,"['Other Brands', 'Others']",2
+dr sebi,"['Other Brands', 'Others']",2
+dr teal's,"['Other Brands', 'Others']",2
+dragon,"['Animal', 'Design', 'Tattoo']",3
+drake,"['School', 'Artist']",2
+dreadlock,"['Style', 'Hairstyle', 'Hair Style']",3
+dreadlocks,"['Style', 'Hairstyle']",2
+dream,"['Other Brands', 'Others']",2
+dress,"['Product', 'Piece', 'Clothing', 'Sock Style']",4
+drink,"['Product', 'Experience', 'Cost']",3
+drinks,"['Food', 'Recipe']",2
+drunk elephant,"['Manufacturer', 'Brand']",2
+dry,"['Product', 'Method', 'Condition', 'Dog Food', 'Skin Type']",5
+dry bar,"['Other Brands', 'Others']",2
+dry eyes,"['Condition', 'Disease']",2
+dry hair,"['Symptom', 'Condition', 'Hair', 'Hair Problem']",4
+dry scalp,"['Condition', 'Hair', 'Hair Problem']",3
+dry skin,"['Treatment', 'Symptom', 'Condition', 'Skin Condition', 'Skin', 'Skin Type']",6
+drybar,"['Other Brands', 'Others']",2
+drying,"['Method', 'Laundry', 'Process']",3
+duac,"['Product', 'Drug Brand', 'Medication']",3
+duck,"['Animal', 'Bird', 'Food', 'Meat', 'Dish', 'Recipe']",6
+duffel,"['Bag', 'Accessory']",2
+duke,"['Healthcare Company', 'School', 'Hospital']",3
+dunkin,"['Brand', 'Company', 'Store', 'Restaurant', 'Group 11', 'Poi:196']",6
+dunkin donuts,"['Brand', 'Company', 'Restaurant']",3
+dupe,"['Other Brands', 'Others']",2
+dupes,"['Other Brands', 'Others']",2
+during,"['Time Period', 'Project']",2
+dusk,"['Other Brands', 'Others']",2
+dutch bros,"['Retailer', 'Brand', 'Company', 'Store', 'Restaurant']",5
+dye,"['Other Brands', 'Others']",2
+eagle,"['Animal', 'Bird', 'Design', 'Car Make']",4
+ear,"['Procedure', 'Body Part', 'Symptom', 'Condition', 'Piercing', 'Tattoo', 'Place', 'Disease', 'Infection', 'Organ']",10
+ear hair,"['Body Part', 'Hair']",2
+ear infection,"['Condition', 'Illness', 'Disease', 'Infection']",4
+earl grey,"['Fruit', 'Tea']",2
+earring,"['Accessory', 'Jewelry']",2
+earrings,"['Product', 'Accessory', 'Jewelry']",3
+ears,"['Body Part', 'Condition', 'Tattoo', 'Organ']",4
+easter,"['Occasion', 'Event', 'Holiday']",3
+easy,"['Retailer', 'Store']",2
+eat,"['Experience', 'Cost']",2
+ebay,"['Retailer', 'Brand', 'Company', 'Store', 'Site']",5
+eclair,"['Other Brands', 'Others']",2
+ecotools,"['Manufacturer', 'Brand']",2
+eczema,"['Treatment', 'Condition', 'Disease', 'Infection', 'Skin']",5
+edge,"['Technology', 'Sander']",2
+edible,"['Other Brands', 'Others']",2
+egg,"['Product', 'Ingredient', 'Food', 'Dish', 'Allergy']",5
+eggs,"['Product', 'Food']",2
+elbow,"['Product', 'Body Part', 'Condition', 'Injury', 'Bones', 'Joint', 'Muscles']",7
+elbows,"['Body Part', 'Joint']",2
+elderberry,"['Fruit', 'Berry']",2
+electric,"['Utility', 'Resource', 'Fuel', 'Energy Source']",4
+electric hair,"['Other Brands', 'Others']",2
+electrolysis,"['Treatment', 'Method', 'Service']",3
+elemis,"['Manufacturer', 'Brand']",2
+elephant,"['Animal', 'Design', 'Tattoo']",3
+elf,"['Manufacturer', 'Brand', 'Store', 'Group 27']",4
+elf makeup,"['Manufacturer', 'Brand']",2
+elizabeth arden,"['Manufacturer', 'Brand', 'Fashion Brand', 'Cosmetics Brand']",4
+ellen tracy,"['Brand', 'Fashion Brand']",2
+emerald,"['Color', 'Mineral', 'Stone']",3
+end,"['Other Brands', 'Others']",2
+energy,"['Repair Shop', 'Industry', 'Sector']",3
+enlarged pores,"['Condition', 'Skin Condition']",2
+envy,"['Other Brands', 'Others']",2
+epiduo,"['Product', 'Medication', 'Retinoid']",3
+espn,"['Tv Network', 'Outlet']",2
+espresso,"['Product', 'Drink']",2
+essie,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+estee lauder,"['Manufacturer', 'Brand', 'Fashion Brand', 'Store', 'Cosmetics Brand']",5
+estrogen,"['Hormone', 'Drug']",2
+etsy,"['Retailer', 'Company', 'Store', 'Site']",4
+eucalyptus,"['Product', 'Ingredient', 'Oil', 'Species', 'Herb']",5
+eucerin,"['Manufacturer', 'Brand', 'Drug Brand', 'Cream']",4
+eve hair,"['Other Brands', 'Others']",2
+eve lom,"['Manufacturer', 'Brand']",2
+evening,"['Event', 'Success']",2
+evening primrose oil,"['Ingredient', 'Oil']",2
+event makeup,"['Service', 'Event']",2
+everlasting liquid lipstick,"['Product', 'Liner']",2
+examples,"['Other Brands', 'Others']",2
+exfoliating,"['Product', 'Step']",2
+exfoliating cleanser,"['Product', 'Cleanser']",2
+express,"['Retailer', 'Fashion Brand', 'Store']",3
+extra,"['Retailer', 'Brand', 'Store']",3
+exuviance,"['Manufacturer', 'Brand']",2
+eye,"['Procedure', 'Body Part', 'Condition', 'Piercing', 'Disease', 'Infection', 'Organ', 'Cancer', 'Tumor']",9
+eye bags,"['Symptom', 'Sign', 'Condition']",3
+eye cream,"['Product', 'Body Part', 'Skin Care Product']",3
+eye drops,"['Drug', 'Medication']",2
+eye infection,"['Condition', 'Disease', 'Infection']",3
+eye makeup,"['Product', 'Facial Feature', 'Makeup']",3
+eye pencil,"['Product', 'Makeup']",2
+eye primer,"['Product', 'Makeup']",2
+eye shadow,"['Product', 'Makeup']",2
+eyebrow,"['Body Part', 'Service', 'Piercing', 'Facial Feature', 'Tattoo', 'Hair', 'Brush', 'Sensitive Area']",8
+eyebrow pencil,"['Product', 'Brush']",2
+eyebrow shape,"['Treatment', 'Service']",2
+eyebrows,"['Body Part', 'Condition', 'Facial Feature']",3
+eyeglasses,"['Product', 'Service', 'Accessory', 'Device']",4
+eyelash,"['Body Part', 'Condition', 'Facial Feature', 'Hair', 'Brush']",5
+eyelash extensions,"['Treatment', 'Service']",2
+eyelashes,"['Body Part', 'Facial Feature']",2
+eyelid,"['Procedure', 'Body Part', 'Facial Feature', 'Structure', 'Site', 'Eye']",6
+eyelids,"['Body Part', 'Place', 'Site']",3
+eyeliner,"['Product', 'Brush', 'Makeup']",3
+eyes,"['Procedure', 'Product', 'Body Part', 'Animal', 'Symptom', 'Condition', 'Piercing', 'Facial Feature', 'Tattoo', 'Disease', 'Injury', 'Face', 'Infection', 'Brush', 'Organ', 'Cancer', 'Information']",17
+eyeshadow,"['Product', 'Brush', 'Makeup']",3
+face,"['Procedure', 'Product', 'Body Part', 'Symptom', 'Service', 'Condition', 'Piercing', 'Tattoo', 'Injury', 'Face', 'Brush', 'Technique', 'Sensitive Area']",13
+face brush,"['Product', 'Brush']",2
+face cream,"['Product', 'Skin Care Product']",2
+face lift,"['Procedure', 'Treatment', 'Condition']",3
+face primer,"['Product', 'Makeup']",2
+face towels,"['Product', 'Towel']",2
+face wax,"['Treatment', 'Service']",2
+facebook,"['Company', 'Store', 'Platform', 'Site', 'Tv Network', 'App', 'Search Engine']",7
+facelift,"['Procedure', 'Body Part']",2
+facet joint,"['Condition', 'Joint']",2
+facial,"['Body Part', 'Treatment', 'Method', 'Service', 'Condition', 'Technique', 'Body Wax']",7
+facial hair removal,"['Body Part', 'Treatment', 'Service', 'Facial Feature', 'Sensitive Area']",5
+facials,"['Treatment', 'Condition']",2
+factory,"['Other Brands', 'Others']",2
+fade haircut,"['Style', 'Hairstyle', 'Haircut']",3
+fair,"['Activity', 'Skin Tone']",2
+fair skin,"['Skin Tone', 'Trait', 'Skin']",3
+fairy,"['Other Brands', 'Others']",2
+faith,"['Retailer', 'Emotion', 'Virtue']",3
+fall,"['Flower', 'Season']",2
+family dollar,"['Retailer', 'Store']",2
+fan brush,"['Product', 'Brush']",2
+fannie may,"['Brand', 'Food Manufacturer']",2
+fao schwarz,"['Retailer', 'Store']",2
+farmasi,"['Other Brands', 'Others']",2
+fascia blaster,"['Other Brands', 'Others']",2
+fashion makeup,"['Service', 'Event']",2
+fat,"['Nutrient', 'Diet', 'Pathway']",3
+fat face,"['Other Brands', 'Others']",2
+fat free,"['Diet', 'Claim']",2
+fat reduction,"['Procedure', 'Treatment']",2
+fat transfer,"['Procedure', 'Body Part']",2
+fatboy,"['Other Brands', 'Others']",2
+fatigue,"['Symptom', 'Condition', 'Disorder']",3
+feet,"['Procedure', 'Product', 'Body Part', 'Symptom', 'Condition', 'Organ', 'Joint']",7
+fendi,"['Brand', 'Fashion Brand']",2
+fenty,"['Brand', 'Fashion Brand']",2
+ferragamo,"['Brand', 'Fashion Brand']",2
+ferrari,"['Brand', 'Car Make']",2
+ferrero,"['Brand', 'Food Manufacturer']",2
+ferulic acid,"['Compound', 'Antioxidant']",2
+fever,"['Symptom', 'Condition']",2
+fever blister,"['Condition', 'Infection', 'Blister']",3
+fields,"['Other Brands', 'Others']",2
+fig,"['Fruit', 'Tree']",2
+fillers,"['Procedure', 'Treatment']",2
+finacea,"['Treatment', 'Drug Brand', 'Medication', 'Cream']",4
+finasteride,"['Product', 'Treatment', 'Drug', 'Medication']",4
+fine,"['Hair Type', 'Hairstyle']",2
+fine hair,"['Hair Type', 'Hair', 'Hair Problem', 'Trait', 'Hairstyle']",5
+fine lines,"['Symptom', 'Sign', 'Condition']",3
+finger,"['Body Part', 'Condition', 'Design', 'Tattoo', 'Injury', 'Joint']",6
+finger tattoo,"['Body Part', 'Animal', 'Tattoo']",3
+fingers,"['Body Part', 'Symptom', 'Tattoo', 'Joint']",4
+finishing powder,"['Product', 'Powder']",2
+firefly,"['Other Brands', 'Others']",2
+first,"['Information', 'Toe', 'Transit Agency', 'Fraction']",4
+first aid beauty,"['Manufacturer', 'Brand', 'Store']",3
+fish,"['Product', 'Animal', 'Food', 'Activity', 'Design', 'Tattoo', 'Sauce', 'Meat', 'Dish', 'Seafood']",10
+fish oil,"['Oil', 'Supplement']",2
+fissure,"['Condition', 'Complication']",2
+fl,"['City', 'State', 'Lubricant']",3
+flamingo,"['Other Brands', 'Others']",2
+flannel,"['Fabric', 'Fabric Type']",2
+flat warts,"['Wart', 'Disease']",2
+flaxseed oil,"['Oil', 'Supplement']",2
+flo,"['Other Brands', 'Others']",2
+floor,"['Product', 'Place', 'Element', 'Surface']",4
+flower,"['Other Brands', 'Others']",2
+flower tattoo,"['Body Part', 'Animal', 'Bird', 'Design', 'Tattoo']",5
+fluocinonide,"['Steroid', 'Corticosteroid']",2
+fluoride,"['Compound', 'Mineral', 'Chemical']",3
+foaming cleanser,"['Product', 'Cleanser']",2
+folliculitis,"['Condition', 'Infection']",2
+food,"['Product', 'Accessory', 'Cost', 'Necessity']",4
+food allergy,"['Condition', 'Disease', 'Allergy']",3
+foot,"['Procedure', 'Product', 'Body Part', 'Treatment', 'Symptom', 'Condition', 'Injury', 'Bones', 'Technique', 'Joint', 'Muscles']",11
+foot cream,"['Product', 'Body Part']",2
+foot pain,"['Symptom', 'Condition', 'Disease']",3
+football,"['Activity', 'Sport']",2
+forearm,"['Body Part', 'Animal', 'Condition', 'Tattoo', 'Injury', 'Bones', 'Joint', 'Muscles']",8
+forearms,"['Body Part', 'Condition']",2
+forehead,"['Procedure', 'Product', 'Body Part', 'Animal', 'Facial Feature', 'Face', 'Hair Removal']",7
+foreskin,"['Structure', 'Site']",2
+fossil,"['Brand', 'Fashion Brand']",2
+foundation,"['Other Brands', 'Others']",2
+fox,"['Animal', 'Brand', 'Sports Brand', 'Tv Network']",4
+fox eye,"['Other Brands', 'Others']",2
+fragrance free,"['Product', 'Must', 'Foundation']",3
+framar,"['Other Brands', 'Others']",2
+frankincense,"['Oil', 'Herb']",2
+fred meyer,"['Retailer', 'Company', 'Store']",3
+free,"['Other Brands', 'Others']",2
+free people,"['Retailer', 'Brand', 'Store']",3
+freedom,"['Retailer', 'Store']",2
+freezing,"['Method', 'Process']",2
+fried,"['Method', 'Food']",2
+fried chicken,"['Food', 'Dish']",2
+fried rice,"['Food', 'Dish']",2
+frizz,"['Hair', 'Hair Problem']",2
+frizzy hair,"['Condition', 'Hair Type', 'Hair', 'Hair Problem', 'Hairstyle']",5
+frog,"['Animal', 'Tattoo']",2
+frown lines,"['Body Part', 'Wrinkle', 'Line']",3
+frozen,"['Movie', 'Film']",2
+frozen yogurt,"['Treat', 'Dessert']",2
+fructose,"['Ingredient', 'Sweetener', 'Sugar']",3
+fruit,"['Product', 'Food', 'Vegetable', 'Meat', 'Crop', 'Allergy']",6
+fruit punch,"['Fruit', 'Drink']",2
+fsa,"['Other Brands', 'Others']",2
+full,"['Mattress Size', 'Bed Size']",2
+full cream milk,"['Product', 'Food']",2
+full face,"['Procedure', 'Body Part', 'Animal', 'Facial Feature']",4
+fuller,"['Manufacturer', 'Cosmetics Brand']",2
+funfetti,"['Flavor', 'Dessert']",2
+funny,"['Other Brands', 'Others']",2
+fur,"['Material', 'Fabric']",2
+g2,"['Other Brands', 'Others']",2
+gaba,"['Amino Acid', 'Neurotransmitter']",2
+galaxy,"['Other Brands', 'Others']",2
+gamma,"['Retailer', 'Measure', 'Distribution']",3
+garden,"['Product', 'Place']",2
+garden of life,"['Brand', 'Company']",2
+gardenia,"['Oil', 'Plant', 'Flower']",3
+garlic,"['Product', 'Ingredient', 'Food', 'Fruit', 'Oil', 'Vegetable', 'Sauce', 'Spice', 'Herb', 'Dish']",10
+garnier,"['Manufacturer', 'Brand', 'Group 13', 'Group 7']",4
+gas,"['Utility', 'Resource', 'Energy Source']",3
+gel,"['Product', 'Body Part', 'Hair Product']",3
+gel cleanser,"['Product', 'Cleanser']",2
+gelato,"['Treat', 'Dessert']",2
+genital,"['Body Part', 'Stage']",2
+genital herpes,"['Disease', 'Infection']",2
+genital warts,"['Wart', 'Disease', 'Infection']",3
+gentle cleanser,"['Product', 'Cleanser']",2
+georgia,"['Brand', 'Team', 'School', 'State']",4
+ghost,"['Other Brands', 'Others']",2
+giant,"['Retailer', 'Brand', 'Fashion Brand', 'Store', 'Sports Brand', 'Jewelry Store']",6
+gillette,"['Brand', 'Fashion Brand', 'Company']",3
+ginger,"['Ingredient', 'Food', 'Fruit', 'Oil', 'Vegetable', 'Tea', 'Spice', 'Herb']",8
+gingivitis,"['Procedure', 'Symptom', 'Condition', 'Disease']",4
+ginseng,"['Ingredient', 'Herb']",2
+giorgio armani,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+givenchy,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+glamglow,"['Manufacturer', 'Brand']",2
+glass,"['Material', 'Metal']",2
+glitter,"['Other Brands', 'Others']",2
+glitter eye makeup,"['Color', 'Trend']",2
+glo,"['Other Brands', 'Others']",2
+gloss,"['Finish', 'Paper Finish']",2
+glossier,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+glossy,"['Finish', 'Paper Finish']",2
+gloves,"['Product', 'Accessory', 'Equipment', 'Shoe']",4
+gluconate,"['Acid', 'Form']",2
+glue,"['Material', 'Tool']",2
+glutathione,"['Nutrient', 'Antioxidant']",2
+gluten,"['Grain', 'Ingredient', 'Food', 'Crop']",4
+gluten intolerance,"['Condition', 'Sugar']",2
+glycerin,"['Product', 'Ingredient']",2
+glycolic,"['Ingredient', 'Acid']",2
+glycolic acid,"['Ingredient', 'Acid']",2
+gnc,"['Retailer', 'Brand', 'Store']",3
+goatee,"['Hair', 'Style', 'Facial Hair']",3
+gojo,"['Manufacturer', 'Brand', 'Company', 'Store']",4
+gold,"['Material', 'Nutrient', 'Color', 'Metal', 'Stone', 'Glitter', 'Trait', 'Tree', 'Jewelry Type']",9
+gold bond,"['Manufacturer', 'Brand', 'Drug Brand']",3
+gold eye makeup,"['Color', 'Trend']",2
+gold glitter,"['Color', 'Glitter']",2
+golden,"['Other Brands', 'Others']",2
+good,"['Product', 'Activity']",2
+good clean love,"['State', 'Lubricant']",2
+google,"['Retailer', 'Brand', 'Service', 'Company', 'Store', 'Eletronics Brand', 'Platform', 'Site', 'Tv Network', 'Search Engine', 'Website']",11
+goop,"['Other Brands', 'Others']",2
+gorilla,"['Animal', 'Design']",2
+gout,"['Condition', 'Disease']",2
+goya,"['Retailer', 'Store', 'Food Manufacturer']",3
+graduation,"['Occasion', 'Special Occasion', 'Event']",3
+graeter's,"['Retailer', 'Store']",2
+grahams natural,"['Other Brands', 'Others']",2
+grain,"['Food', 'Crop']",2
+grape,"['Color', 'Fruit', 'Oil', 'Herb']",4
+grapefruit,"['Brand', 'Color', 'Fruit', 'Oil']",4
+grapes,"['Fruit', 'Vegetable']",2
+gray,"['Color', 'Stone', 'Tree', 'Herb', 'Dentist']",5
+great clips,"['Brand', 'Tenant', 'Salon']",3
+green,"['Color', 'Food', 'Fruit', 'Oil', 'Drink', 'Vegetable', 'Sauce', 'Tea', 'Spice', 'Stone', 'Dress', 'Dessert', 'Tree', 'Herb', 'Dish', 'Crop', 'Peel', 'Flower', 'Alga']",19
+green apple,"['Fruit', 'Flavor', 'Contractor']",3
+green tea,"['Fruit', 'Drink', 'Tea']",3
+grey,"['Color', 'Fruit', 'Species', 'Drink', 'Stone', 'Herb']",6
+grey hair,"['Sign', 'Hair']",2
+groin,"['Body Part', 'Symptom', 'Condition', 'Place', 'Site', 'Body']",6
+grooming,"['Service', 'Activity', 'Dog Service']",3
+groupon,"['Retailer', 'Brand', 'Company', 'Store', 'Site', 'Travel Site']",6
+grunge aesthetic,"['Other Brands', 'Others']",2
+gua sha,"['Treatment', 'Technique']",2
+guava,"['Fruit', 'Oil']",2
+gucci,"['Manufacturer', 'Brand', 'Fashion Brand', 'Designer', 'Designer Brand', 'Pen']",6
+guerlain,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+gum disease,"['Procedure', 'Symptom', 'Condition', 'Disease']",4
+guttate psoriasis,"['Condition', 'Disease']",2
+h&m,"['Retailer', 'Brand', 'Fashion Brand', 'Store']",4
+haagen dazs,"['Retailer', 'Brand', 'Store', 'Ice Cream', 'Food Manufacturer']",5
+hair,"['Procedure', 'Product', 'Body Part', 'Material', 'Facial Feature', 'Brush', 'Organ', 'Information']",8
+hair breakage,"['Hair', 'Hair Problem']",2
+hair brush,"['Product', 'Accessory', 'Personal Item', 'Tool']",4
+hair clipper,"['Product', 'Tool']",2
+hair coloring,"['Treatment', 'Service']",2
+hair curling,"['Treatment', 'Service']",2
+hair loss,"['Symptom', 'Condition', 'Effect']",3
+hair removal,"['Procedure', 'Treatment', 'Service']",3
+hair salon,"['Business', 'Amenity']",2
+hair smoothing,"['Treatment', 'Service']",2
+hair spa,"['Treatment', 'Service']",2
+hair straightener,"['Product', 'Tool']",2
+hair straightening,"['Treatment', 'Service']",2
+hair style,"['Style', 'Characteristic']",2
+hair styling,"['Product', 'Service', 'Event']",3
+hair ties,"['Accessory', 'Personal Item']",2
+hair treatment,"['Product', 'Treatment', 'Service']",3
+hair up,"['Service', 'Event']",2
+hairdo,"['Other Brands', 'Others']",2
+half face,"['Body Part', 'Animal']",2
+half wig,"['Product', 'Wig']",2
+halloween,"['Occasion', 'Event', 'Holiday']",3
+halls,"['Brand', 'Drug Brand', 'Lozenge']",3
+hand,"['Procedure', 'Product', 'Body Part', 'Animal', 'Treatment', 'Symptom', 'Condition', 'Tattoo', 'Injury', 'Bones', 'Joint', 'Muscles']",12
+hand cream,"['Product', 'Body Part']",2
+hand pain,"['Body Part', 'Condition', 'Joint']",3
+hand tattoo,"['Body Part', 'Tattoo']",2
+handbag,"['Product', 'Accessory']",2
+hands,"['Product', 'Body Part', 'Animal', 'Bird', 'Condition', 'Tattoo', 'Injury', 'Organ', 'Technique', 'Joint']",10
+hannah,"['Other Brands', 'Others']",2
+harbor freight,"['Retailer', 'Company', 'Store']",3
+hard candy,"['Brand', 'Food']",2
+harry potter,"['Movie', 'Film']",2
+harry styles,"['Other Brands', 'Others']",2
+hat,"['Product', 'Accessory', 'Piece']",3
+hawaiian,"['Brand', 'Language']",2
+hazel eyes,"['Color', 'Trait']",2
+hazelnut,"['Fruit', 'Nut', 'Alternative']",3
+hdl,"['Nutrient', 'Risk Factor']",2
+head,"['Procedure', 'Body Part', 'Animal', 'Treatment', 'Brand', 'Symptom', 'Aspect', 'Condition', 'Tattoo', 'Injury', 'Sports Brand', 'Organ', 'Bones', 'Technique', 'Joint']",15
+health,"['Service', 'Sector', 'Insurance Type']",3
+heart,"['Procedure', 'Product', 'Body Part', 'Condition', 'Piercing', 'Tattoo', 'Disease', 'Organ', 'Cancer', 'Defect']",10
+heart attack,"['Condition', 'Disease']",2
+heart face,"['Face', 'Shape']",2
+heart tattoo,"['Body Part', 'Animal', 'Design', 'Tattoo']",4
+heat rash,"['Condition', 'Rash']",2
+heb,"['Manufacturer', 'Retailer', 'Company', 'Store', 'Cosmetics Brand']",5
+heel,"['Body Part', 'Condition', 'Detail']",3
+heel pain,"['Body Part', 'Condition']",2
+heels,"['Accessory', 'Shoe', 'Footwear']",3
+hello kitty,"['Other Brands', 'Others']",2
+hemmings,"['Other Brands', 'Others']",2
+hemorrhoids,"['Symptom', 'Condition']",2
+hemp,"['Material', 'Fabric']",2
+hemp oil,"['Product', 'Oil']",2
+hemp seed oil,"['Ingredient', 'Oil']",2
+henkel,"['Manufacturer', 'Company']",2
+henri bendel,"['Retailer', 'Store']",2
+henry,"['Other Brands', 'Others']",2
+hepatic,"['Condition', 'Disease']",2
+hepatitis,"['Condition', 'Disease', 'Infection', 'Virus', 'Vaccine']",5
+herbal,"['Brand', 'Natural Remedy']",2
+herbal essences,"['Manufacturer', 'Brand']",2
+herbal tea,"['Color', 'Fruit', 'Oil', 'Drink', 'Tea', 'Spice', 'Herb']",7
+hermes,"['Manufacturer', 'Retailer', 'Brand', 'Fashion Brand', 'Store']",5
+hernia,"['Condition', 'Disease']",2
+herpes,"['Condition', 'Disease', 'Infection', 'Virus']",4
+herpes simplex,"['Condition', 'Infection']",2
+hershey,"['Brand', 'Company']",2
+hibiclens,"['Other Brands', 'Others']",2
+hibiscus,"['Plant', 'Herb', 'Flower']",3
+hibiscus tea,"['Fruit', 'Tea', 'Spice', 'Herb']",4
+hickory,"['Species', 'Tree', 'Nut']",3
+high,"['Place', 'Degree']",2
+high cholesterol,"['Condition', 'Disease']",2
+highlighter,"['Product', 'Brush']",2
+hill,"['Place', 'Environment Terrain']",2
+hills,"['Retailer', 'Pet Food']",2
+himalayan,"['Other Brands', 'Others']",2
+hip,"['Procedure', 'Body Part', 'Symptom', 'Condition', 'Piercing', 'Injury', 'Bones', 'Joint', 'Muscles', 'Body', 'Workout']",11
+hips,"['Body Part', 'Symptom', 'Condition', 'Piercing', 'Bones', 'Joint']",6
+home,"['Place', 'Information', 'Insurance Type']",3
+home depot,"['Retailer', 'Brand', 'Company', 'Store', 'Retail Store']",5
+homeopathy,"['Treatment', 'Therapy', 'Alternative Medicine', 'Medicine']",4
+honda,"['Brand', 'Company', 'Car Make']",3
+honest,"['Retailer', 'Brand', 'Store']",3
+honest beauty,"['Manufacturer', 'Brand']",2
+honest company,"['Retailer', 'Store']",2
+honey,"['Product', 'Ingredient', 'Food', 'Sweetener', 'Oil']",5
+hooded,"['Property', 'Detail']",2
+hooded eyes,"['Color', 'Shape', 'Trend']",3
+hoodie,"['Product', 'Piece', 'Clothing']",3
+hoof,"['Other Brands', 'Others']",2
+hoop,"['Other Brands', 'Others']",2
+hormonal acne,"['Condition', 'Form']",2
+horse,"['Animal', 'Design']",2
+hot chocolate,"['Drink', 'Beverage']",2
+hot toddy,"['Drink', 'Cocktail']",2
+hot wax,"['Product', 'Wax']",2
+hour,"['Event', 'Information', 'Fraction']",3
+hpv,"['Disease', 'Infection', 'Vaccine']",3
+hsn,"['Company', 'Tv Network']",2
+hsv,"['Disease', 'Virus']",2
+huda beauty,"['Manufacturer', 'Brand']",2
+hue,"['Fashion Brand', 'Color']",2
+human hair extensions,"['Product', 'Hair Extension']",2
+human hair wig,"['Product', 'Hairstyle', 'Wig']",3
+hyaluronic acid,"['Ingredient', 'Protein', 'Acid', 'Peel']",4
+hydrating eye cream,"['Product', 'Cream']",2
+hydrating face cream,"['Product', 'Cream']",2
+hydrating gel cream,"['Product', 'Cream']",2
+hydro,"['Other Brands', 'Others']",2
+hydrochloric acid,"['Acid', 'Salt']",2
+hydrocortisone,"['Steroid', 'Corticosteroid']",2
+hydrocortisone cream,"['Product', 'Cream']",2
+hydroquinone,"['Ingredient', 'Acid']",2
+hydroquinone cream,"['Treatment', 'Cream']",2
+hydroxy,"['Substituent', 'Alkyl Group', 'Functional Group']",3
+hydroxy acid,"['Ingredient', 'Acid']",2
+hyperpigmentation,"['Treatment', 'Condition', 'Skin Condition']",3
+hypertension,"['Condition', 'Disease', 'Organ']",3
+hypertrophic scars,"['Condition', 'Scar']",2
+hypothyroidism,"['Symptom', 'Condition', 'Disease', 'Effect']",4
+hyram,"['Other Brands', 'Others']",2
+ibs,"['Symptom', 'Condition', 'Disease']",3
+ibuprofen,"['Drug Brand', 'Drug', 'Medication']",3
+ice,"['Financial Institution', 'Forms Of Water']",2
+ice cream,"['Product', 'Retailer', 'Food']",3
+iced tea,"['Drink', 'Beverage']",2
+iconic,"['Brand', 'Fashion Brand']",2
+icy hot,"['Product', 'Drug Brand', 'Cream']",3
+idea,"['Retailer', 'Company']",2
+igloo,"['Other Brands', 'Others']",2
+ii,"['Roman Numeral', 'Game', 'Album']",3
+ikea,"['Retailer', 'Company', 'Store']",3
+ilia,"['Manufacturer', 'Brand']",2
+implants,"['Procedure', 'Treatment', 'Service']",3
+indian,"['Country', 'Hair', 'Cuisine', 'Language', 'Hair Extension']",5
+indian hair,"['Hair Type', 'Hair']",2
+infant,"['Person', 'Age Group', 'Growth Stage']",3
+infants,"['Person', 'Youth Stage']",2
+infection,"['Symptom', 'Condition', 'Disease', 'Complication']",4
+inflammation,"['Symptom', 'Condition']",2
+inflammatory acne,"['Condition', 'Form']",2
+ingredients,"['Ingredient', 'Information']",2
+ingrown hair,"['Condition', 'Irritation']",2
+ingrown hairs,"['Condition', 'Irritation']",2
+ingrown toenails,"['Condition', 'Infection']",2
+ink liner,"['Product', 'Liner']",2
+inn,"['Place', 'Lodging', 'Accommodation']",3
+inner thighs,"['Product', 'Body Part', 'Problem Area']",3
+innisfree,"['Manufacturer', 'Brand']",2
+inositol,"['Nutrient', 'Vitamin']",2
+instagram,"['Retailer', 'Platform', 'Site', 'App']",4
+instanatural,"['Brand', 'Company']",2
+intertrigo,"['Condition', 'Infection']",2
+invisalign,"['Procedure', 'Treatment', 'Service']",3
+iodine,"['Nutrient', 'Metal', 'Mineral', 'Element']",4
+ipl,"['Other Brands', 'Others']",2
+ipl photofacial,"['Procedure', 'Treatment']",2
+ipsy,"['Service', 'Company', 'Box']",3
+iris,"['Tissue', 'Plant', 'Flower', 'Eye']",4
+irish cream,"['Brand', 'Flavor', 'Dessert', 'Liqueur']",4
+iron,"['Material', 'Nutrient', 'Color', 'Metal', 'Mineral', 'Vitamin', 'Element']",7
+isopropyl,"['Compound', 'Substituent', 'Alkyl Group', 'Carbon Atom']",4
+isotretinoin,"['Product', 'Treatment', 'Ingredient', 'Medication', 'Retinoid']",5
+italian,"['Award', 'Food', 'Cuisine', 'Language']",4
+itching,"['Symptom', 'Condition', 'Complication']",3
+itchy scalp,"['Condition', 'Hair', 'Hair Problem']",3
+itchy skin,"['Symptom', 'Color', 'Condition', 'Skin Condition', 'Skin']",5
+iunik,"['Other Brands', 'Others']",2
+iv,"['Roman Numeral', 'Game']",2
+ivory,"['Brand', 'Color', 'Fruit']",3
+ivory soap,"['Manufacturer', 'Brand']",2
+j crew,"['Retailer', 'Brand', 'Fashion Brand', 'Store']",4
+jack,"['Other Brands', 'Others']",2
+jaclyn cosmetics,"['Other Brands', 'Others']",2
+jaguar,"['Brand', 'Car Make']",2
+james,"['Celebrity', 'Player', 'Actor']",3
+jane iredale,"['Manufacturer', 'Brand']",2
+japanese,"['Species', 'Language']",2
+jars,"['Product', 'Container']",2
+jasmine,"['Oil', 'Plant', 'Flower']",3
+jason,"['Other Brands', 'Others']",2
+jaw line,"['Body Part', 'Face']",2
+jawline,"['Procedure', 'Body Part', 'Facial Feature', 'Face']",4
+jeffree star,"['Manufacturer', 'Brand']",2
+jelly,"['Product', 'Food', 'Flavor']",3
+jenni rivera,"['Other Brands', 'Others']",2
+jennifer lopez,"['Celebrity', 'Artist']",2
+jergens,"['Manufacturer', 'Brand', 'Drug Brand']",3
+jessup makeup brushes,"['Other Brands', 'Others']",2
+jewel,"['Retailer', 'Store']",2
+jewellery,"['Product', 'Accessory']",2
+jewelry,"['Product', 'Accessory']",2
+jimmy,"['Other Brands', 'Others']",2
+jimmy choo,"['Brand', 'Fashion Brand', 'Designer']",3
+jo malone,"['Manufacturer', 'Brand', 'Fashion Brand', 'Store']",4
+jock itch,"['Condition', 'Infection']",2
+john,"['Star', 'Person', 'Actor', 'Church']",4
+john varvatos,"['Brand', 'Fashion Brand']",2
+johnson,"['Manufacturer', 'Brand', 'Healthcare Company', 'Cosmetics Brand']",4
+johnson & johnson,"['Manufacturer', 'Company', 'Store', 'Healthcare Company']",4
+johnson and johnson,"['Manufacturer', 'Brand', 'Company', 'Store', 'Healthcare Company', 'Cosmetics Brand']",6
+joint pain,"['Body Part', 'Symptom', 'Condition', 'Bones', 'Pain']",5
+joint pain relief,"['Body Part', 'Condition', 'Benefit']",3
+joints,"['Tissue', 'Symptom', 'Organ']",3
+jojoba,"['Ingredient', 'Oil']",2
+jojoba oil,"['Ingredient', 'Oil']",2
+jones,"['Other Brands', 'Others']",2
+jordan,"['Other Brands', 'Others']",2
+jordana,"['Manufacturer', 'Brand']",2
+joshua tree,"['Other Brands', 'Others']",2
+jowls,"['Body Part', 'Wrinkle', 'Facial Feature', 'Problem Area']",4
+joyce,"['Retailer', 'Store']",2
+juice,"['Drink', 'Beverage', 'Stain']",3
+juice beauty,"['Manufacturer', 'Brand']",2
+juicy,"['Brand', 'Fashion Brand']",2
+juicy couture,"['Brand', 'Fashion Brand']",2
+juliette has a gun,"['Manufacturer', 'Brand']",2
+jumbo,"['Retailer', 'Store']",2
+juno,"['Other Brands', 'Others']",2
+justin bieber,"['Other Brands', 'Others']",2
+juvederm,"['Procedure', 'Treatment', 'Filler']",3
+k2,"['Nutrient', 'Sports Brand']",2
+kahlua,"['Brand', 'Liqueur']",2
+kale,"['Food', 'Fruit', 'Vegetable']",3
+kat von d,"['Manufacturer', 'Brand']",2
+kate somerville,"['Manufacturer', 'Brand']",2
+kate spade,"['Brand', 'Fashion Brand']",2
+katy perry,"['Celebrity', 'Artist']",2
+kawasaki,"['Brand', 'Car Make', 'Automotive Business']",3
+keloid,"['Condition', 'Scar']",2
+keloids,"['Condition', 'Scar']",2
+kelp,"['Vegetable', 'Seaweed']",2
+kerasal,"['Brand', 'Drug Brand']",2
+keratin,"['Ingredient', 'Protein']",2
+keratin treatment,"['Treatment', 'Service']",2
+kesar,"['Herb', 'Variety']",2
+ketoconazole,"['Ingredient', 'Drug', 'Antibiotic']",3
+ketone,"['Product', 'Compound', 'Solvent']",3
+kevin,"['Player', 'Actor']",2
+kidney,"['Body Part', 'Condition', 'Disease', 'Infection', 'Organ', 'Cancer', 'Defect', 'Tumor']",8
+kiehl's,"['Manufacturer', 'Brand']",2
+kiehls,"['Manufacturer', 'Brand']",2
+kiko,"['Other Brands', 'Others']",2
+kim kardashian,"['Celebrity', 'Artist']",2
+kinky curly,"['Brand', 'Texture']",2
+kinky hair,"['Color', 'Hair Type', 'Hair', 'Trait', 'Hairstyle', 'Wig']",6
+kipling,"['Brand', 'Fashion Brand']",2
+kirkland,"['Retailer', 'City']",2
+kiss,"['Other Brands', 'Others']",2
+kiss my face,"['Brand', 'Toothpaste']",2
+kitchenaid,"['Brand', 'Appliance Brand']",2
+kiwi,"['Fruit', 'Airlines', 'Vegetable']",3
+klorane,"['Manufacturer', 'Brand']",2
+knee,"['Procedure', 'Product', 'Body Part', 'Treatment', 'Symptom', 'Condition', 'Injury', 'Style', 'Bones', 'Joint', 'Muscles']",11
+knee pain,"['Symptom', 'Condition', 'Disease']",3
+knees,"['Body Part', 'Symptom', 'Joint']",3
+kohl,"['Retailer', 'Company']",2
+kohls,"['Manufacturer', 'Retailer', 'Brand', 'Fashion Brand', 'Company', 'Store']",6
+kojic acid,"['Product', 'Ingredient', 'Acid']",3
+kool aid,"['Brand', 'Drink']",2
+korean,"['Species', 'Language', 'Tree']",3
+korres,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+kraft,"['Manufacturer', 'Brand', 'Company', 'Store', 'Restaurant', 'Food Manufacturer']",6
+kroger,"['Retailer', 'Brand', 'Company', 'Store', 'Retail Store']",5
+kvd,"['Other Brands', 'Others']",2
+kybella,"['Procedure', 'Treatment', 'Filler']",3
+kyleena,"['Drug Brand', 'Iud']",2
+kylie cosmetics,"['Manufacturer', 'Brand']",2
+kylie jenner,"['Celebrity', 'Artist']",2
+la,"['City', 'State', 'Algorithm']",3
+la mer,"['Manufacturer', 'Brand', 'Group 4']",3
+la prairie,"['Manufacturer', 'Brand', 'Store']",3
+la roche posay,"['Manufacturer', 'Brand']",2
+lab series,"['Manufacturer', 'Brand']",2
+lac hydrin,"['Brand', 'Drug Brand', 'Moisturizer']",3
+lactate,"['Product', 'Compound', 'Form', 'Enzyme']",4
+lactic acid,"['Ingredient', 'Acid', 'Peel']",3
+lactose,"['Sweetener', 'Sugar']",2
+ladies,"['Service', 'Person', 'Gender', 'Size Category']",4
+lady gaga,"['Celebrity', 'Artist']",2
+laird superfood,"['Other Brands', 'Others']",2
+lake,"['Body', 'Water Body']",2
+lamer,"['Manufacturer', 'Brand']",2
+lamisil,"['Drug Brand', 'Medication', 'Cream']",3
+lancome,"['Manufacturer', 'Brand', 'Fashion Brand', 'Store', 'Beauty Brand']",5
+laneige,"['Manufacturer', 'Brand']",2
+lanolin,"['Ingredient', 'Oil']",2
+lara devgan,"['Other Brands', 'Others']",2
+large pores,"['Condition', 'Scar']",2
+lasagna,"['Dish', 'Pasta']",2
+laser,"['Printer', 'Printer Type']",2
+laser hair removal,"['Procedure', 'Treatment', 'Method']",3
+laser resurfacing,"['Procedure', 'Treatment']",2
+laser therapy,"['Treatment', 'Therapy']",2
+laser treatment,"['Procedure', 'Treatment', 'Condition']",3
+laser treatments,"['Procedure', 'Treatment']",2
+lashes,"['Body Part', 'Service']",2
+laugh lines,"['Body Part', 'Wrinkle', 'Line']",3
+laura geller,"['Manufacturer', 'Brand']",2
+laura mercier,"['Manufacturer', 'Brand']",2
+lavender,"['Product', 'Ingredient', 'Oil', 'Tea', 'Herb', 'Florist']",6
+lavender oil,"['Ingredient', 'Oil']",2
+laxative,"['Drug', 'Medication']",2
+layered haircut,"['Style', 'Hairstyle']",2
+layrite,"['Brand', 'Pomade']",2
+le labo,"['Manufacturer', 'Brand']",2
+leather,"['Material', 'Fabric']",2
+leaves,"['Material', 'Plant']",2
+led,"['Technology', 'Light Source']",2
+led light therapy,"['Treatment', 'Condition']",2
+lee,"['Brand', 'Fashion Brand']",2
+left,"['Poi:17', 'Concepts']",2
+leg,"['Procedure', 'Product', 'Body Part', 'Treatment', 'Symptom', 'Condition', 'Tattoo', 'Injury', 'Bones', 'Technique', 'Joint', 'Muscles', 'Body', 'Workout', 'Exercise']",15
+leg pain,"['Symptom', 'Condition', 'Disease', 'Pain']",4
+legs,"['Product', 'Body Part', 'Animal', 'Symptom', 'Condition', 'Facial Feature', 'Tattoo', 'Organ', 'Joint', 'Sensitive Area', 'Body Wax']",11
+lemon,"['Ingredient', 'Color', 'Food', 'Fruit', 'Oil', 'Flavor', 'Drink', 'Vegetable', 'Tea', 'Dessert', 'Tree', 'Herb', 'Liqueur']",13
+lemon balm,"['Oil', 'Herb']",2
+lemon chicken,"['Vegetable', 'Dish']",2
+lemon tea,"['Drink', 'Tea', 'Spice', 'Herb']",4
+lemonade,"['Fruit', 'Drink', 'Beverage']",3
+lemongrass,"['Oil', 'Spice', 'Herb']",3
+length,"['Mm', 'Information']",2
+lens,"['Tissue', 'Device', 'Eye']",3
+leo,"['Manufacturer', 'Sign']",2
+leopard,"['Animal', 'Design', 'Species', 'Tattoo']",4
+lesportsac,"['Retailer', 'Brand', 'Fashion Brand', 'Store']",4
+lettuce,"['Food', 'Vegetable']",2
+leukemia,"['Disease', 'Cancer', 'Tumor']",3
+lg,"['Brand', 'Company', 'Eletronics Brand', 'Appliance Brand']",4
+licorice,"['Spice', 'Herb']",2
+light,"['Color', 'Skin Tone', 'Trait', 'Element', 'Hair Color']",5
+light green,"['Color', 'Stone']",2
+light skin,"['Trait', 'Skin', 'Skin Type']",3
+lilac,"['Color', 'Fruit', 'Flower']",3
+lilly pulitzer,"['Brand', 'Fashion Brand']",2
+lily,"['Tattoo', 'Plant', 'Flower']",3
+lime,"['Color', 'Food', 'Fruit', 'Oil', 'Herb', 'Liqueur']",6
+limelight,"['Other Brands', 'Others']",2
+limoncello,"['Brand', 'Liqueur']",2
+line,"['Other Brands', 'Others']",2
+lingerie,"['Product', 'Piece']",2
+lion,"['Animal', 'Design', 'Tattoo']",3
+lip,"['Procedure', 'Product', 'Body Part', 'Symptom', 'Piercing', 'Facial Feature', 'Tattoo', 'Place', 'Brush', 'Organ', 'Sensitive Area']",11
+lip augmentation,"['Procedure', 'Treatment']",2
+lip balm,"['Product', 'Skin Care Product']",2
+lip enhancement,"['Procedure', 'Treatment']",2
+lip fillers,"['Procedure', 'Treatment', 'Filler']",3
+lip gloss,"['Product', 'Makeup']",2
+lip injections,"['Procedure', 'Treatment']",2
+lip ink,"['Other Brands', 'Others']",2
+lip liner,"['Product', 'Makeup']",2
+lip makeup,"['Product', 'Body Part', 'Makeup']",3
+lip ring,"['Piercing', 'Jewelry']",2
+lip wax,"['Treatment', 'Service']",2
+lipogaine,"['Product', 'Brand', 'Drug']",3
+lipoma,"['Lesion', 'Organ', 'Tumor']",3
+liposculpture,"['Procedure', 'Body Part']",2
+lips,"['Product', 'Body Part', 'Tissue', 'Facial Feature', 'Tattoo', 'Infection', 'Site', 'Organ']",8
+lipstick,"['Product', 'Makeup']",2
+lipstick queen,"['Manufacturer', 'Brand']",2
+lipton,"['Brand', 'Company']",2
+liquid,"['Product', 'Material', 'Brush', 'Form', 'Makeup']",5
+listerine,"['Brand', 'Drug Brand', 'Toothpaste', 'Mouthwash']",4
+little debbie,"['Brand', 'Food Manufacturer']",2
+liver,"['Body Part', 'Condition', 'Disease', 'Infection', 'Organ', 'Cancer', 'Tumor']",7
+living room,"['Product', 'Place', 'Room', 'Home Room']",4
+ll bean,"['Retailer', 'Brand', 'Fashion Brand', 'Store']",4
+lo loestrin fe,"['Drug Brand', 'Pill']",2
+lobster,"['Fish', 'Species', 'Seafood']",3
+loccitane,"['Manufacturer', 'Brand', 'Cosmetics Brand']",3
+locks,"['Product', 'Hardware']",2
+locs,"['Style', 'Hairstyle']",2
+long face,"['Face', 'Shape']",2
+long hair,"['Style', 'Hairstyle', 'Symbol']",3
+loprox,"['Medication', 'Cream']",2
+lorac,"['Manufacturer', 'Brand']",2
+loreal,"['Manufacturer', 'Brand', 'Fashion Brand', 'Store', 'Cosmetics Brand', 'Food Manufacturer']",6
+loreal paris,"['Manufacturer', 'Brand']",2
+lotion,"['Product', 'Hair Product']",2
+lotrimin,"['Drug Brand', 'Cream']",2
+lotrimin af,"['Drug Brand', 'Cream']",2
+lotus,"['Retailer', 'Store', 'Car Make']",3
+louis vuitton,"['Manufacturer', 'Retailer', 'Brand', 'Fashion Brand', 'Store', 'Designer']",6
+love,"['Theme', 'Virtue']",2
+love spell,"['Scent', 'Spell']",2
+low,"['Degree', 'Show']",2
+low fat,"['Diet', 'Claim']",2
+lower,"['Material', 'Information', 'Component']",3
+lower back,"['Body Part', 'Condition', 'Tattoo', 'Joint', 'Body']",5
+lower leg,"['Body Part', 'Condition']",2
+lower lip,"['Body Part', 'Piercing', 'Facial Feature']",3
+lowes,"['Retailer', 'Brand', 'Company', 'Store', 'Retail Store']",5
+lubriderm,"['Brand', 'Drug Brand']",2
+lucuma,"['Ingredient', 'Fruit']",2
+luggage,"['Product', 'Bag', 'Accessory']",3
+lululemon,"['Retailer', 'Brand', 'Fashion Brand', 'Store', 'Sports Brand']",5
+lumbar,"['Condition', 'Cancer', 'Bones', 'Location', 'Region']",5
+lumbar spine,"['Site', 'Region']",2
+lumin,"['Other Brands', 'Others']",2
+luminous,"['Other Brands', 'Others']",2
+lupus,"['Symptom', 'Condition', 'Disease']",3
+lush,"['Manufacturer', 'Brand', 'Cosmetics Brand', 'Food Manufacturer']",4
+luxe lip color,"['Product', 'Formula']",2
+lv,"['Retailer', 'Brand', 'Fashion Brand', 'Company', 'Store']",5
+lychee,"['Fruit', 'Drink']",2
+maalox,"['Brand', 'Drug Brand', 'Medication', 'Antacid']",4
+mac,"['Manufacturer', 'Retailer', 'Brand', 'Fashion Brand', 'Company', 'Store', 'Platform', 'Device', 'Operating System']",9
+mac cosmetics,"['Manufacturer', 'Brand', 'Fashion Brand', 'Company', 'Store']",5
+mac makeup,"['Manufacturer', 'Brand', 'Store']",3
+maca,"['Ingredient', 'Fruit', 'Herb']",3
+macy's,"['Manufacturer', 'Retailer', 'Brand', 'Company', 'Store']",5
+macys,"['Retailer', 'Brand', 'Company', 'Store', 'Jewelry Store']",5
+made,"['Retailer', 'Store']",2
+madonna,"['Celebrity', 'Artist']",2
+magnesium,"['Material', 'Nutrient', 'Metal', 'Mineral', 'Vitamin', 'Element', 'Antioxidant']",7
+mahogany,"['Flavor', 'Species', 'Tree']",3
+maison margiela,"['Brand', 'Fashion Brand', 'Designer']",3
+make,"['Event', 'Information', 'Period']",3
+makeup,"['Product', 'Body Part', 'Organ']",3
+makeup academy,"['Manufacturer', 'Brand']",2
+makeup forever,"['Manufacturer', 'Brand']",2
+makeup remover,"['Product', 'Makeup', 'Skin Care Product']",3
+makeup revolution,"['Manufacturer', 'Brand']",2
+makeup studio,"['Other Brands', 'Others']",2
+mamey,"['Color', 'Fruit']",2
+man,"['Car Make', 'Person', 'Gender']",3
+mandala tattoo,"['Animal', 'Design', 'Tattoo']",3
+mandelic acid,"['Ingredient', 'Acid', 'Peel']",3
+mango,"['Retailer', 'Brand', 'Fashion Brand', 'Color', 'Company', 'Store', 'Fruit', 'Oil', 'Drink', 'Vegetable', 'Tea', 'Herb', 'Jewelry Store']",13
+mango ice cream,"['Flavor', 'Dessert']",2
+manual,"['Other Brands', 'Others']",2
+maple,"['Fruit', 'Species', 'Tattoo', 'Tree', 'Nut']",5
+maple syrup,"['Product', 'Ingredient', 'Sweetener']",3
+marble,"['Material', 'Stone']",2
+marc jacobs,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+margiela,"['Brand', 'Store']",2
+marigold,"['Plant', 'Flower']",2
+mario badescu,"['Manufacturer', 'Brand', 'Store']",3
+mars,"['Brand', 'Planet']",2
+martin margiela,"['Fashion Brand', 'Designer']",2
+marula oil,"['Ingredient', 'Oil']",2
+marvel,"['Brand', 'Company']",2
+mary kay,"['Manufacturer', 'Brand', 'Fashion Brand', 'Company', 'Store', 'Cosmetics Brand', 'Group 27']",7
+marykay,"['Manufacturer', 'Brand']",2
+mascara,"['Product', 'Brush', 'Makeup']",3
+massage,"['Treatment', 'Service', 'Facility', 'Technique', 'Therapy']",5
+matte,"['Finish', 'Paper Finish']",2
+mature skin,"['Condition', 'Skin', 'Skin Type']",3
+maui,"['Other Brands', 'Others']",2
+mauve,"['Color', 'Flower']",2
+maxi,"['Retailer', 'Brand', 'Store']",3
+maximum,"['Other Brands', 'Others']",2
+maybelline,"['Manufacturer', 'Brand', 'Fashion Brand', 'Store']",4
+maybelline new york,"['Manufacturer', 'Brand']",2
+mayo clinic,"['Company', 'Site', 'Healthcare Company', 'School', 'Hospital', 'Institution', 'Organization', 'Center']",8
+mcdonald's,"['Brand', 'Restaurant']",2
+mcdonalds,"['Brand', 'Company', 'Restaurant']",3
+mckesson,"['Manufacturer', 'Company', 'Store', 'Healthcare Company', 'School', 'Hospital']",6
+mcm,"['Brand', 'Fashion Brand', 'Contractor']",3
+md,"['Retailer', 'Store', 'State']",3
+measles,"['Condition', 'Disease', 'Vaccine']",3
+mederma,"['Product', 'Brand', 'Drug Brand']",3
+medical,"['Benefit', 'Waste', 'Industry']",3
+medications,"['Treatment', 'Medical Treatment']",2
+medicine,"['Facility', 'Specialty', 'Field']",3
+medium,"['Skin Tone', 'Size']",2
+medium length hair,"['Style', 'Hairstyle', 'Symbol']",3
+medix,"['Other Brands', 'Others']",2
+medline,"['Manufacturer', 'Brand', 'Company', 'Store', 'Healthcare Company']",5
+meijer,"['Manufacturer', 'Retailer', 'Company', 'Store']",4
+melaleuca,"['Manufacturer', 'Brand', 'Company', 'Store', 'Oil']",5
+melanoma,"['Organ', 'Cancer', 'Tumor']",3
+melon,"['Fruit', 'Drink']",2
+men,"['Person', 'Gender', 'Size Category']",3
+meningitis,"['Disease', 'Infection']",2
+menstruation,"['Condition', 'Process', 'Period']",3
+mentha,"['Herb', 'Genus']",2
+mentholatum,"['Manufacturer', 'Brand']",2
+merino,"['Material', 'Fabric', 'Yarn']",3
+merle norman,"['Manufacturer', 'Brand']",2
+merlot,"['Wine', 'Variety']",2
+mermaid,"['Other Brands', 'Others']",2
+mesotherapy,"['Procedure', 'Treatment', 'Filler']",3
+messy bun,"['Style', 'Hairstyle']",2
+metal,"['Material', 'Building Material']",2
+metrogel,"['Treatment', 'Drug Brand', 'Cream']",3
+mexican,"['Food', 'Country', 'Cuisine', 'Language', 'Culture']",5
+mica,"['Mineral', 'Stone']",2
+michael kors,"['Brand', 'Fashion Brand']",2
+michaels,"['Retailer', 'Brand', 'Store']",3
+micro needling,"['Procedure', 'Treatment']",2
+microblading,"['Procedure', 'Service', 'Technique']",3
+microcurrent,"['Treatment', 'Condition']",2
+microdermabrasion,"['Procedure', 'Treatment', 'Condition']",3
+microfiber,"['Material', 'Fabric']",2
+microneedling,"['Procedure', 'Treatment', 'Condition']",3
+microplane,"['Other Brands', 'Others']",2
+mid back,"['Condition', 'Body']",2
+mid length hair,"['Style', 'Hairstyle']",2
+middle,"['Place', 'Degree', 'Show']",3
+migraine,"['Body Part', 'Symptom', 'Condition', 'Disease', 'Body', 'Headache']",6
+milani,"['Manufacturer', 'Brand']",2
+milano,"['Other Brands', 'Others']",2
+milia,"['Condition', 'Irregularity']",2
+milk,"['Product', 'Ingredient', 'Food', 'Cheese']",4
+milk chocolate,"['Ingredient', 'Color', 'Food', 'Flavor']",4
+milk makeup,"['Manufacturer', 'Brand']",2
+milk tea,"['Color', 'Fruit', 'Drink', 'Tea', 'Spice', 'Herb']",6
+miller,"['Brand', 'Car Make']",2
+mineral fusion,"['Manufacturer', 'Brand']",2
+mineral oil,"['Ingredient', 'Oil']",2
+minerals,"['Nutrient', 'Mineral']",2
+mini,"['Brand', 'Company', 'Car Make']",3
+minoxidil,"['Treatment', 'Drug', 'Medication']",3
+mint,"['Ingredient', 'Oil', 'Vegetable', 'Tea', 'Spice', 'Herb']",6
+mint chocolate,"['Color', 'Flavor']",2
+mint lip balm,"['Product', 'Fruit']",2
+minted,"['Other Brands', 'Others']",2
+mirena,"['Method', 'Drug Brand', 'Iud']",3
+miso,"['Product', 'Food']",2
+miu miu,"['Brand', 'Fashion Brand']",2
+mk,"['Manufacturer', 'Brand', 'Company', 'Store']",4
+ml,"['Other Brands', 'Others']",2
+mobile,"['Device', 'Technology', 'Information']",3
+moisturiser,"['Product', 'Body Part', 'Skin Care Product', 'Skin Care']",4
+moisturising,"['Product', 'Step']",2
+moisturizer,"['Product', 'Body Part', 'Skin Care Product', 'Skin Care']",4
+moisturizing,"['Product', 'Step']",2
+mojito,"['Drink', 'Cocktail']",2
+mole removal,"['Procedure', 'Condition']",2
+moles,"['Animal', 'Condition', 'Lesion']",3
+molluscum contagiosum,"['Condition', 'Disease', 'Infection', 'Lesion']",4
+molton brown,"['Manufacturer', 'Brand', 'Store', 'Cosmetics Brand']",4
+monday,"['Other Brands', 'Others']",2
+monistat,"['Brand', 'Medication', 'Cream']",3
+mont blanc,"['Brand', 'Fashion Brand']",2
+month,"['Event', 'Information', 'Period']",3
+moo,"['Other Brands', 'Others']",2
+moonstone,"['Color', 'Stone']",2
+moose,"['Animal', 'Toys Brand']",2
+moringa oil,"['Product', 'Ingredient', 'Oil']",3
+morning,"['Event', 'Success']",2
+moroccan,"['Cuisine', 'Language']",2
+moroccan oil,"['Product', 'Brand']",2
+moroccanoil,"['Manufacturer', 'Brand']",2
+morphe,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+morphea,"['Condition', 'Disease']",2
+moschino,"['Brand', 'Fashion Brand']",2
+mother,"['Brand', 'Person', 'Relative']",3
+mother of the bride,"['Woman', 'Bridal Party', 'Wedding Party']",3
+motor,"['Component', 'Vehicle Part']",2
+mouse,"['Animal', 'Tattoo']",2
+mousse,"['Product', 'Hair Product']",2
+mouth,"['Body Part', 'Tissue', 'Symptom', 'Condition', 'Piercing', 'Facial Feature', 'Tattoo', 'Place', 'Disease', 'Infection', 'Site', 'Organ']",12
+mozart,"['Other Brands', 'Others']",2
+ms,"['Company', 'Platform']",2
+msm,"['Ingredient', 'Supplement']",2
+mug,"['Other Brands', 'Others']",2
+mugler,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+muji,"['Retailer', 'Company', 'Store']",3
+mulberry,"['Retailer', 'Brand', 'Fashion Brand', 'Store']",4
+multivitamin,"['Supplement', 'Amino Acid']",2
+mum,"['Other Brands', 'Others']",2
+murad,"['Manufacturer', 'Brand']",2
+muscle,"['Tissue', 'Condition', 'Organ']",3
+muscle pain,"['Body Part', 'Symptom', 'Condition']",3
+muscle pain relief,"['Body Part', 'Condition', 'Benefit']",3
+muscle relaxant,"['Drug', 'Medication']",2
+muscle spasms,"['Body Part', 'Symptom', 'Condition']",3
+muscle strain,"['Body Part', 'Condition']",2
+muscles,"['Tissue', 'Symptom', 'Organ']",3
+muse,"['Other Brands', 'Others']",2
+mushroom,"['Ingredient', 'Food', 'Vegetable', 'Sauce', 'Dish']",5
+musk,"['Note', 'Oil']",2
+mussels,"['Species', 'Seafood']",2
+mustache,"['Hair', 'Style', 'Facial Hair']",3
+mustard,"['Ingredient', 'Food', 'Sauce', 'Condiment']",4
+nad,"['Molecule', 'Cofactor']",2
+nail fungus,"['Condition', 'Infection']",2
+nail psoriasis,"['Condition', 'Disease']",2
+nails,"['Product', 'Body Part', 'Material', 'Organ']",4
+name tattoos,"['Animal', 'Design', 'Tattoo']",3
+nars,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+naruto,"['Anime', 'Series']",2
+nasolabial folds,"['Body Part', 'Wrinkle']",2
+natasha denona,"['Manufacturer', 'Brand']",2
+natura,"['Manufacturer', 'Brand']",2
+natural makeup artist,"['Other Brands', 'Others']",2
+nature's bounty,"['Retailer', 'Brand']",2
+nba,"['League', 'Sport', 'Organization']",3
+ncla,"['Manufacturer', 'Brand']",2
+neck,"['Procedure', 'Product', 'Body Part', 'Animal', 'Treatment', 'Tissue', 'Symptom', 'Bird', 'Condition', 'Piercing', 'Facial Feature', 'Tattoo', 'Place', 'Injury', 'Organ', 'Bones', 'Technique', 'Joint', 'Muscles', 'Body']",20
+neck pain,"['Symptom', 'Condition', 'Disease', 'Joint']",4
+necklace,"['Accessory', 'Jewelry']",2
+nectar,"['Other Brands', 'Others']",2
+needle,"['Material', 'Tool']",2
+neem,"['Oil', 'Herb']",2
+neem oil,"['Ingredient', 'Oil']",2
+neocutis,"['Manufacturer', 'Brand']",2
+neora,"['Other Brands', 'Others']",2
+neosporin,"['Brand', 'Ointment', 'Drug Brand']",3
+neostrata,"['Manufacturer', 'Brand']",2
+nerve,"['Tissue', 'Symptom', 'Condition', 'Organ']",4
+nerves,"['Tissue', 'Structure', 'Organ']",3
+nestle,"['Brand', 'Company', 'Sports Brand', 'Ice Cream', 'Food Manufacturer']",5
+neutrogena,"['Manufacturer', 'Brand', 'Store', 'Fruit', 'Cosmetics Brand']",5
+new york,"['Brand', 'City', 'State']",3
+newborn,"['Person', 'Age Group', 'Growth Stage']",3
+next,"['Retailer', 'Fashion Brand', 'Company', 'Store']",4
+niacin,"['Nutrient', 'Vitamin']",2
+niacinamide,"['Product', 'Ingredient', 'Acid']",3
+nice,"['Other Brands', 'Others']",2
+nicki minaj,"['Celebrity', 'Artist']",2
+nicole miller,"['Fashion Brand', 'Designer']",2
+night,"['Event', 'Success', 'Period']",3
+night cream,"['Product', 'Body Part']",2
+nightmare before christmas,"['Movie', 'Film']",2
+nitrate,"['Nutrient', 'Anion', 'Compound', 'Mineral', 'Chemical']",5
+nivea,"['Manufacturer', 'Brand', 'Fashion Brand', 'Drug Brand', 'Store']",5
+nizoral,"['Drug Brand', 'Medication', 'Cream']",3
+nk,"['Retailer', 'Store']",2
+no7,"['Manufacturer', 'Brand']",2
+nodular,"['Subtype', 'Melanoma']",2
+nodular acne,"['Condition', 'Form']",2
+nodules,"['Lesion', 'Acne Type']",2
+non comedogenic,"['Product', 'Must']",2
+noodle,"['Food', 'Vegetable', 'Dish']",3
+nordstrom,"['Manufacturer', 'Retailer', 'Brand', 'Company', 'Store']",5
+nordstrom rack,"['Retailer', 'Store']",2
+normal,"['Retailer', 'Store']",2
+normal skin,"['Condition', 'Skin', 'Skin Type']",3
+north face,"['Retailer', 'Brand', 'Fashion Brand', 'Store']",4
+norwegian,"['Airlines', 'Cruise Line', 'Language']",3
+nose,"['Procedure', 'Body Part', 'Symptom', 'Condition', 'Piercing', 'Facial Feature', 'Place', 'Disease', 'Face', 'Organ', 'Cancer']",11
+nose trimmer,"['Product', 'Tool']",2
+nourish organic,"['Brand', 'Company']",2
+noxzema,"['Brand', 'Drug Brand']",2
+nsaid,"['Drug', 'Medication']",2
+nu skin,"['Manufacturer', 'Brand', 'Company']",3
+nubian heritage,"['Brand', 'Company']",2
+nude beige,"['Color', 'Shade']",2
+nude lipstick,"['Color', 'Lipstick']",2
+number 7,"['Other Brands', 'Others']",2
+nursing,"['Facility', 'Specialty', 'Field']",3
+nuskin,"['Brand', 'Company']",2
+nutella,"['Brand', 'Group 13', 'Group 23']",3
+nutmeg,"['Vegetable', 'Spice']",2
+nuxe,"['Manufacturer', 'Brand']",2
+nylon,"['Material', 'Fabric', 'Yarn']",3
+nyx,"['Manufacturer', 'Brand']",2
+oak,"['Species', 'Tattoo', 'Tree']",3
+oat,"['Grain', 'Ingredient', 'Food', 'Drink', 'Vegetable', 'Crop']",6
+oatly,"['Other Brands', 'Others']",2
+oatmeal,"['Product', 'Grain', 'Food', 'Fruit', 'Flavor', 'Dessert']",6
+obagi,"['Manufacturer', 'Brand']",2
+oblong,"['Shape', 'Geometric Shape']",2
+oblong face,"['Face', 'Shape']",2
+ocean,"['Body', 'Water Body']",2
+ocp,"['Other Brands', 'Others']",2
+octopus,"['Fish', 'Animal']",2
+office,"['Brand', 'Fashion Brand', 'Place', 'Room']",4
+ogx,"['Other Brands', 'Others']",2
+oil,"['Resource', 'Fuel', 'Energy Source']",3
+oil based,"['Finish', 'Primer']",2
+oil cleanser,"['Product', 'Cleanser']",2
+oil free,"['Product', 'Must', 'Alternative']",3
+oil paint,"['Material', 'Medium']",2
+oily,"['Product', 'Condition', 'Skin Type']",3
+oily hair,"['Symptom', 'Condition', 'Hair', 'Hair Problem']",4
+oily skin,"['Treatment', 'Condition', 'Skin Condition', 'Skin', 'Skin Type']",5
+olaplex,"['Treatment', 'Brand', 'Service']",3
+olay,"['Manufacturer', 'Brand', 'Store', 'Group 3', 'Poi:196']",5
+old spice,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+ole henriksen,"['Manufacturer', 'Brand']",2
+olive,"['Color', 'Skin Tone']",2
+olive oil,"['Product', 'Ingredient', 'Food', 'Fruit', 'Oil', 'Herb', 'Nut']",7
+olive oil soap,"['Product', 'Ingredient']",2
+olive skin,"['Trait', 'Skin']",2
+ombre,"['Technique', 'Trend']",2
+omnilux,"['Other Brands', 'Others']",2
+onion,"['Ingredient', 'Food', 'Vegetable', 'Spice', 'Herb']",5
+onyx,"['Material', 'Mineral', 'Stone']",3
+opal,"['Material', 'Color', 'Stone']",3
+opi,"['Manufacturer', 'Brand', 'Fashion Brand', 'Cosmetics Brand']",4
+oral,"['Form', 'Route', 'Dosage Form']",3
+oral b,"['Brand', 'Drug Brand', 'Company', 'Group 5']",4
+oral cancer,"['Organ', 'Cancer', 'Tumor']",3
+oral herpes,"['Disease', 'Infection']",2
+orange,"['Color', 'Company', 'Fruit', 'Oil', 'Flavor', 'Species', 'Vegetable', 'Tea', 'Spice', 'Stone', 'Dessert', 'Herb', 'Peel', 'Flower']",14
+orchid,"['Tattoo', 'Plant', 'Flower']",3
+oregano,"['Oil', 'Spice', 'Herb']",3
+oregano oil,"['Ingredient', 'Oil']",2
+oreillys,"['Retailer', 'Store']",2
+organic coconut,"['Ingredient', 'Food']",2
+origin,"['Manufacturer', 'Brand']",2
+origins,"['Manufacturer', 'Brand', 'Store', 'Cosmetics Brand', 'Group 3', 'Poi:196']",6
+osteoarthritis,"['Body Part', 'Condition', 'Disease', 'Bones']",4
+outfit,"['Other Brands', 'Others']",2
+oval,"['Shape', 'Geometric Shape']",2
+oval face,"['Face', 'Shape']",2
+ovulation,"['Condition', 'Process']",2
+owl,"['Animal', 'Bird']",2
+oxistat,"['Drug Brand', 'Medication', 'Cream']",3
+oxy 10,"['Brand', 'Drug Brand']",2
+oxyfresh,"['Product', 'Brand']",2
+oxygen,"['Metal', 'Element', 'Gas']",3
+oyster,"['Species', 'Seafood']",2
+paddle brush,"['Brush', 'Tool']",2
+pain,"['Symptom', 'Condition', 'Disease', 'Complication']",4
+palmer's,"['Manufacturer', 'Brand']",2
+palmers,"['Other Brands', 'Others']",2
+palmolive,"['Manufacturer', 'Brand', 'Store', 'Cosmetics Brand']",4
+panasonic,"['Brand', 'Company', 'Store', 'Eletronics Brand', 'Site', 'Group 7']",6
+pancakes,"['Food', 'Dish']",2
+pancreas,"['Condition', 'Organ', 'Cancer']",3
+pancreatitis,"['Condition', 'Disease', 'Organ', 'Complication']",4
+panoxyl,"['Brand', 'Drug Brand']",2
+panther,"['Animal', 'Design', 'Tattoo']",3
+papaya,"['Color', 'Fruit', 'Oil', 'Vegetable']",4
+paper,"['Material', 'Fabric']",2
+papules,"['Lesion', 'Acne Type']",2
+paraben free,"['Product', 'Foundation']",2
+paralysis,"['Symptom', 'Condition', 'Injury']",3
+paris hilton,"['Celebrity', 'Artist']",2
+parodontax,"['Brand', 'Toothpaste']",2
+party,"['Occasion', 'Special Occasion', 'Event', 'Holiday']",4
+pasta,"['Product', 'Grain', 'Ingredient', 'Food', 'Vegetable', 'Sauce', 'Meat', 'Dish', 'Crop']",9
+pastel,"['Material', 'Medium']",2
+patchology,"['Manufacturer', 'Brand']",2
+patchouli,"['Ingredient', 'Oil', 'Herb']",3
+pattern,"['Information', 'Element', 'Characteristic']",3
+paul mitchell,"['Brand', 'School']",2
+paula's choice,"['Manufacturer', 'Brand']",2
+paw patrol,"['Brand', 'Character']",2
+pca,"['Manufacturer', 'Contractor']",2
+peach,"['Color', 'Fruit', 'Flavor', 'Drink', 'Stone', 'Herb', 'Liqueur']",7
+peach lipstick,"['Color', 'Lipstick']",2
+peach tea,"['Drink', 'Tea', 'Spice', 'Herb']",4
+peacock,"['Retailer', 'Bird', 'Tattoo', 'Tv Network']",4
+peanut,"['Food', 'Nut', 'Crop']",3
+peanut butter,"['Food', 'Fruit', 'Flavor', 'Dessert', 'Cookie']",5
+pear,"['Brand', 'Color', 'Company', 'Store', 'Fruit', 'Tree', 'Liqueur']",7
+pearl,"['Material', 'Color', 'Metal', 'Stone']",4
+pears,"['Brand', 'Fruit']",2
+peas,"['Food', 'Vegetable', 'Dish']",3
+pecan,"['Fruit', 'Tree', 'Nut']",3
+peeling skin,"['Symptom', 'Color']",2
+peels,"['Treatment', 'Condition']",2
+pen,"['Material', 'Supply', 'Tool']",3
+penaten,"['Brand', 'Cream']",2
+pencil,"['Material', 'Supply', 'Tool']",3
+pencils,"['Product', 'Supply']",2
+penetrex,"['Drug Brand', 'Cream']",2
+penguin,"['Animal', 'Brand', 'Fashion Brand', 'Bird']",4
+penile,"['Organ', 'Cancer']",2
+penis,"['Procedure', 'Body Part', 'Infection', 'Organ', 'Cancer']",5
+pennywise,"['Other Brands', 'Others']",2
+peony,"['Tattoo', 'Plant', 'Flower']",3
+pepper,"['Product', 'Ingredient', 'Food', 'Vegetable', 'Sauce', 'Spice', 'Herb', 'Dish']",8
+peppermint,"['Product', 'Ingredient', 'Fruit', 'Oil', 'Drink', 'Tea', 'Herb']",7
+peppermint oil,"['Ingredient', 'Fruit', 'Oil']",3
+peppermint tea,"['Tea', 'Herb']",2
+peppers,"['Food', 'Vegetable', 'Spice']",3
+pepsi,"['Brand', 'Company', 'Restaurant', 'Food Manufacturer']",4
+perimenopause,"['Condition', 'Period']",2
+periodontal disease,"['Symptom', 'Disease']",2
+periodontitis,"['Procedure', 'Symptom', 'Condition', 'Disease']",4
+perm,"['Treatment', 'Service']",2
+permanent lip color,"['Product', 'Service']",2
+permanent makeup,"['Procedure', 'Service', 'Technique']",3
+peroxide,"['Compound', 'Chemical', 'Oxidant', 'Oxidizing Agent']",4
+perricone md,"['Manufacturer', 'Brand']",2
+perrigo,"['Manufacturer', 'Store']",2
+persian,"['Language', 'Breed']",2
+pet,"['Animal', 'Tattoo']",2
+peter thomas roth,"['Manufacturer', 'Brand', 'Store']",3
+petroleum,"['Gas', 'Fuel']",2
+petroleum jelly,"['Brand', 'Drug Brand']",2
+philips,"['Brand', 'Company', 'Store', 'Eletronics Brand']",4
+philips respironics,"['Manufacturer', 'Brand', 'Company']",3
+philosophy,"['Manufacturer', 'Brand', 'Cosmetics Brand', 'Field']",4
+phoenix,"['Team', 'Repair Shop', 'City']",3
+phone,"['Device', 'Information', 'Contact Information', 'Mean']",4
+phone case,"['Other Brands', 'Others']",2
+phosphate,"['Nutrient', 'Compound', 'Mineral', 'Chemical', 'Buffer', 'Element']",6
+physicians formula,"['Manufacturer', 'Brand', 'Cosmetics Brand']",3
+phyto,"['Manufacturer', 'Brand']",2
+pie,"['Product', 'Food']",2
+piece,"['Other Brands', 'Others']",2
+pieces,"['Other Brands', 'Others']",2
+pies,"['Food', 'Treat', 'Dessert']",3
+pigment,"['Other Brands', 'Others']",2
+pigmentation,"['Treatment', 'Sign', 'Condition']",3
+pigmentation treatment,"['Treatment', 'Condition']",2
+pimple,"['Acne Type', 'Skin Problem']",2
+pimples,"['Lesion', 'Acne Type', 'Acne', 'Skin Problem']",4
+pina colada,"['Fruit', 'Cocktail']",2
+pine,"['Species', 'Tattoo', 'Tree', 'Nut', 'Wood Type']",5
+pineapple,"['Color', 'Fruit', 'Flavor', 'Vegetable', 'Dessert', 'Herb']",6
+pink,"['Color', 'Species', 'Tea', 'Stone', 'Dress', 'Dessert', 'Herb', 'Flower']",8
+pink eye,"['Disease', 'Infection']",2
+pinterest,"['Company', 'Platform', 'Site']",3
+pinto beans,"['Color', 'Legume', 'Beans']",3
+pioneer,"['Brand', 'Eletronics Brand']",2
+pistachio,"['Fruit', 'Flavor', 'Nut', 'Alternative']",4
+pitt,"['School', 'Hospital']",2
+pixi,"['Manufacturer', 'Brand']",2
+pizza,"['Product', 'Grain', 'Ingredient', 'Food', 'Sauce', 'Dish']",6
+placenta,"['Organ', 'Cell']",2
+plaid,"['Other Brands', 'Others']",2
+plaque,"['Procedure', 'Symptom', 'Condition', 'Disease']",4
+plaque psoriasis,"['Condition', 'Disease', 'Form']",3
+plasma,"['Product', 'Component', 'Cell', 'Fluid']",4
+platinum,"['Material', 'Color', 'Metal', 'Trait']",4
+pleomorphic,"['Cancer', 'Tumor', 'Subtype']",3
+plexus,"['Other Brands', 'Others']",2
+plum,"['Fruit', 'Oil', 'Flavor', 'Tree']",4
+plumeria,"['Plant', 'Flower']",2
+plus,"['Retailer', 'Store']",2
+pmd,"['Other Brands', 'Others']",2
+pms,"['Symptom', 'Condition']",2
+pneumonia,"['Condition', 'Disease', 'Infection', 'Complication']",4
+polo,"['Manufacturer', 'Retailer', 'Brand', 'Fashion Brand', 'Store']",5
+polynesian tattoo,"['Design', 'Tattoo']",2
+pomade,"['Product', 'Hair Product']",2
+pomegranate,"['Fruit', 'Oil']",2
+pond's,"['Manufacturer', 'Brand']",2
+ponds,"['Manufacturer', 'Brand', 'Drug Brand', 'Poi:196', 'Group 4']",5
+ponds cream,"['Brand', 'Drug Brand']",2
+ponytail,"['Style', 'Hairstyle', 'Hair Style']",3
+poplar,"['Species', 'Tree']",2
+poppy,"['Plant', 'Flower']",2
+popsicle,"['Brand', 'Ice Cream']",2
+pork,"['Food', 'Sauce', 'Meat', 'Dish', 'Recipe']",5
+potassium,"['Material', 'Nutrient', 'Diet', 'Metal', 'Compound', 'Acid', 'Mineral', 'Buffer', 'Element']",9
+potato salad,"['Dish', 'Recipe']",2
+potatoes,"['Grain', 'Food', 'Vegetable', 'Spice', 'Crop']",5
+povidone iodine,"['Agent', 'Antiseptic']",2
+powder,"['Product', 'Material', 'Brush', 'Form', 'Makeup']",5
+powdered sugar,"['Ingredient', 'Sweetener']",2
+powders,"['Product', 'Form']",2
+prada,"['Brand', 'Fashion Brand', 'Sports Brand']",3
+pre workout,"['Supplement', 'Amino Acid', 'Workout Supplement']",3
+prednisone,"['Steroid', 'Corticosteroid']",2
+pregnancy,"['Condition', 'Bones', 'Process', 'Period']",4
+premature ejaculation,"['Condition', 'Disorder']",2
+prenatal,"['Other Brands', 'Others']",2
+preserve,"['Retailer', 'Store']",2
+pressure,"['Condition', 'Variable']",2
+pressure washer,"['Tool', 'Equipment']",2
+prevention,"['Service', 'Aspect', 'Condition', 'Health Issue']",4
+price,"['Aspect', 'Information', 'Characteristic']",3
+prickly pear,"['Plant', 'Cactus']",2
+primer,"['Product', 'Brush', 'Makeup']",3
+primrose,"['Retailer', 'Flower']",2
+princess,"['Cruise Line', 'Hotel Chain']",2
+pro,"['Other Brands', 'Others']",2
+proactiv,"['Manufacturer', 'Brand']",2
+profusion,"['Other Brands', 'Others']",2
+prom,"['Occasion', 'Event', 'Dress', 'Flower']",4
+prostate,"['Condition', 'Organ', 'Cancer', 'Tumor']",4
+protein,"['Nutrient', 'Diet', 'Metal', 'Mineral', 'Chemical', 'Buffer', 'Vitamin', 'Element', 'Pathway']",9
+protein powder,"['Food', 'Protein', 'Supplement', 'Amino Acid']",4
+protopic,"['Brand', 'Drug Brand']",2
+prp,"['Procedure', 'Treatment']",2
+psoriasis,"['Condition', 'Disease']",2
+puberty,"['Condition', 'Process']",2
+pubic hair,"['Body Part', 'Facial Feature', 'Hair']",3
+publix,"['Retailer', 'Company', 'Store']",3
+pudding,"['Product', 'Food']",2
+puffiness,"['Sign', 'Condition']",2
+puffy eyes,"['Sign', 'Condition']",2
+pumpkin,"['Food', 'Vegetable']",2
+pumpkin spice,"['Fruit', 'Flavor']",2
+pure encapsulations,"['Manufacturer', 'Brand', 'Company']",3
+purell,"['Manufacturer', 'Brand']",2
+puritan's pride,"['Brand', 'Store']",2
+purple,"['Retailer', 'Color', 'Store', 'Fruit', 'Species', 'Drink', 'Vegetable', 'Herb', 'Crop', 'Flower']",10
+purple hair,"['Color', 'Trait']",2
+purse,"['Product', 'Accessory']",2
+purses,"['Bag', 'Accessory']",2
+pustules,"['Lesion', 'Acne Type', 'Acne']",3
+q tips,"['Other Brands', 'Others']",2
+qraa,"['Other Brands', 'Others']",2
+quartz,"['Material', 'Mineral', 'Stone']",3
+queen,"['Artist', 'Mattress Size', 'Bed Size']",3
+quercetin,"['Nutrient', 'Compound', 'Antioxidant', 'Flavonoid']",4
+quicksilver scientific,"['Other Brands', 'Others']",2
+quinoa,"['Grain', 'Color', 'Food', 'Crop']",4
+quip,"['Other Brands', 'Others']",2
+qvc,"['Company', 'Tv Network']",2
+r&co,"['Other Brands', 'Others']",2
+rabbit,"['Animal', 'Design', 'Tattoo']",3
+radiesse,"['Procedure', 'Filler']",2
+rae dunn,"['Other Brands', 'Others']",2
+ralph lauren,"['Manufacturer', 'Retailer', 'Brand', 'Fashion Brand', 'Store', 'Designer']",6
+ralphs,"['Retailer', 'Store']",2
+rare,"['Other Brands', 'Others']",2
+rashes,"['Symptom', 'Condition', 'Infection']",3
+raspberry,"['Color', 'Fruit', 'Flavor', 'Drink', 'Tea', 'Dessert', 'Herb', 'Liqueur']",8
+raw sugar,"['Ingredient', 'Sweetener', 'Sugar']",3
+razor,"['Product', 'Brand', 'Personal Item', 'Tool']",4
+razor bumps,"['Condition', 'Irritation']",2
+reach,"['Brand', 'Group 5']",2
+real,"['Retailer', 'Company', 'Store', 'Team']",4
+real techniques,"['Manufacturer', 'Brand']",2
+reaper,"['Other Brands', 'Others']",2
+receding gums,"['Procedure', 'Symptom', 'Sign', 'Condition']",4
+rectal,"['Condition', 'Organ', 'Cancer', 'Route']",4
+rectangle,"['Shape', 'Geometric Shape']",2
+rectangle face,"['Face', 'Shape']",2
+rectangular face,"['Face', 'Shape']",2
+red,"['Product', 'Color', 'Food', 'Fruit', 'Species', 'Drink', 'Vegetable', 'Sauce', 'Tea', 'Spice', 'Stone', 'Dress', 'Dessert', 'Trait', 'Tree', 'Herb', 'Dish', 'Crop', 'Flower', 'Hair Color', 'Alga']",21
+red dot,"['Other Brands', 'Others']",2
+red glitter,"['Color', 'Glitter']",2
+red hair,"['Color', 'Trait', 'Hairstyle']",3
+red skin,"['Symptom', 'Condition']",2
+reddit,"['Retailer', 'Brand', 'Company', 'Store', 'Platform', 'Site', 'Tv Network', 'Search Engine', 'Website']",9
+redness,"['Symptom', 'Condition']",2
+redwood,"['Species', 'Tree']",2
+reflexology,"['Treatment', 'Technique', 'Therapy']",3
+refried beans,"['Color', 'Food']",2
+refrigerator,"['Amenity', 'Appliance']",2
+remington,"['Brand', 'Company']",2
+remy,"['Cuisine', 'Hair Extension']",2
+replens,"['Drug Brand', 'Moisturizer', 'Lubricant']",3
+restylane,"['Treatment', 'Filler']",2
+resveratrol,"['Compound', 'Antioxidant']",2
+retina,"['Tissue', 'Drug Brand', 'Structure', 'Eye']",4
+retinoids,"['Product', 'Treatment', 'Ingredient', 'Acid', 'Medication']",5
+retinol,"['Product', 'Ingredient', 'Acid', 'Peel']",4
+revlon,"['Manufacturer', 'Brand', 'Fashion Brand', 'Store', 'Cosmetics Brand']",5
+rha,"['Other Brands', 'Others']",2
+rheumatoid arthritis,"['Condition', 'Disease', 'Joint', 'Arthritis Condition']",4
+rhinoplasty,"['Procedure', 'Facial Feature']",2
+rhubarb,"['Fruit', 'Vegetable']",2
+ribbon,"['Other Brands', 'Others']",2
+ribs,"['Body Part', 'Meat', 'Bones', 'Dish', 'Cut']",5
+rice,"['Grain', 'Color', 'Food', 'Oil', 'Vegetable', 'Dish', 'Crop', 'Beans']",8
+rich,"['Other Brands', 'Others']",2
+riesling,"['Wine', 'Variety']",2
+right,"['Poi:17', 'Concepts']",2
+rihanna,"['Celebrity', 'Artist']",2
+rimmel,"['Manufacturer', 'Brand', 'Cosmetics Brand']",3
+ring,"['Product', 'Accessory', 'Jewelry']",3
+rings,"['Accessory', 'Jewelry']",2
+ringworm,"['Condition', 'Disease', 'Infection']",3
+rit dye,"['Other Brands', 'Others']",2
+rite aid,"['Retailer', 'Brand', 'Company', 'Store']",4
+rituals,"['Other Brands', 'Others']",2
+river,"['Retailer', 'Body', 'Water Body']",3
+rock,"['Material', 'Genre']",2
+rodan and fields,"['Manufacturer', 'Brand']",2
+roen,"['Other Brands', 'Others']",2
+rogers,"['Other Brands', 'Others']",2
+rohto,"['Manufacturer', 'Brand', 'Company']",3
+root beer,"['Fruit', 'Flavor', 'Drink']",3
+rosacea,"['Treatment', 'Condition']",2
+rose,"['Oil', 'Tattoo', 'Plant', 'Flower']",4
+rose gold,"['Color', 'Metal']",2
+rose oil,"['Ingredient', 'Oil']",2
+rose perfume,"['Oil', 'Scent']",2
+rose quartz,"['Color', 'Stone']",2
+rosehip,"['Ingredient', 'Oil']",2
+rosehip oil,"['Ingredient', 'Fruit', 'Oil']",3
+rosehip seed oil,"['Ingredient', 'Oil']",2
+rosemary,"['Ingredient', 'Oil', 'Herb']",3
+rosemary oil,"['Ingredient', 'Oil']",2
+roses,"['Retailer', 'Color', 'Flower']",3
+rosewood,"['Species', 'Tree', 'Hotel Chain']",3
+round,"['Shape', 'Geometric Shape']",2
+round brush,"['Brush', 'Tool']",2
+round eyes,"['Color', 'Shape', 'Trend']",3
+round face,"['Face', 'Shape']",2
+ruby,"['Material', 'Stone']",2
+rugby,"['Activity', 'Sport']",2
+rush,"['Healthcare Company', 'School', 'Hospital', 'Institution']",4
+safeway,"['Retailer', 'Store']",2
+sage,"['Ingredient', 'Company', 'Oil', 'Tea', 'Spice', 'Herb']",6
+sagging skin,"['Sign', 'Condition']",2
+saint laurent,"['Brand', 'Fashion Brand']",2
+saint makeup,"['Other Brands', 'Others']",2
+sake,"['Fish', 'Ingredient', 'Beverage']",3
+sakura,"['Other Brands', 'Others']",2
+salicylic,"['Ingredient', 'Acid']",2
+salicylic acid,"['Product', 'Ingredient', 'Acid']",3
+sally,"['Other Brands', 'Others']",2
+sally beauty,"['Brand', 'Store']",2
+sally beauty supply,"['Brand', 'Store']",2
+sally hansen,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+salmon,"['Fish', 'Food', 'Species', 'Seafood']",4
+salonpas,"['Product', 'Drug Brand']",2
+salt,"['Product', 'Ingredient', 'Color', 'Food', 'Oil', 'Vegetable', 'Spice', 'Dish']",8
+salve,"['Product', 'Form']",2
+sam's club,"['Retailer', 'Company', 'Store', 'Retail Store']",4
+samsonite,"['Brand', 'Fashion Brand']",2
+samsung,"['Retailer', 'Brand', 'Company', 'Store', 'Eletronics Brand', 'Appliance Brand', 'Site', 'Device']",8
+samsung galaxy,"['Company', 'Device']",2
+sandalwood,"['Product', 'Ingredient', 'Oil', 'Herb']",4
+sandwich,"['Food', 'Sauce', 'Dish']",3
+sanitizer,"['Product', 'Drug']",2
+santa maria novella,"['Retailer', 'Store']",2
+santal 33,"['Scent', 'Fragrance']",2
+satin,"['Fabric', 'Fabric Type', 'Paper Finish']",3
+saturated,"['Nutrient', 'Metal', 'Mineral']",3
+saturday skin,"['Other Brands', 'Others']",2
+sausage,"['Food', 'Meat', 'Recipe']",3
+sauvignon,"['Wine', 'Variety']",2
+savers,"['Retailer', 'Store']",2
+scabies,"['Condition', 'Disease', 'Infection', 'Insect']",4
+scallops,"['Species', 'Seafood']",2
+scalp,"['Body Part', 'Place', 'Site']",3
+scalp psoriasis,"['Condition', 'Disease', 'Form']",3
+scaly skin,"['Symptom', 'Color']",2
+scar removal,"['Procedure', 'Treatment', 'Condition']",3
+scar treatment,"['Treatment', 'Condition']",2
+scarring,"['Symptom', 'Disease', 'Complication']",3
+scars,"['Treatment', 'Sign', 'Condition', 'Skin Condition']",4
+scentsy,"['Company', 'Group 2']",2
+schick,"['Brand', 'Company']",2
+sciatica,"['Body Part', 'Symptom', 'Condition']",3
+science,"['Field', 'Discipline']",2
+screen,"['Accessory', 'Device', 'Component', 'Computer Part']",4
+scrotum,"['Body Part', 'Structure', 'Organ']",3
+scruff,"['Other Brands', 'Others']",2
+sculptra,"['Procedure', 'Treatment', 'Filler']",3
+sea,"['Body', 'Water Body']",2
+sebaceous cyst,"['Lesion', 'Tumor']",2
+sebaceous hyperplasia,"['Condition', 'Lesion']",2
+sebamed,"['Manufacturer', 'Brand']",2
+seborrheic,"['Condition', 'Form']",2
+seeds,"['Food', 'Crop']",2
+selenium,"['Nutrient', 'Metal', 'Mineral', 'Antioxidant']",4
+selenium sulfide,"['Ingredient', 'Drug']",2
+selsun blue,"['Brand', 'Drug Brand']",2
+seltzer,"['Other Brands', 'Others']",2
+senior,"['Person', 'Player']",2
+sensitive,"['Product', 'Condition']",2
+sensitive skin,"['Treatment', 'Condition', 'Skin Condition', 'Skin', 'Skin Type']",5
+sensitive teeth,"['Procedure', 'Symptom', 'Condition', 'Disease']",4
+sensodyne,"['Brand', 'Drug Brand', 'Toothpaste']",3
+sephora,"['Manufacturer', 'Retailer', 'Brand', 'Company', 'Store', 'Group 5', 'Group 3', 'Poi:196', 'Group 6']",9
+serum,"['Product', 'Body Part', 'Skin Care Product', 'Fluid', 'Skin Care']",5
+sesame,"['Oil', 'Crop']",2
+sesame oil,"['Ingredient', 'Oil']",2
+setting powder,"['Product', 'Powder']",2
+seventh generation,"['Manufacturer', 'Brand', 'Company']",3
+sexy,"['Other Brands', 'Others']",2
+shape,"['Information', 'Element', 'Characteristic']",3
+shark,"['Fish', 'Animal', 'Brand', 'Design']",4
+sharp,"['Brand', 'Company', 'Store', 'Eletronics Brand']",4
+sharper image,"['Retailer', 'Store']",2
+shaving,"['Brand', 'Method', 'Razor']",3
+shea butter,"['Ingredient', 'Fruit', 'Oil', 'Nut']",4
+shea moisture,"['Manufacturer', 'Brand']",2
+sheep,"['Material', 'Animal']",2
+sheer,"['Other Brands', 'Others']",2
+shein,"['Retailer', 'Store']",2
+shell,"['Company', 'Store']",2
+shin bone,"['Body Part', 'Bones']",2
+shiner,"['Other Brands', 'Others']",2
+shiseido,"['Manufacturer', 'Brand', 'Store']",3
+shopee,"['Brand', 'Company']",2
+shops,"['Amenity', 'Facility']",2
+short hair,"['Style', 'Hairstyle', 'Symbol']",3
+short hair cut,"['Style', 'Hairstyle']",2
+short haircuts,"['Style', 'Hairstyle']",2
+short hairstyles,"['Style', 'Hairstyle']",2
+shoulder,"['Procedure', 'Product', 'Body Part', 'Symptom', 'Condition', 'Tattoo', 'Injury', 'Bones', 'Technique', 'Joint', 'Muscles', 'Body', 'Workout']",13
+shoulder length hair,"['Style', 'Hairstyle']",2
+shoulder pain,"['Symptom', 'Condition', 'Injury']",3
+shoulders,"['Body Part', 'Animal', 'Symptom', 'Condition', 'Joint', 'Body']",6
+shower,"['Product', 'Fabric', 'Place', 'Amenity', 'Facility', 'Appliance', 'Room']",7
+shrek,"['Other Brands', 'Others']",2
+shrimp,"['Fish', 'Food', 'Species', 'Dish', 'Seafood']",5
+side part,"['Style', 'Hairstyle']",2
+sideburns,"['Body Part', 'Facial Feature']",2
+silica,"['Material', 'Mineral', 'Element']",3
+silicate,"['Compound', 'Mineral']",2
+silicone,"['Material', 'Alkyl Group']",2
+silk,"['Material', 'Brand', 'Fabric', 'Yarn', 'Fabric Type']",5
+silver,"['Material', 'Nutrient', 'Color', 'Fruit', 'Metal', 'Species', 'Compound', 'Stone', 'Glitter', 'Trait', 'Element']",11
+silver glitter,"['Color', 'Glitter']",2
+silver hair,"['Color', 'Sign', 'Hair']",3
+simple green,"['Brand', 'Cleaner']",2
+sinus infection,"['Condition', 'Disease', 'Infection']",3
+sio beauty,"['Other Brands', 'Others']",2
+size,"['Information', 'Characteristic']",2
+sjogren's syndrome,"['Condition', 'Disease']",2
+sk2,"['Brand', 'Store', 'Deviantart']",3
+skii,"['Brand', 'Store']",2
+skin,"['Procedure', 'Product', 'Body Part', 'Symptom', 'Condition', 'Piercing', 'Tattoo', 'Disease', 'Infection', 'Organ', 'Cancer', 'Defect', 'Tumor']",13
+skin & co,"['Other Brands', 'Others']",2
+skin allergy,"['Food', 'Condition', 'Allergy']",3
+skin cancer,"['Condition', 'Disease', 'Cancer']",3
+skin care,"['Product', 'Body Part', 'Service', 'Facial Feature', 'Face', 'Organ']",6
+skin fade,"['Style', 'Hairstyle']",2
+skin fix,"['Other Brands', 'Others']",2
+skin gym,"['Other Brands', 'Others']",2
+skin infection,"['Condition', 'Disease', 'Infection']",3
+skin medica,"['Manufacturer', 'Brand']",2
+skin resurfacing,"['Procedure', 'Treatment', 'Condition']",3
+skin tag,"['Condition', 'Lesion']",2
+skin tags,"['Condition', 'Lesion']",2
+skin tightening,"['Procedure', 'Treatment', 'Condition']",3
+skin treatment,"['Treatment', 'Service']",2
+skinbetter,"['Other Brands', 'Others']",2
+skincare,"['Product', 'Body Part']",2
+skinceuticals,"['Manufacturer', 'Brand']",2
+skinmedica,"['Manufacturer', 'Brand']",2
+skinny,"['Style', 'Fit', 'Piece']",3
+skinny dip,"['Other Brands', 'Others']",2
+skittles,"['Brand', 'Candy']",2
+skull tattoo,"['Body Part', 'Animal', 'Design', 'Tattoo']",4
+sleek,"['Other Brands', 'Others']",2
+sleeve tattoo,"['Body Part', 'Animal', 'Bird', 'Tattoo']",4
+slippers,"['Accessory', 'Shoe']",2
+smart,"['Company', 'Car Make', 'Transit Agency', 'Tv Type']",4
+smashbox,"['Manufacturer', 'Brand', 'Store']",3
+smile lines,"['Body Part', 'Wrinkle', 'Line']",3
+smiths,"['Other Brands', 'Others']",2
+snake,"['Animal', 'Design', 'Tattoo']",3
+snake tattoo,"['Design', 'Tattoo']",2
+snapchat,"['Company', 'Platform', 'Site', 'Tv Network', 'App']",5
+snickers,"['Brand', 'Candy']",2
+snow,"['Other Brands', 'Others']",2
+snow white,"['Brand', 'Film']",2
+snowflake,"['Other Brands', 'Others']",2
+so delicious,"['Brand', 'Ice Cream']",2
+soap,"['Product', 'Body Part']",2
+soap & glory,"['Manufacturer', 'Brand']",2
+soap and glory,"['Manufacturer', 'Brand']",2
+soda,"['Drink', 'Beverage']",2
+sodium,"['Material', 'Nutrient', 'Metal', 'Compound', 'Mineral', 'Chemical', 'Buffer', 'Ion', 'Element']",9
+soft serve,"['Treat', 'Dessert']",2
+softsoap,"['Brand', 'Fruit']",2
+solaray,"['Manufacturer', 'Brand', 'Store']",3
+solgar,"['Brand', 'Company']",2
+solid,"['Product', 'Material']",2
+sonia kashuk,"['Brand', 'Fashion Brand']",2
+sonic,"['Brand', 'Company', 'Restaurant', 'Character']",4
+sonicare,"['Brand', 'Company']",2
+sorbet,"['Treat', 'Dessert']",2
+sore throat,"['Symptom', 'Condition']",2
+soup,"['Food', 'Meat', 'Dish', 'Recipe']",4
+sour cream,"['Product', 'Ingredient']",2
+source natural,"['Other Brands', 'Others']",2
+south beach,"['Place', 'City']",2
+soy,"['Product', 'Ingredient', 'Food', 'Vegetable', 'Nut', 'Crop']",6
+soy milk,"['Product', 'Food', 'Alternative']",3
+spa,"['Business', 'Service', 'Amenity', 'Facility']",4
+spanish,"['Language', 'Tree']",2
+spearmint,"['Oil', 'Tea', 'Herb']",3
+spectrum,"['Company', 'Healthcare Company']",2
+speedy,"['Other Brands', 'Others']",2
+spf 100,"['Sunscreen', 'Protection']",2
+spf 15,"['Must', 'Sunscreen', 'Spf', 'Bonus', 'Protection']",5
+spf 30,"['Product', 'Must', 'Sunscreen', 'Spf', 'Bonus', 'Protection']",6
+spf 40,"['Product', 'Must', 'Sunscreen', 'Spf', 'Bonus', 'Protection']",6
+spf 50,"['Product', 'Must', 'Sunscreen', 'Spf', 'Bonus', 'Protection']",6
+spinach,"['Fruit', 'Vegetable', 'Dish']",3
+spindle cell,"['Cell', 'Tumor']",2
+spine,"['Procedure', 'Product', 'Body Part', 'Condition', 'Tattoo', 'Injury', 'Bones', 'Joint', 'Body']",9
+spinning,"['Activity', 'Class']",2
+splash,"['Retailer', 'Store']",2
+sports,"['Activity', 'Hobby']",2
+sprain,"['Condition', 'Injury', 'Sport']",3
+spray,"['Product', 'Hair Product']",2
+spring,"['Flower', 'Season']",2
+squalane,"['Ingredient', 'Oil']",2
+square,"['Manufacturer', 'Shape', 'Geometric Shape']",3
+square face,"['Face', 'Shape']",2
+star,"['Airlines', 'Car Make']",2
+star wars,"['Movie', 'Film']",2
+starbucks,"['Brand', 'Company', 'Restaurant', 'Group 11', 'Poi:196']",5
+start,"['Other Brands', 'Others']",2
+steak,"['Food', 'Sauce', 'Meat', 'Dish', 'Recipe']",5
+steel,"['Material', 'Color', 'Metal', 'Mineral']",4
+sterling silver,"['Material', 'Metal', 'Jewelry Type']",3
+steroids,"['Drug', 'Medication']",2
+steve madden,"['Brand', 'Fashion Brand']",2
+stila,"['Manufacturer', 'Brand']",2
+stomach,"['Procedure', 'Body Part', 'Symptom', 'Condition', 'Disease', 'Infection', 'Organ', 'Cancer', 'Tumor']",9
+stomach fat,"['Body Part', 'Fat']",2
+stone,"['Material', 'Mineral', 'Rock']",3
+stool softener,"['Drug Brand', 'Medication']",2
+straight,"['Hair Type', 'Hairstyle', 'Texture']",3
+straight hair,"['Color', 'Hair Type', 'Hair', 'Trait', 'Hairstyle', 'Wig']",6
+straightening,"['Treatment', 'Service']",2
+strawberries,"['Fruit', 'Vegetable']",2
+strawberry,"['Color', 'Food', 'Fruit', 'Flavor', 'Drink', 'Tea', 'Dessert', 'Herb', 'Liqueur']",9
+strawberry ice cream,"['Flavor', 'Dessert']",2
+stress,"['Symptom', 'Condition', 'Disorder', 'Disease', 'Emotion']",5
+stretch marks,"['Treatment', 'Sign', 'Condition', 'Scar']",4
+strivectin,"['Manufacturer', 'Brand']",2
+stroke,"['Condition', 'Disorder', 'Disease', 'Injury']",4
+studio makeup,"['Other Brands', 'Others']",2
+stye,"['Condition', 'Disease']",2
+style,"['Information', 'Element', 'Characteristic']",3
+suave,"['Brand', 'Fruit']",2
+suavecito,"['Brand', 'Pomade']",2
+subway,"['Company', 'Restaurant', 'Group 15', 'Chain']",4
+suede,"['Material', 'Fabric']",2
+sugar,"['Product', 'Ingredient', 'Food', 'Fruit', 'Sweetener']",5
+sugar free,"['Food', 'Diet', 'Claim']",3
+sulfacleanse,"['Brand', 'Drug Brand']",2
+sulfate,"['Nutrient', 'Anion', 'Compound', 'Mineral', 'Chemical']",5
+sulfur,"['Nutrient', 'Metal', 'Compound', 'Mineral', 'Chemical', 'Element', 'Gas']",7
+sulphur,"['Nutrient', 'Mineral', 'Element']",3
+sulwhasoo,"['Manufacturer', 'Brand', 'Store']",3
+summer,"['Flower', 'Season']",2
+summer's eve,"['Brand', 'Drug Brand', 'Cream']",3
+sun,"['Other Brands', 'Others']",2
+sun tattoo,"['Animal', 'Design', 'Tattoo']",3
+sunday riley,"['Manufacturer', 'Brand', 'Store']",3
+sunflower,"['Oil', 'Crop']",2
+sunflower oil,"['Ingredient', 'Oil']",2
+sunscreen,"['Product', 'Body Part', 'Skin Care Product']",3
+super c,"['Retailer', 'Store']",2
+super dry,"['Other Brands', 'Others']",2
+surface shampoo,"['Other Brands', 'Others']",2
+surgeon,"['Professional', 'Specialist']",2
+surgery,"['Treatment', 'Service', 'Medical Treatment']",3
+surgery scars,"['Condition', 'Scar']",2
+surgical scars,"['Condition', 'Scar']",2
+swarovski,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+swatch,"['Brand', 'Fruit']",2
+sweating,"['Symptom', 'Condition']",2
+swedish,"['Healthcare Company', 'Technique', 'Language', 'Hospital']",4
+sweet,"['Product', 'Herb']",2
+sweet pea,"['Plant', 'Flower']",2
+sweet potato,"['Food', 'Vegetable']",2
+swelling,"['Symptom', 'Complication']",2
+swimming,"['Activity', 'Sport']",2
+swiss,"['Airlines', 'Cheese']",2
+swiss navy,"['Brand', 'Lubricant']",2
+swollen gums,"['Symptom', 'Sign']",2
+symptoms,"['Aspect', 'Condition', 'Information', 'Health Issue']",4
+synthetic wig,"['Product', 'Hairstyle', 'Wig']",3
+syphilis,"['Disease', 'Infection']",2
+t blade,"['Other Brands', 'Others']",2
+tablet,"['Device', 'Electronic Device']",2
+tail,"['Body Part', 'Condition', 'Tattoo']",3
+talenti,"['Brand', 'Ice Cream']",2
+tan,"['Color', 'Fruit']",2
+tan skin,"['Trait', 'Skin']",2
+target,"['Manufacturer', 'Retailer', 'Brand', 'Fashion Brand', 'Color', 'Company', 'Store', 'Site', 'Tv Network', 'Healthcare Company', 'Retail Store', 'Group 5', 'Group 12', 'Group 3', 'Group 1']",15
+tartar,"['Procedure', 'Condition', 'Disease']",3
+tarte,"['Manufacturer', 'Retailer', 'Brand', 'Store']",4
+taste,"['Other Brands', 'Others']",2
+tata harper,"['Manufacturer', 'Brand']",2
+tatcha,"['Manufacturer', 'Brand']",2
+tate,"['Other Brands', 'Others']",2
+tattoo designs,"['Body Part', 'Animal', 'Bird', 'Design', 'Tattoo']",5
+tattoo ideas,"['Body Part', 'Design', 'Tattoo']",3
+taylor,"['Brand', 'Celebrity']",2
+taylor swift,"['Celebrity', 'Artist']",2
+tazarotene,"['Product', 'Medication', 'Retinoid']",3
+tazorac,"['Product', 'Drug Brand', 'Medication', 'Retinoid']",4
+tca peel,"['Ingredient', 'Acid', 'Peel']",3
+tea,"['Product', 'Drink', 'Beverage', 'Stain']",4
+tea tree,"['Product', 'Ingredient', 'Oil', 'Herb']",4
+tea tree oil,"['Product', 'Ingredient', 'Oil']",3
+teal,"['Color', 'Oil']",2
+ted,"['Other Brands', 'Others']",2
+ted baker,"['Brand', 'Fashion Brand']",2
+teens,"['Person', 'Life Stage']",2
+teeth whitening,"['Procedure', 'Service']",2
+temple,"['Healthcare Company', 'School']",2
+tempura,"['Food', 'Dish']",2
+tendon,"['Tissue', 'Condition', 'Organ']",3
+terramycin,"['Drug Brand', 'Antibiotic']",2
+testicular,"['Organ', 'Cancer', 'Tumor']",3
+thai,"['Cuisine', 'Language']",2
+thanksgiving,"['Event', 'Holiday']",2
+the face shop,"['Retailer', 'Store']",2
+the north face,"['Retailer', 'Sports Brand']",2
+therabreath,"['Product', 'Brand', 'Lozenge']",3
+thermage,"['Procedure', 'Treatment']",2
+thick,"['Hair Type', 'Hairstyle']",2
+thick hair,"['Hair Type', 'Hair', 'Hair Problem', 'Trait', 'Hairstyle']",5
+thierry mugler,"['Brand', 'Fashion Brand']",2
+thigh,"['Procedure', 'Product', 'Body Part', 'Animal', 'Symptom', 'Condition', 'Tattoo', 'Place', 'Style', 'Bones', 'Joint', 'Body']",12
+thighs,"['Procedure', 'Body Part', 'Condition', 'Problem Area', 'Body']",5
+thin hair,"['Condition', 'Hair Type', 'Hair', 'Hair Problem', 'Trait', 'Hairstyle']",6
+thinning hair,"['Symptom', 'Condition', 'Hair', 'Hair Problem']",4
+third,"['Toe', 'Fraction']",2
+thoracic,"['Condition', 'Cancer', 'Location', 'Region']",4
+threading,"['Treatment', 'Method', 'Service']",3
+thrive causemetics,"['Other Brands', 'Others']",2
+thrive cosmetics,"['Other Brands', 'Others']",2
+throat,"['Body Part', 'Symptom', 'Condition', 'Facial Feature', 'Disease', 'Infection', 'Site', 'Organ', 'Cancer', 'Location']",10
+thyroid,"['Condition', 'Structure', 'Disease', 'Hormone', 'Organ', 'Cancer', 'Tumor', 'Gland']",8
+tiger,"['Animal', 'Retailer', 'Store', 'Design', 'Tattoo']",5
+tiger balm,"['Product', 'Drug Brand']",2
+tin,"['Material', 'Color', 'Metal', 'Element']",4
+tinactin,"['Medication', 'Cream']",2
+tincture,"['Product', 'Form']",2
+tinea,"['Condition', 'Infection']",2
+tinea versicolor,"['Condition', 'Infection']",2
+titanium,"['Material', 'Color', 'Metal', 'Element']",4
+titanium dioxide,"['Ingredient', 'Mineral']",2
+tj maxx,"['Retailer', 'Store']",2
+tmj,"['Body Part', 'Condition', 'Joint']",3
+toe,"['Body Part', 'Condition', 'Joint', 'Detail', 'Sock Style']",5
+toes,"['Body Part', 'Condition', 'Joint']",3
+toffee,"['Food', 'Flavor']",2
+tofu,"['Product', 'Food', 'Dish']",3
+tokyo,"['City', 'School']",2
+tom,"['Celebrity', 'Actor']",2
+tom ford,"['Manufacturer', 'Brand', 'Fashion Brand', 'Designer']",4
+tom's of maine,"['Brand', 'Toothpaste']",2
+tomato,"['Ingredient', 'Food', 'Fruit', 'Vegetable', 'Sauce', 'Spice', 'Crop']",7
+tommy bahama,"['Brand', 'Fashion Brand']",2
+tommy hilfiger,"['Brand', 'Fashion Brand']",2
+toms,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+toner,"['Product', 'Skin Care Product']",2
+tongue,"['Body Part', 'Tissue', 'Symptom', 'Condition', 'Piercing', 'Site', 'Organ', 'Cancer']",8
+tonic,"['Other Brands', 'Others']",2
+toning,"['Product', 'Step']",2
+tonsillitis,"['Disease', 'Infection']",2
+too faced,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+tooletries,"['Other Brands', 'Others']",2
+tooth decay,"['Procedure', 'Symptom', 'Condition', 'Disease']",4
+tooth extraction,"['Procedure', 'Service']",2
+top,"['Product', 'Place', 'School', 'Piece', 'Clothing']",5
+top 10,"['Award', 'List']",2
+topical,"['Form', 'Route', 'Dosage Form']",3
+topical antibiotics,"['Treatment', 'Drug']",2
+topical retinoids,"['Treatment', 'Drug']",2
+tory burch,"['Brand', 'Fashion Brand', 'Designer']",3
+tote,"['Product', 'Bag']",2
+totes,"['Brand', 'Accessory']",2
+trader joe's,"['Retailer', 'Company', 'Store', 'Retail Store']",4
+trader joes,"['Retailer', 'Store']",2
+travel bag,"['Product', 'Bag']",2
+travis scott,"['Other Brands', 'Others']",2
+treat lip balm,"['Other Brands', 'Others']",2
+treatment,"['Service', 'Aspect', 'Condition', 'Disease', 'Information', 'Health Issue']",6
+tremor,"['Symptom', 'Disorder']",2
+trendy,"['Other Brands', 'Others']",2
+tretinoin,"['Product', 'Treatment', 'Ingredient', 'Medication', 'Retinoid']",5
+tri luma,"['Brand', 'Drug Brand']",2
+triamcinolone,"['Steroid', 'Corticosteroid']",2
+triangle face,"['Face', 'Shape']",2
+tricho,"['Other Brands', 'Others']",2
+trim,"['Information', 'Component']",2
+trimmer,"['Tool', 'Equipment']",2
+triple paste,"['Brand', 'Cream']",2
+trish mcevoy,"['Manufacturer', 'Brand']",2
+truck,"['Vehicle', 'Vehicle Type']",2
+true,"['Other Brands', 'Others']",2
+tsum tsum,"['Other Brands', 'Others']",2
+tulip,"['Tattoo', 'Flower']",2
+tumi,"['Brand', 'Fashion Brand']",2
+tummy,"['Procedure', 'Body Part', 'Symptom', 'Problem Area', 'Body']",5
+tuna,"['Fish', 'Species']",2
+tungsten,"['Material', 'Metal']",2
+turkey hill,"['Brand', 'Company', 'Store', 'Ice Cream']",4
+turmeric,"['Ingredient', 'Fruit', 'Oil', 'Vegetable', 'Tea', 'Spice', 'Herb']",7
+turmeric powder,"['Ingredient', 'Spice']",2
+turquoise,"['Color', 'Stone']",2
+turtle,"['Animal', 'Design']",2
+tutti frutti,"['Other Brands', 'Others']",2
+tylenol,"['Product', 'Brand', 'Drug Brand', 'Antihistamine', 'Drug', 'Medication', 'Lozenge']",7
+tyler,"['Other Brands', 'Others']",2
+type,"['Information', 'Element', 'Characteristic']",3
+type 2,"['Disease', 'Form']",2
+type 4,"['Disease', 'Form']",2
+ube,"['Other Brands', 'Others']",2
+ugg,"['Retailer', 'Brand', 'Fashion Brand']",3
+uk,"['Country', 'School']",2
+ulcer,"['Condition', 'Disease']",2
+ulcers,"['Symptom', 'Condition', 'Disease']",3
+ulta,"['Manufacturer', 'Retailer', 'Brand', 'Fashion Brand', 'Company', 'Store', 'Healthcare Company', 'Cosmetics Brand', 'Poi:196']",9
+ulta beauty,"['Manufacturer', 'Brand', 'Store']",3
+ultherapy,"['Procedure', 'Treatment', 'Condition']",3
+ultrasound,"['Procedure', 'Treatment', 'Modality', 'Test']",4
+un,"['Other Brands', 'Others']",2
+underarm,"['Body Part', 'Service', 'Condition', 'Facial Feature', 'Sensitive Area', 'Body Wax']",6
+underarms,"['Product', 'Body Part', 'Sensitive Area']",3
+underwear,"['Product', 'Piece', 'Clothing']",3
+unilever,"['Manufacturer', 'Brand', 'Company', 'Cosmetics Brand', 'Food Manufacturer']",5
+upper,"['Material', 'Information', 'Component']",3
+upper back,"['Body Part', 'Condition', 'Tattoo', 'Body']",4
+upper lip,"['Body Part', 'Piercing', 'Facial Feature']",3
+urban decay,"['Manufacturer', 'Brand', 'Cosmetics Brand']",3
+urban outfitters,"['Retailer', 'Brand', 'Fashion Brand', 'Store']",4
+urea,"['Product', 'Fertilizer', 'Test']",3
+uti,"['Condition', 'Disease', 'Infection']",3
+uv,"['Other Brands', 'Others']",2
+v foundation,"['Other Brands', 'Others']",2
+vagina,"['Body Part', 'Organ', 'Cancer']",3
+vaginal,"['Risk Factor', 'Condition', 'Organ', 'Cancer', 'Route']",5
+vagisil,"['Brand', 'Drug Brand', 'Cream']",3
+valentine's day,"['Occasion', 'Event', 'Holiday']",3
+valentines day,"['Occasion', 'Holiday']",2
+valentino,"['Brand', 'Fashion Brand', 'Designer']",3
+valley,"['Place', 'Environment Terrain']",2
+vampire,"['Costume', 'Creature']",2
+van,"['Vehicle', 'Vehicle Type']",2
+vanicream,"['Manufacturer', 'Brand']",2
+vanilla,"['Product', 'Color', 'Food', 'Fruit', 'Oil', 'Flavor', 'Spice', 'Dessert']",8
+vaseline,"['Manufacturer', 'Brand', 'Drug Brand', 'Company', 'Fruit', 'Group 13', 'Group 12', 'Group 3', 'Group 7', 'Group 2']",10
+vegan,"['Food', 'Diet']",2
+vegetable,"['Food', 'Vegetable', 'Meat', 'Dish']",4
+vegetables,"['Food', 'Dish', 'Crop', 'Recipe']",4
+velvet,"['Material', 'Fabric']",2
+venus,"['Brand', 'Fashion Brand', 'Resort Hotel']",3
+venus freeze,"['Procedure', 'Treatment']",2
+vera bradley,"['Brand', 'Fashion Brand']",2
+verbena,"['Plant', 'Herb']",2
+versace,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+very,"['Retailer', 'Store']",2
+vi peel,"['Ingredient', 'Acid', 'Peel']",3
+vichy,"['Manufacturer', 'Brand']",2
+vicks,"['Product', 'Brand', 'Drug Brand', 'Medication', 'Lozenge']",5
+vicks vaporub,"['Drug Brand', 'Medication']",2
+victoria,"['Other Brands', 'Others']",2
+victoria secret,"['Manufacturer', 'Brand', 'Fashion Brand', 'Fruit']",4
+viking,"['Brand', 'Cruise Line']",2
+vinegar,"['Product', 'Ingredient', 'Food', 'Oil', 'Spice']",5
+vinyl,"['Material', 'Fabric']",2
+violet,"['Color', 'Flower']",2
+virgin,"['Airlines', 'Cuisine', 'Hair Extension']",3
+virginia,"['Team', 'State']",2
+vit,"['Other Brands', 'Others']",2
+vital proteins,"['Other Brands', 'Others']",2
+vitamin b,"['Nutrient', 'Vitamin', 'Antioxidant']",3
+vitamin b12,"['Nutrient', 'Metal', 'Vitamin']",3
+vitamin b5,"['Nutrient', 'Vitamin', 'Antioxidant']",3
+vitamin c,"['Nutrient', 'Mineral', 'Vitamin', 'Antioxidant']",4
+vitamin c cream,"['Product', 'Ingredient']",2
+vitamin c serum,"['Product', 'Ingredient']",2
+vitamin d,"['Nutrient', 'Metal', 'Mineral', 'Vitamin', 'Antioxidant']",5
+vitamin d3,"['Nutrient', 'Mineral', 'Vitamin', 'Form']",4
+vitamin e,"['Nutrient', 'Mineral', 'Vitamin', 'Antioxidant']",4
+vitamin e oil,"['Ingredient', 'Oil']",2
+vitamin k,"['Nutrient', 'Metal', 'Vitamin']",3
+vitamin shoppe,"['Retailer', 'Brand', 'Store']",3
+vitamins,"['Nutrient', 'Mineral', 'Antioxidant', 'Pathway']",4
+volt,"['Other Brands', 'Others']",2
+voltaren,"['Drug', 'Medication']",2
+voluma,"['Procedure', 'Treatment', 'Filler']",3
+voluspa,"['Brand', 'Store']",2
+vomiting,"['Symptom', 'Condition']",2
+vulva,"['Body Part', 'Condition', 'Organ', 'Cancer']",4
+vulvar,"['Organ', 'Cancer']",2
+waffles,"['Food', 'Dish']",2
+waist,"['Body Part', 'Condition', 'Tattoo', 'Joint']",4
+walgreens,"['Manufacturer', 'Retailer', 'Brand', 'Color', 'Company', 'Store', 'Site', 'Healthcare Company', 'Retail Store']",9
+walking,"['Activity', 'Shoe', 'Sport', 'Dog Service']",4
+wall,"['Product', 'Place', 'Cabinet', 'Surface']",4
+wallet,"['Product', 'Bag', 'Accessory']",3
+walmart,"['Manufacturer', 'Retailer', 'Brand', 'Company', 'Store', 'Site', 'Tv Network', 'Retail Store', 'Food Manufacturer']",9
+walnut,"['Color', 'Fruit', 'Species', 'Tree', 'Nut']",5
+warrior,"['Brand', 'Sports Brand']",2
+wart removal,"['Procedure', 'Condition']",2
+warts,"['Condition', 'Disease', 'Infection', 'Lesion']",4
+washer,"['Appliance', 'Home Appliance']",2
+washing,"['Method', 'Laundry']",2
+washing machine,"['Amenity', 'Appliance', 'Home Appliance']",3
+washington,"['Team', 'City', 'State']",3
+watch,"['Product', 'Accessory']",2
+water,"['Information', 'Resource', 'Forms Of Water']",3
+water based,"['Finish', 'Primer']",2
+watercolor,"['Material', 'Medium']",2
+watermelon,"['Fruit', 'Herb']",2
+waterpik,"['Brand', 'Company']",2
+watson,"['Manufacturer', 'Healthcare Company']",2
+wave,"['Accounting Software', 'Software']",2
+wavy,"['Hair Type', 'Hair', 'Hairstyle']",3
+wavy hair,"['Color', 'Hair Type', 'Hair', 'Trait', 'Hairstyle', 'Wig']",6
+wawa,"['Brand', 'Company']",2
+waxing,"['Treatment', 'Method', 'Service']",3
+website,"['Technology', 'Information']",2
+wedding,"['Occasion', 'Special Occasion', 'Event', 'Stone', 'Dress', 'Flower', 'Holiday']",7
+wedges,"['Shoe', 'Club']",2
+week,"['Event', 'Period']",2
+weeks,"['Event', 'Period']",2
+weft hair extensions,"['Method', 'Extension']",2
+weight loss,"['Symptom', 'Condition', 'Disorder']",3
+weleda,"['Manufacturer', 'Brand', 'Company', 'Toothpaste']",4
+wella,"['Manufacturer', 'Brand', 'Cosmetics Brand']",3
+wendy's,"['Brand', 'Company', 'Restaurant']",3
+werewolf,"['Costume', 'Creature']",2
+western,"['School', 'Genre', 'Region']",3
+wet,"['Product', 'Method', 'Condition', 'Skin Type']",4
+wet n wild,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+wheel,"['Component', 'Vehicle Part']",2
+whey protein,"['Protein', 'Supplement', 'Amino Acid']",3
+whipping cream,"['Product', 'Food']",2
+whiskers,"['Other Brands', 'Others']",2
+white,"['Color', 'Food', 'Sweetener', 'Oil', 'Flavor', 'Metal', 'Species', 'Drink', 'Vegetable', 'Sauce', 'Tea', 'Spice', 'Stone', 'Dress', 'Dessert', 'Tree', 'Herb', 'Crop', 'Flower']",19
+white chocolate,"['Ingredient', 'Flavor']",2
+white gold,"['Color', 'Metal']",2
+white hair,"['Sign', 'Trait']",2
+white spot,"['Other Brands', 'Others']",2
+whiteheads,"['Lesion', 'Acne Type', 'Acne', 'Skin Problem']",4
+whitening,"['Procedure', 'Treatment', 'Service']",3
+whole foods,"['Manufacturer', 'Retailer', 'Brand', 'Fashion Brand', 'Company', 'Store', 'Cosmetics Brand', 'Retail Store', 'Group 5', 'Group 11', 'Group 4', 'Group 9']",12
+wholesale,"['Industry', 'Sector']",2
+wilson,"['Brand', 'Sports Brand']",2
+wimbledon,"['Event', 'City']",2
+windows,"['Company', 'Platform', 'Device', 'Operating System']",4
+wine,"['Drink', 'Beverage', 'Stain']",3
+wink,"['Other Brands', 'Others']",2
+winter,"['Flower', 'Season']",2
+wirecutter,"['Other Brands', 'Others']",2
+wired,"['Other Brands', 'Others']",2
+wispy bangs,"['Hairstyle', 'Bangs']",2
+witch,"['Costume', 'Creature']",2
+witch hazel,"['Ingredient', 'Oil']",2
+wolf,"['Animal', 'Design', 'Tattoo']",3
+woman,"['Person', 'Gender']",2
+women,"['Person', 'Gender', 'Size Category']",3
+women's health,"['Service', 'Magazine']",2
+woodwick,"['Brand', 'Store']",2
+wool,"['Material', 'Fabric', 'Yarn']",3
+works,"['Retailer', 'Store']",2
+wrinkles,"['Symptom', 'Sign', 'Condition']",3
+xxl,"['Retailer', 'Store', 'Size']",3
+xylitol,"['Sweetener', 'Sugar Alcohol']",2
+yam,"['Vegetable', 'Crop']",2
+yankee candle,"['Brand', 'Store']",2
+yarn,"['Material', 'Fabric']",2
+yasmin,"['Drug Brand', 'Pill']",2
+year,"['Event', 'Information', 'Period']",3
+yeast infection,"['Condition', 'Disease', 'Infection']",3
+yellow,"['Brand', 'Color', 'Species', 'Stone', 'Dress', 'Herb', 'Crop', 'Peel', 'Flower']",9
+yerba mate,"['Tea', 'Herb']",2
+yoghurt,"['Product', 'Food']",2
+yogurt,"['Product', 'Ingredient', 'Food']",3
+you tube,"['Retailer', 'Company', 'Store', 'Site', 'Tv Network', 'Group 7']",6
+young living,"['Brand', 'Company']",2
+younique,"['Brand', 'Company']",2
+youth,"['Person', 'Size Category', 'Age Group']",3
+youtube,"['Retailer', 'Service', 'Company', 'Store', 'Site', 'Tv Network', 'App', 'Group 5', 'Group 12', 'Search Engine', 'Group 1']",11
+ysl,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+yttp,"['Other Brands', 'Others']",2
+yves saint laurent,"['Manufacturer', 'Brand', 'Fashion Brand']",3
+zara,"['Manufacturer', 'Retailer', 'Brand', 'Fashion Brand', 'Company', 'Store', 'Group 5']",7
+zero,"['Car Make', 'Automotive Business']",2
+zest,"['Brand', 'Fruit']",2
+zinc,"['Material', 'Nutrient', 'Metal', 'Compound', 'Mineral', 'Vitamin', 'Element', 'Antioxidant']",8
+zinnia,"['Plant', 'Flower']",2
+zo skin health,"['Manufacturer', 'Brand']",2
+zyrtec,"['Product', 'Drug Brand', 'Antihistamine', 'Medication']",4
